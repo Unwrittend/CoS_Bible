@@ -35,7 +35,7 @@ Draw on each NPC's established characterization: \[PASTE KEY TRAITS FROM THEIR P
 
   
 
-Voice reference: \[e.g., Dragnacarta's Gertruda / Mad Mary broken-grief register\].
+Voice reference: \[e.g., Dragnacarta's [Gertruda](npcs/gertruda-stiegler.md) / [Mad Mary](npcs/mad-mary.md) broken-grief register\].
 
   
 

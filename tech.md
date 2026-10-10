@@ -11,7 +11,7 @@ nav_order: 92
   
 
   - **Platform:** Foundry VTT V14
-  - **Campaign module:** ClayGolem's *Curse of Strahd* adventure module
+  - **Campaign module:** ClayGolem's *Curse of [Strahd](npcs/strahd-von-zarovich.md)* adventure module
   - **Character import:** DDB-Importer by MrPrimate (D&D Beyond integration)
   - **Lighting:** Torch / Drop My Torch modules (lighting macros)
   - **Network:** Configured to support simultaneous local (LAN) and remote players

@@ -19,7 +19,7 @@ nav_order: 5
 
   
 
-  - Belinda speaks to her
+  - [Belinda](../items.md#belinda) speaks to her
 
   
 
@@ -38,4 +38,18 @@ nav_order: 5
 
   
 
-  - Session 1.5b - Gives Blinda to Theren
+  - [Session 1.5b](../sessions/s01-5b.md) - Gives Belinda to [Theren](../pcs/theren.md)
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 1.5b – A Mother's Grief](../sessions/s01-5b.md)
+- [Session 2.5a – Rumors, Tall-Tales, There Must Be a Strahd of Truth...](../sessions/s02-5a.md)
+- [Key Items](../items.md)
+- [Session 9 prep (superseded)](../archive/s09-prep.md)
+- [Prompt templates](../templates.md)
+
+<!-- backlinks:end -->

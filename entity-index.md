@@ -60,10 +60,10 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Stella Watcher | Stella | [npcs/stella-watcher.md](npcs/stella-watcher.md) | mixed | 10 |
 | Strahd von Zarovich | Strahd, The Devil Strahd | [npcs/strahd-von-zarovich.md](npcs/strahd-von-zarovich.md) | mixed | 9 |
 | Strahd's Brides | Ludmilla, Anastrasya, Anastrasia, Volenta, Violetta | [npcs/strahds-brides.md](npcs/strahds-brides.md) | mixed | 9 |
-| The Martikov Family | Martikovs, Urwin, Danika | [npcs/the-martikov-family.md](npcs/the-martikov-family.md) | mixed |  |
+| The Martikov Family | Martikovs, Mordakov, Mardikov, Urwin, Danika | [npcs/the-martikov-family.md](npcs/the-martikov-family.md) | mixed |  |
 | Victor Volokovich | Victor, Victor Vallakovich | [npcs/victor-volokovich.md](npcs/victor-volokovich.md) | mixed |  |
 | Violet Larkwing |  | [npcs/violet-larkwing.md](npcs/violet-larkwing.md) | canon |  |
-| Von Richten | Rudolph van Richten, Rictavio, Alenik, Van Richten | [npcs/von-richten.md](npcs/von-richten.md) | mixed | 4 |
+| Von Richten | Rudolph van Richten, Rictavio, Alenik, Alanik, Van Richten | [npcs/von-richten.md](npcs/von-richten.md) | mixed | 4 |
 | The Woodcutter's Bride (Ludmilla) | Ludmilla Vilisevic, The Woodcutter's Bride | [npcs/woodcutters-bride.md](npcs/woodcutters-bride.md) | mixed | 10 |
 
 ## Items

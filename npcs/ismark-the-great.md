@@ -14,7 +14,7 @@ nav_order: 29
 
   
 
-**Role:** Historical figure; co-led the effort to bind Strahd in stasis; founded the beginnings of Barovian civilization
+**Role:** Historical figure; co-led the effort to bind [Strahd](strahd-von-zarovich.md) in stasis; founded the beginnings of Barovian civilization
 
   
 
@@ -22,7 +22,7 @@ nav_order: 29
 
   
 
-  - Bands together with Lugdana and the Mordakov/Mardikov family (aided by werewolf knowledge and possibly the wereravens) to bind Strahd in stasis.
+  - Bands together with [Lugdana](lugdana.md) and the [Martikov](the-martikov-family.md) family (aided by werewolf knowledge and possibly the wereravens) to bind Strahd in stasis.
   - Dies of natural causes while laying the foundations of a new civilization (i.e., the village of Barovia), rather than in direct combat like Lugdana.
   - The present-day village's persecution/hero-worship dynamic around Doru and Kolyan Indirovich is explained as blame for their ancestors' role in this historical binding.
 
@@ -31,3 +31,16 @@ nav_order: 29
 **Current narrative status:** Historical figure, centuries deceased.
 
   
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Lugdana](lugdana.md)
+- [The Martikov Family](the-martikov-family.md)
+- [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
+- [Changelog](../changelog.md)
+
+<!-- backlinks:end -->
