@@ -35,7 +35,7 @@ nav_order: 12
 
   
 
-**Aliases**: Rictavio; Alenik (also spelled Alanik; a disguise Von Richten uses, GM-confirmed 2026-10-10)
+**Aliases**: Rictavio; Alenik, a disguise Von Richten uses (GM-confirmed 2026-10-10; spelled "Alanik" in the [Session 5](../sessions/s05.md) log until standardized to Alenik on 2026-10-10)
 
   
 
@@ -58,7 +58,7 @@ nav_order: 12
   - **[Ring of Mind Shielding](../items.md#ring-of-mind-shielding-von-richten)** (see Section 5) — immune to thought-reading, alignment-detection, and creature-type detection; anyone attempting to read his mind finds it "empty."
   - An unnamed homebrew magic bedroll/sleeping bag (see Section 5) that causes anyone inside it to register as undead/aberration to detection magic — still needs full mechanical stat-out and an in-fiction concealment method (a bag of holding or similar), since a "corpse-smelling sleeping bag" would otherwise draw immediate suspicion.
   - **Timeline:** in Barovia roughly 15–20 years (revised down from an initial 25–30 estimate to keep his age plausible as a young doctor when his son was taken). Was once a doctor who spent his time and money healing others — a kindness now curdled into vengeance.
-  - **Hobbies:** wine connoisseurship offers a fetch-quest hook — he could offer passage out of Barovia in exchange for bottles from the **Wizard of Wines** vineyard, run by the [Mardikov](the-martikov-family.md) family. (Cross-reference: this idea actually belongs to Strahd's characterization, not Von Richten's — see Section 9 §10.2. Included here as a reminder these two NPCs' arcs may intersect at the Mardikov vineyard.)
+  - **Hobbies:** wine connoisseurship offers a fetch-quest hook — he could offer passage out of Barovia in exchange for bottles from the **Wizard of Wines** vineyard, run by the [Martikov](the-martikov-family.md) family. (Cross-reference: this idea actually belongs to Strahd's characterization, not Von Richten's — see Section 9 §10.2. Included here as a reminder these two NPCs' arcs may intersect at the Martikov vineyard.)
   - **First appearance confirmed:** he will **not** appear human-looking to the party on first encounter — reads as a vampire through and through.
   - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Section 16](../prep/s11-vallaki.md)):** **Zombie swarm on the Vistani.** He's been collecting zombies in his pits to strike at Strahd and anything he sees as Strahd-aligned — chiefly the Vistani. Unless he's dissuaded, he brings a zombie horde against the Vistani camp outside Vallaki during the three-day window ([Section 16.2](../prep/s11-vallaki.md#162--major-events-in-the-three-day-window)). His tiger was mentioned as an alternative, but the zombies tie better into what's already set up.
   - **Discarded thread:** an earlier idea that the child's body recovered in [Session 0.5b](../sessions/s00-5b.md)/[Session 1](../sessions/s01.md) (Erasmus) was a vampire spawn was walked back — the internal logic didn't hold (a vampire spawn wouldn't have a heartbeat, and [Dismas](dismas.md)'s exam found one). Benched rather than force-retconned; pieces of it could be salvaged later if useful.

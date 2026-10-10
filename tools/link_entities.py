@@ -42,7 +42,7 @@ TERMS = {
     "npcs/madam-eva.md": ["Madam Eva"],
     "npcs/strahd-von-zarovich.md": ["Strahd von Zarovich", "Strahd"],
     "npcs/von-richten.md": ["Rudolph van Richten", "Von Richten", "von Richten", "van Richten",
-                            "Rictavio", "Alenik", "Alanik"],
+                            "Rictavio", "Alenik"],
     "npcs/arturi.md": ["Arturi"],
     "npcs/esmeralda-davenir.md": ["Esmeralda D'Avenir", "Esmeralda"],
     "npcs/eliza.md": ["Eliza"],
@@ -60,8 +60,7 @@ TERMS = {
     "npcs/saint-markovia.md": ["Saint Markovia", "St. Markovia", "Markovia"],
     "npcs/lugdana.md": ["Lugdana"],
     "npcs/ismark-the-great.md": ["Ismark the Great"],
-    "npcs/the-martikov-family.md": ["Martikov family", "Martikovs", "Martikov", "Mardikov",
-                                    "Mordakov", "Urwin", "Danika", "Davian"],
+    "npcs/the-martikov-family.md": ["Martikov family", "Martikovs", "Martikov", "Urwin", "Danika", "Davian"],
     "npcs/baron-vargas-volokovich.md": ["Baron Vargas Volokovich", "Vargas Volokovich",
                                         "Vargas Vallakovich", "Vargas"],
     "npcs/father-lucien-petrovich.md": ["Father Lucien Petrovich", "Father Lucien", "Lucien",
@@ -91,7 +90,7 @@ TERMS = {
     "items.md#the-holy-symbol--amulet-of-ravenkind": ["Holy Symbol of Ravenkind",
                                                       "Amulet of Ravenkind"],
     "items.md#tatyanas-bracelet": ["Tatyana's Bracelet"],
-    "items.md#belinda": ["Belinda", "Blinda"],
+    "items.md#belinda": ["Belinda"],
     "lore/tome-of-strahd.md": ["Tome of Strahd"],
 }
 

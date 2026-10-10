@@ -55,7 +55,7 @@ nav_order: 11
 
   
 
-**Extensive lore not yet touched on above:** full goals/motivations table, the three-way Dark Powers/Strahd/Fanes power struggle, Ireena's anti-curse blessing and why his usual method failed on her, the wine/[Mardikov](the-martikov-family.md) fetch-quest hook, the dinner-invitation and reward/boon mechanic, and the death/resurrection timeline are all detailed in **Section 9** — refer there rather than duplicating here.
+**Extensive lore not yet touched on above:** full goals/motivations table, the three-way Dark Powers/Strahd/Fanes power struggle, Ireena's anti-curse blessing and why his usual method failed on her, the wine/[Martikov](the-martikov-family.md) fetch-quest hook, the dinner-invitation and reward/boon mechanic, and the death/resurrection timeline are all detailed in **Section 9** — refer there rather than duplicating here.
 
 **[Session 9](../sessions/s09.md) note \[player theory, unconfirmed\]:** the party, discussing the Tarokka "lost soul" clue, floated the theory that the ally described (a "soul unmoored from its body, bound still to duty... a blade that does not know it has already fallen") could be Strahd's slain brother — i.e. that he "didn't actually die" in the way the myth says. This is party speculation prompted by [Reyna](../pcs/reyna.md)'s campfire story, not a GM-confirmed fact — flagging here so it isn't mistaken for established lore.
 

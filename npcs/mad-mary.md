@@ -38,7 +38,7 @@ nav_order: 5
 
   
 
-  - [Session 1.5b](../sessions/s01-5b.md) - Gives Blinda to [Theren](../pcs/theren.md)
+  - [Session 1.5b](../sessions/s01-5b.md) - Gives Belinda to [Theren](../pcs/theren.md)
 
 <!-- backlinks:start -->
 

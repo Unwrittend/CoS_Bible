@@ -15,7 +15,7 @@ nav_order: 2
 |  |  |
 | :-: | :-: |
 | **Goal** | **Underlying motivation** |
-| Take revenge ([Ireena](../npcs/ireena-kolyana.md)'s family/Kolyan's line, Doru, Ismark's line; Mordakovs standing, not finalized) | Revenge, full stop |
+| Take revenge ([Ireena](../npcs/ireena-kolyana.md)'s family/Kolyan's line, Doru, Ismark's line; [Martikovs](../npcs/the-martikov-family.md) standing, not finalized) | Revenge, full stop |
 | Obtain more power | Refusal to be controlled by anyone — "master of his own fate" |
 | Escape Barovia | Also tied to mastery of his own fate |
 | Claim Ireena's soul | Belief that he owns Tatiana / is entitled to her |
@@ -30,13 +30,13 @@ Cross-cutting: exerting dominance/superiority (revenge + claiming Ireena); enter
 
 ## 10.2 — Full profile notes cross-reference
 
-[Strahd](../npcs/strahd-von-zarovich.md)'s core psychology (Tatiana-shaped hole, the "icky"/predatory design choice, his self-narrative about Sergei's death, the cage metaphor, his falconry/wine hobbies, the Roc, the wine/[Mardikov](../npcs/the-martikov-family.md) fetch-quest hook, and the dinner reward/boon mechanic) is written up under his NPC entry in **[Section 4](../npcs/index.md)** rather than duplicated here.
+[Strahd](../npcs/strahd-von-zarovich.md)'s core psychology (Tatiana-shaped hole, the "icky"/predatory design choice, his self-narrative about Sergei's death, the cage metaphor, his falconry/wine hobbies, the Roc, the wine/[Martikov](../npcs/the-martikov-family.md) fetch-quest hook, and the dinner reward/boon mechanic) is written up under his NPC entry in **[Section 4](../npcs/index.md)** rather than duplicated here.
 
 ## 10.3 — The three-way power struggle: Dark Powers vs. Strahd vs. the Fanes
 
   - **Dark Powers** → tied to the Amber Temple and [Void Child](../npcs/khirad.md).
   - **[Strahd](../npcs/strahd-von-zarovich.md)** → led by Strahd, with [Rahadin](../npcs/rahadin.md) as his primary agent.
-  - **The Fanes** → led by [Madam Eva](../npcs/madam-eva.md), with the [Mardikov](../npcs/the-martikov-family.md) family tied to this faction (exact role unspecified).
+  - **The Fanes** → led by [Madam Eva](../npcs/madam-eva.md), with the [Martikov](../npcs/the-martikov-family.md) family tied to this faction (exact role unspecified).
   - **Explicitly excluded** from this faction map: player characters, including [Cassandra](../pcs/cassandra-priam.md) — this is a map of the world's own power players, not party affiliations.
   - **[Baba Lysaga](../npcs/baba-lysaga.md)** occupies a dual position — tied to Strahd directly, with acknowledged (unresolved) connections to the Dark Powers as well.
   - **Floated, explicitly NOT canonized:** Rahadin striking a deal with the Dark Powers to resurrect Strahd each time he dies. A possible throughline, deliberately left uncanonized.
@@ -57,7 +57,7 @@ Cross-cutting: exerting dominance/superiority (revenge + claiming Ireena); enter
 
 ## 10.5 — Faction geography & the Heart of Darkness
 
-  - A physical faction map exercise placed [Strahd](../npcs/strahd-von-zarovich.md), the Fanes, [Baba Lysaga](../npcs/baba-lysaga.md) (Berez), the Mardikovs (Wizard of Wines, near/in Vallaki), the Dark Powers generally, the werewolves, and flesh-map undead-cache locations. **Kresk and (implicitly) [Mardikov](../npcs/the-martikov-family.md) territory are the only two fully unconquered "anti-Strahd" bastions** left in Barovia.
+  - A physical faction map exercise placed [Strahd](../npcs/strahd-von-zarovich.md), the Fanes, [Baba Lysaga](../npcs/baba-lysaga.md) (Berez), the Martikovs (Wizard of Wines, near/in Vallaki), the Dark Powers generally, the werewolves, and flesh-map undead-cache locations. **Kresk and (implicitly) [Martikov](../npcs/the-martikov-family.md) territory are the only two fully unconquered "anti-Strahd" bastions** left in Barovia.
   - **Floated, not committed:** the village of Barovia itself could eventually be fully absorbed into Strahd's own military staging ground later in the campaign, possibly via a future attack forcing the party to defend or retake it. **[Session 9](../sessions/s09.md) note:** the party's discovery of a noble vampire ("the [Woodcutter's Bride](../npcs/woodcutters-bride.md)," [Section 4](../npcs/index.md)) coordinating a castle-scale undead lumber-gathering operation is the first actual-play evidence pointing in this direction — still not confirmed as the same plan, but worth revisiting this floated idea in light of it.
   - **The [Heart of Darkness](../items.md#the-heart-of-darkness)** (the Winter Fane's remaining essence) was tentatively placed at **Lake Zarovich** (a mountain location was the other candidate), with an unconfirmed thematic justification — that the Winter Fane may have drowned herself there out of sorrow. **2026-09-19 ideation update:** Lake Zarovich is now the firm working location, guarded by (or held within) the **Winter Worm** — see [Section 15.2](../archive/s10-prep.md#152--the-winter-worm--the-heart-of-darkness).
   - **Vampire running-water weakness reframed as a plot hook:** since it rarely gives players a real way to exploit it, it's being used to explain why Strahd himself can't retrieve the Heart of Darkness — a legitimate fetch-quest where he offers passage out of Barovia in exchange for retrieving it for him. **2026-09-19 refinement:** [Rahadin](../npcs/rahadin.md), not being a vampire, is Strahd's diver, and Strahd's pitch to the party is framed as a task force to remove the worm "poisoning Vallaki" ([Section 15.5](../archive/s10-prep.md#155--strahds-offer-to-the-party-the-bones-of-saint-andral--the-brides)).

@@ -22,7 +22,7 @@ nav_order: 29
 
   
 
-  - Bands together with [Lugdana](lugdana.md) and the [Mordakov](the-martikov-family.md)/Mardikov family (aided by werewolf knowledge and possibly the wereravens) to bind Strahd in stasis.
+  - Bands together with [Lugdana](lugdana.md) and the [Martikov](the-martikov-family.md) family (aided by werewolf knowledge and possibly the wereravens) to bind Strahd in stasis.
   - Dies of natural causes while laying the foundations of a new civilization (i.e., the village of Barovia), rather than in direct combat like Lugdana.
   - The present-day village's persecution/hero-worship dynamic around Doru and Kolyan Indirovich is explained as blame for their ancestors' role in this historical binding.
 

@@ -10,7 +10,7 @@ nav_order: 30
 
 ### The Martikov Family
 
-**Spelling (GM-confirmed 2026-10-10):** the "Mordakov" and "Mardikov" family in earlier ideation notes ([Section 9](../lore/cosmology.md), [Lugdana](lugdana.md), [Ismark the Great](ismark-the-great.md)) is this family. Martikov is the spelling used here.
+**Spelling (GM-confirmed 2026-10-10):** earlier ideation notes ([Section 9](../lore/cosmology.md), [Lugdana](lugdana.md), [Ismark the Great](ismark-the-great.md)) called this family "Mordakov" or "Mardikov"; standardized to Martikov throughout on 2026-10-10. A source transcript title in the [Session 10](../sessions/s10.md) prep archive keeps "Mardikovs" as written.
 
 **Source characterization:** RAW
 
@@ -51,6 +51,7 @@ nav_order: 30
 - [Von Richten](von-richten.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
+- [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Changelog](../changelog.md)

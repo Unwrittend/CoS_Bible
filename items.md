@@ -117,7 +117,7 @@ A bracelet of wolf fangs — thematically bound to [Jacob](pcs/jacob.md)'s lycan
 
 ### Belinda
 
-**Spelling (GM-confirmed 2026-10-10):** "[Blinda](#belinda)" in the session logs is this doll. Belinda is the spelling used here.
+**Spelling (GM-confirmed 2026-10-10):** the session logs called this doll "Blinda"; standardized to [Belinda](#belinda) throughout on 2026-10-10.
 
 Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first daughter. Desires a host to become alive. Loves her sister, [Gertruda](npcs/gertruda-stiegler.md) and always wants to keep her little sister safe. Has a empathic connection to those that touch it.
 

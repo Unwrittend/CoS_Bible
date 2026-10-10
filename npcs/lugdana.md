@@ -19,7 +19,7 @@ nav_order: 28
 
   
 
-**Role:** Historical hero; led the effort (with [Ismark the Great](ismark-the-great.md) and the [Mordakov](the-martikov-family.md)/Mardikov family) to bind Strahd in stasis rather than kill him outright
+**Role:** Historical hero; led the effort (with [Ismark the Great](ismark-the-great.md) and the [Martikov](the-martikov-family.md) family) to bind Strahd in stasis rather than kill him outright
 
   
 

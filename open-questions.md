@@ -21,7 +21,7 @@ nav_order: 4
   - The Soul Trap discovery mechanism during the Silver Age — self-identified as chronologically inconsistent, left open.
   - Berez's precise "Marina vs. Patrona" flavor detail — reference-only, neither adopted.
   - Whether [Argonvost](npcs/argonvost.md) and Katarina/[Madam Eva](npcs/madam-eva.md) had a personal history — optional, undecided.
-  - Katarina/Madam Eva's implied blood-tie to the [Mardikov](npcs/the-martikov-family.md)/von Zarovich line (via the shared Roc familiar detail) — is this literal, and how does it reconcile with her "separate mortal who pacted with the Autumn Fane" origin?
+  - Katarina/Madam Eva's implied blood-tie to the [Martikov](npcs/the-martikov-family.md)/von Zarovich line (via the shared Roc familiar detail) — is this literal, and how does it reconcile with her "separate mortal who pacted with the Autumn Fane" origin?
   - The "Terror of Mount Ballanok" folk-tale idea — floated and shelved.
 
   
