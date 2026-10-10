@@ -19,7 +19,7 @@ GM reference for Chris and Michelle's *Curse of Strahd* (Dragnacarta reimagining
 
 | Section | What's in it |
 | --- | --- |
-| [Player characters](pcs/index.md) | One file per PC, with Key Plot Points |
+| [PCs](pcs/index.md) | One file per PC, with Key Plot Points |
 | [NPCs](npcs/index.md) | One file per NPC (Dismas, a retired PC, lives here) |
 | [Key items](items.md) | Character items and world/quest items |
 | [Session log](sessions/index.md) | One file per session; `.5` sessions are online RP |
