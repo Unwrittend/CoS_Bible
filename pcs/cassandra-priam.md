@@ -2,6 +2,8 @@
 title: "Cassandra Priam"
 name: "Cassandra Priam"
 type: "pc"
+player: "Mary"
+discord: "IntoTheUnknown"
 status: "canon"
 parent: "Player Characters"
 nav_order: 2
@@ -9,6 +11,7 @@ nav_order: 2
 
 ### Cassandra Priam
 
+  - **Player: Mary** (Discord: [IntoTheUnknown](../players.md))
   - **Aesthetic archetype:** Oracle of Delphi — prophetic, otherworldly, classical Greek influence
 
   
@@ -99,5 +102,6 @@ Quirks:
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
 - [Current state](../current-state.md)
+- [Players & Discord](../players.md)
 
 <!-- backlinks:end -->

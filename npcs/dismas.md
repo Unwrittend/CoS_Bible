@@ -2,6 +2,8 @@
 title: "Dismas"
 name: "Dismas"
 type: "npc"
+player: "Chris Lee"
+discord: "topagae"
 status: "canon"
 parent: "NPCs"
 nav_order: 2
@@ -9,7 +11,7 @@ nav_order: 2
 
 ### Dismas
 
-  - **Player: Chris Lee**
+  - **Player: Chris Lee** (Discord: [topagae](../players.md))
 
   
 
@@ -99,5 +101,6 @@ The words slipped out of the bandit's mouth, sliding through the thick air into 
 - [Key Items](../items.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Open questions](../open-questions.md)
+- [Players & Discord](../players.md)
 
 <!-- backlinks:end -->

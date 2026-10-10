@@ -2,6 +2,8 @@
 title: "Reyna"
 name: "Reyna"
 type: "pc"
+player: "Chris Lee"
+discord: "topagae"
 status: "canon"
 parent: "Player Characters"
 nav_order: 6
@@ -9,7 +11,7 @@ nav_order: 6
 
 ### Reyna
 
-  - **Player: Chris Lee**
+  - **Player: Chris Lee** (Discord: [topagae](../players.md))
   - **Aesthetic archetype:** Crusader (Darkest Dungeon)
   - **Race/Class:** Female Human Paladin/Warlock
   - **Physical description**
@@ -48,5 +50,6 @@ nav_order: 6
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
+- [Players & Discord](../players.md)
 
 <!-- backlinks:end -->

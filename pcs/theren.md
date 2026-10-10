@@ -2,6 +2,8 @@
 title: "Theren"
 name: "Theren"
 type: "pc"
+player: "Tina"
+discord: "AyameSuzaku"
 status: "canon"
 parent: "Player Characters"
 nav_order: 4
@@ -9,7 +11,7 @@ nav_order: 4
 
 ### Theren
 
-  - **Player: Tina**
+  - **Player: Tina** (Discord: [AyameSuzaku](../players.md))
   - **Aesthetic archetype:** Stately yet roguish — the contradiction is the character
   - **Race/Class:** Elf, Life Cleric
   - **Personality notes:** Very gentlemanly. Flirtatious. Loyal to a fault.
@@ -57,5 +59,6 @@ nav_order: 4
 - [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
+- [Players & Discord](../players.md)
 
 <!-- backlinks:end -->

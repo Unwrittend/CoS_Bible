@@ -2,6 +2,8 @@
 title: "Gaille"
 name: "Gaille"
 type: "pc"
+player: "Dorothy"
+discord: "SakuraScout"
 status: "canon"
 parent: "Player Characters"
 nav_order: 5
@@ -9,7 +11,7 @@ nav_order: 5
 
 ### Gaille
 
-  - **Player: Dorothy**
+  - **Player: Dorothy** (Discord: [SakuraScout](../players.md))
   - **Aesthetic archetype:** Gothic necromancer — controlled, studied, aesthetically committed to her practice
   - **Race/Class:** Female Elf, Necromancer
   - **Physical description:** Black hair, hazel eyes, pale skin, dark robes, hooded cloak, water opal pendant
@@ -46,5 +48,6 @@ nav_order: 5
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
+- [Players & Discord](../players.md)
 
 <!-- backlinks:end -->

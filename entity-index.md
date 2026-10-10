@@ -125,5 +125,6 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Conventions & canonicity rules |  | [conventions.md](conventions.md) |  |  |
 | Current state |  | [current-state.md](current-state.md) | canon | 10 |
 | Open questions |  | [open-questions.md](open-questions.md) | idea |  |
+| Players & Discord |  | [players.md](players.md) |  |  |
 | Technical reference |  | [tech.md](tech.md) |  |  |
 | Prompt templates |  | [templates.md](templates.md) |  |  |

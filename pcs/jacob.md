@@ -2,6 +2,7 @@
 title: "Jacob"
 name: "Jacob"
 type: "pc"
+player: "Dennis"
 status: "canon"
 parent: "Player Characters"
 nav_order: 3
@@ -51,5 +52,6 @@ nav_order: 3
 - [Key Items](../items.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Players & Discord](../players.md)
 
 <!-- backlinks:end -->

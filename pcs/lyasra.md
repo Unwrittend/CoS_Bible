@@ -2,6 +2,8 @@
 title: "Lyasra"
 name: "Lyasra"
 type: "pc"
+player: "Andriea"
+discord: "Eebee"
 status: "canon"
 parent: "Player Characters"
 nav_order: 1
@@ -9,6 +11,7 @@ nav_order: 1
 
 ### Lyasra
 
+  - **Player: Andriea** (Discord: [Eebee](../players.md))
   - **Aesthetic archetype:** Loxodon — large, elephantine physiology; presents as calm or stoic
 
   
@@ -80,5 +83,6 @@ Why say three words when one will do.
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
+- [Players & Discord](../players.md)
 
 <!-- backlinks:end -->

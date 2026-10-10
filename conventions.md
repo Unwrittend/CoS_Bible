@@ -84,7 +84,7 @@ Unless instructed otherwise, all creative outputs should follow these convention
   - **Storage note (added 2026-09-07; corrected 2026-09-24):** the campaign bible lives in the shared **"CoS Bible"** Drive folder as two permanent files that always hold identical content:
       - **`campaign-bible.md`** — plain markdown and the **single source of truth**, so both Chris's and Michelle's AI tools read the same file without Google Docs conversion issues.
       - **"CoS Campaign Bible — Doc Mirror (for Project Knowledge sync)"** — a native Google Doc copy. It exists only because Claude Project Knowledge live-syncs Google Docs, not arbitrary Drive files. Read it; don't edit it directly. If someone does, the skill folds those edits back into the .md on its next run.
-      - **Both files are edited in place** (the "Unwrittend's Google Drive" connector's `file_update`), so their file IDs and links never change and neither is ever deleted and recreated. *(What changed: the 2026-09-07 note said the connector couldn't edit files in place and that each update replaced the file; that is no longer true.)*
+      - **Both files are edited in place** (the "[Unwrittend](players.md)'s Google Drive" connector's `file_update`), so their file IDs and links never change and neither is ever deleted and recreated. *(What changed: the 2026-09-07 note said the connector couldn't edit files in place and that each update replaced the file; that is no longer true.)*
       - Files named `CoS Campaign Bible - <DDMonYY HH:MM> Bkp.md` alongside them are dated backups taken before each update — superseded snapshots, not the current version.
 
   

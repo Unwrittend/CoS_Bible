@@ -26,5 +26,6 @@ GM reference for Chris and Michelle's *Curse of Strahd* (Dragnacarta reimagining
 | [Lore](lore/index.md) | Cosmology, Strahd's motivations, the Tome, Vallaki's houses (mostly ideation) |
 | [Prep](prep/index.md) | Current session prep |
 | [Open questions](open-questions.md) | Standing worldbuilding questions |
+| [Players & Discord](players.md) | Discord handles → players → characters |
 | [Changelog](changelog.md) | Dated one-liners of canon changes |
 | [Archive](archive/index.md) | Superseded prep |

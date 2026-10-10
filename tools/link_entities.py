@@ -23,6 +23,9 @@ BACKLINK_TYPES = {"pc", "npc", "item", "session", "lore", "prep"}
 
 # target ("path" or "path#anchor") -> names that refer to it. Case-sensitive, whole words.
 TERMS = {
+    # Discord handles (see players.md)
+    "players.md": ["Unwrittend", "Thau", "IntoTheUnknown", "Eebee", "SakuraScout", "topagae",
+                   "AyameSuzaku"],
     # Player characters
     "pcs/lyasra.md": ["Lyasra"],
     "pcs/cassandra-priam.md": ["Cassandra Priam", "Cassandra"],
@@ -34,7 +37,7 @@ TERMS = {
     "npcs/dismas.md": ["Dismas"],
     "npcs/reysatra.md": ["Reysatra"],
     "npcs/gertruda-stiegler.md": ["Gertruda Stiegler", "Gertruda"],
-    "npcs/mad-mary.md": ["Mad Mary", "Mary"],
+    "npcs/mad-mary.md": ["Mad Mary"],  # not bare "Mary": also a player's name
     "npcs/violet-larkwing.md": ["Violet Larkwing", "Violet"],
     "npcs/ninthalor.md": ["Ninthalor"],
     "npcs/amogano.md": ["Amogano"],
