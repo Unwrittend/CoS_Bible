@@ -1,0 +1,25 @@
+title: Curse of Strahd — Campaign Bible
+description: GM reference for the Curse of Strahd (Dragnacarta reimagining) campaign.
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+search_enabled: true
+heading_anchors: true
+color_scheme: dark
+
+# The original monolith is kept as a plain reference file, not a rendered page.
+exclude:
+  - README.md
+  - tools/
+  - archive/campaign-bible-monolith-2026-10-10.md
+  - Gemfile
+  - Gemfile.lock
+
+aux_links:
+  "Entity index": "entity-index.html"
