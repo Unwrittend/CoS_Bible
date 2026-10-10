@@ -58,7 +58,7 @@ Quirks:
 
   
 
-  - **Unique Item:** Dark One's Tarokka Deck
+  - **Unique Item:** [Dark One's Tarokka Deck](../items.md#cassandra--dark-ones-tarokka-deck)
 
   
 
@@ -66,7 +66,7 @@ Quirks:
 
 <!-- end list -->
 
-1.  Madam Eva
+1.  [Madam Eva](../npcs/madam-eva.md)
 
   
 
@@ -77,4 +77,27 @@ Quirks:
 1.  0.5 - Sent to find Madam Eva
 2.  3.5 - Saw the shadow play, a play of the Three Fanes
 3.  9.0 - Revealed, in the campfire storytelling game, that Lycius is not a foundling she rescued from an abandoned nest as she'd initially claimed — the true version is that Lycius is a multi-generation family familiar, inherited across several generations of Priam wizards, which is why his coloring shows no distinguishing mark of any one primordial bloodline. Above-table this was played as the session's "lie."
-4.  10.0 - Lycius ate one of Morgantha's cheese pies, became blissfully sedated and fell asleep (failed CON save). Drew two Tarokka cards: **the Executioner** (upright) on first sighting Lake Zarovich, and **the Ten of Stars (Wizard)** about Gaille and Kasimir. New mechanic introduced: after each reading she rolls a d100 against a GM-set DC, and Chris tells her privately whether the reading *feels* accurate (it may still be accurate either way).
+4.  10.0 - Lycius ate one of [Morgantha](../npcs/morgantha.md)'s cheese pies, became blissfully sedated and fell asleep (failed CON save). Drew two Tarokka cards: **the Executioner** (upright) on first sighting Lake Zarovich, and **the Ten of Stars (Wizard)** about [Gaille](gaille.md) and [Kasimir](../npcs/kasimir-velikov.md). New mechanic introduced: after each reading she rolls a d100 against a GM-set DC, and Chris tells her privately whether the reading *feels* accurate (it may still be accurate either way).
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 0](../sessions/s00.md)
+- [Session 0.5a - Love Divined](../sessions/s00-5a.md)
+- [Session 1.5a – Bildrath's Mercantile](../sessions/s01-5a.md)
+- [Session 2](../sessions/s02.md)
+- [Session 3.5b - The Shadow Theatre](../sessions/s03-5b.md)
+- [Session 5.5 — After the First Night…](../sessions/s05-5.md)
+- [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
+- [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Kasimir Velikov](../npcs/kasimir-velikov.md)
+- [Madam Eva](../npcs/madam-eva.md)
+- [Key Items](../items.md)
+- [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
+- [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
+- [Current state](../current-state.md)
+
+<!-- backlinks:end -->

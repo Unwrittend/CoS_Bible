@@ -14,7 +14,7 @@ nav_order: 4
 
   
 
-**Personal Homebrew:** Gertruda is the reincarnation of Jacob's Gertruda. Gertruda lived one full life in Barovia trying to escape, but her soul is trapped in Barovia. She has reincarnated as Gertruda Stiegler.
+**Personal Homebrew:** Gertruda is the reincarnation of [Jacob](../pcs/jacob.md)'s Gertruda. Gertruda lived one full life in Barovia trying to escape, but her soul is trapped in Barovia. She has reincarnated as Gertruda Stiegler.
 
   
 
@@ -42,11 +42,11 @@ nav_order: 4
 
   
 
-  - Session 2
+  - [Session 2](../sessions/s02.md)
 
 <!-- end list -->
 
-  - Rescued by Von Richten
+  - Rescued by [Von Richten](von-richten.md)
 
   
 
@@ -60,3 +60,25 @@ nav_order: 4
   - Writes her diary/notes in Common, not Giant (the only other language readily available) — she's smart enough not to leave notes Von Richten himself could read. Aware she's replaceable to him and plays the relationship carefully.
   - Characterization: not a combatant — assassin/bard-adjacent build, storyteller personality, street-smart, acts older than her apparent age (14) due to past-life memories. May perform naivety around Von Richten as a survival tactic while actually being quite calculating.
   - *A bit floated and set aside as flavor, not canon: Gertruda secretly writing romance novels for the Vallaki book trade, with Von Richten as her unwitting muse.*
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 0.5a - Love Divined](../sessions/s00-5a.md)
+- [Session 1.5b – A Mother's Grief](../sessions/s01-5b.md)
+- [Session 2.5a – Rumors, Tall-Tales, There Must Be a Strahd of Truth...](../sessions/s02-5a.md)
+- [Session 3](../sessions/s03.md)
+- [Session 5 - Meeting Ireena](../sessions/s05.md)
+- [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
+- [Jacob](../pcs/jacob.md)
+- [Von Richten](von-richten.md)
+- [Key Items](../items.md)
+- [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 9 prep (superseded)](../archive/s09-prep.md)
+- [Open questions](../open-questions.md)
+- [Prompt templates](../templates.md)
+
+<!-- backlinks:end -->

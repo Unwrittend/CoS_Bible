@@ -52,6 +52,7 @@ parent / nav_order / has_children   # just-the-docs navigation
 ## Maintaining
 
 - After adding or renaming a file, run `python3 tools/build_index.py` to regenerate `entity-index.md`.
+- After any edit, run `python3 tools/link_entities.py`. It links the first mention of each character, item, session or "Section N" in each section, and regenerates the "Mentioned in" backlinks at the bottom of each page (between `<!-- backlinks -->` markers; don't edit inside them). It is safe to rerun. When you add a new NPC or item file, add its names to `TERMS` in that script.
 - New NPC: copy `npcs/npc-template.md` to `npcs/<slug>.md`, and add frontmatter with `parent: "NPCs"`.
 - New session: `sessions/sNN.md` with `parent: "Session Log"`, `session: NN` and `nav_order` one higher than the last. Then update `current-state.md` and `changelog.md`.
 - Canonicity tags must be kept exactly as written. In the source they appear markdown-escaped, as `\[IDEA — NONCANONICAL\]`.

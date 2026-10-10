@@ -15,7 +15,7 @@ nav_order: 9
 
   
 
-**Role:** Shard of a god / Elder Evil; Attempting to use Gaille as a vessel/host for Apotheosis/rebirth
+**Role:** Shard of a god / Elder Evil; Attempting to use [Gaille](../pcs/gaille.md) as a vessel/host for Apotheosis/rebirth
 
   
 
@@ -40,4 +40,20 @@ nav_order: 9
 
   
 
-**REVISION \[IDEA — NONCANONICAL, unresolved\]:** A worldbuilding session floated Void Child as actually being a remnant of the corrupted **Winter Fane** — specifically the fragment of her that still carries innocence and a desire for companionship, predating her full pact with Mother Night/the Dark Powers. Under this framing, Void Child's fear/fascination with Madam Eva makes sense: she feels drawn to and terrified of her without understanding why, because Madam Eva (Autumn Fane) was part of the group that effectively rejected/pushed her out. **This directly conflicts with the Elder Evil/aboleth-god framing above and has not been reconciled.** Both versions remain live until you decide — this affects Gaille's item entry and Session 0.5d's established Miri/Resin Shrine/doroq lore either way. See Section 9 for the full Fanes mythology this ties into.
+**REVISION \[IDEA — NONCANONICAL, unresolved\]:** A worldbuilding session floated Void Child as actually being a remnant of the corrupted **Winter Fane** — specifically the fragment of her that still carries innocence and a desire for companionship, predating her full pact with Mother Night/the Dark Powers. Under this framing, Void Child's fear/fascination with [Madam Eva](madam-eva.md) makes sense: she feels drawn to and terrified of her without understanding why, because Madam Eva (Autumn Fane) was part of the group that effectively rejected/pushed her out. **This directly conflicts with the Elder Evil/aboleth-god framing above and has not been reconciled.** Both versions remain live until you decide — this affects Gaille's item entry and [Session 0.5d](../sessions/s00-5d.md)'s established Miri/Resin Shrine/doroq lore either way. See [Section 9](../lore/cosmology.md) for the full Fanes mythology this ties into.
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 0.5d - Pursuit of Knowledge](../sessions/s00-5d.md)
+- [Gaille](../pcs/gaille.md)
+- [Key Items](../items.md)
+- [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
+- [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
+- [Session 10 prep (partly played)](../archive/s10-prep.md)
+- [Open questions](../open-questions.md)
+
+<!-- backlinks:end -->

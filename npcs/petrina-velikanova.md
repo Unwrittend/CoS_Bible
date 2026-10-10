@@ -13,7 +13,7 @@ nav_order: 21
 
   
 
-**Role:** Casimir Velikov's dead sister; a banshee trapped in Castle Ravenloft's catacombs; a candidate "lost soul" for the Tome of Strahd questline
+**Role:** [Casimir](kasimir-velikov.md) Velikov's dead sister; a banshee trapped in Castle Ravenloft's catacombs; a candidate "lost soul" for the [Tome of Strahd](../lore/tome-of-strahd.md) questline
 
   
 
@@ -29,3 +29,18 @@ nav_order: 21
 **Current narrative status:** Not yet encountered in play; located in Castle Ravenloft's catacombs.
 
   
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
+- [Kasimir Velikov](kasimir-velikov.md)
+- [Lady Fiona Watcher](lady-fiona-watcher.md)
+- [Stella Watcher](stella-watcher.md)
+- [The Tome of Strahd questline](../lore/tome-of-strahd.md)
+- [Open questions](../open-questions.md)
+
+<!-- backlinks:end -->

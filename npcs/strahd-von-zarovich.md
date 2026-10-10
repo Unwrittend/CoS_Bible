@@ -19,7 +19,7 @@ nav_order: 11
 
   
 
-***Resonance.*** Complicated, not cartoonishly hateable — except in one deliberate place: his pursuit of Tatiana/Ireena, which should land as viscerally "icky"/predatory (a hunter enjoying the chase; "wooing" as part of the hunt), so players want to see him defeated on that front specifically even while finding him sympathetic elsewhere.
+***Resonance.*** Complicated, not cartoonishly hateable — except in one deliberate place: his pursuit of Tatiana/[Ireena](ireena-kolyana.md), which should land as viscerally "icky"/predatory (a hunter enjoying the chase; "wooing" as part of the hunt), so players want to see him defeated on that front specifically even while finding him sympathetic elsewhere.
 
   
 
@@ -35,7 +35,7 @@ nav_order: 11
 
   
 
-***Persona.*** Does not actually control the mists himself — that's the Dark Powers'/Fanes' domain. The belief that he does is a deliberately maintained illusion, upheld by the Vistani (who serve his interests for freedom to travel) and by killing/compelling anyone who tries to leave alone before word gets out. Only a handful of people know the deeper truth (it's enforced by werewolves, not his personal magic): Stanimir and Madam Eva certainly; Arturi likely.
+***Persona.*** Does not actually control the mists himself — that's the Dark Powers'/Fanes' domain. The belief that he does is a deliberately maintained illusion, upheld by the Vistani (who serve his interests for freedom to travel) and by killing/compelling anyone who tries to leave alone before word gets out. Only a handful of people know the deeper truth (it's enforced by werewolves, not his personal magic): [Stanimir](stanimir.md) and [Madam Eva](madam-eva.md) certainly; [Arturi](arturi.md) likely.
 
   
 
@@ -51,14 +51,64 @@ nav_order: 11
 
   
 
-**Personal traits/hobbies:** Falconry, and genuine wine connoisseurship (blood and wine aren't the same sense, so a vampire's dulled palate doesn't preclude this) — part of why he grew fond of Barovia's wild grapes in the first place. Owns a tamed Roc (a demonstration of falconry skill), possibly the corrupted/subjugated version of a Roc originally belonging to Madam Eva (keeping the bird motif tied to the Autumn Fane rather than introducing an unrelated symbol for him — see Section 9 §10.2 and Section 13).
+**Personal traits/hobbies:** Falconry, and genuine wine connoisseurship (blood and wine aren't the same sense, so a vampire's dulled palate doesn't preclude this) — part of why he grew fond of Barovia's wild grapes in the first place. Owns a tamed Roc (a demonstration of falconry skill), possibly the corrupted/subjugated version of a Roc originally belonging to Madam Eva (keeping the bird motif tied to the Autumn Fane rather than introducing an unrelated symbol for him — see [Section 9](../lore/cosmology.md) §10.2 and [Section 13](../archive/s09-prep.md)).
 
   
 
-**Extensive lore not yet touched on above:** full goals/motivations table, the three-way Dark Powers/Strahd/Fanes power struggle, Ireena's anti-curse blessing and why his usual method failed on her, the wine/Mardikov fetch-quest hook, the dinner-invitation and reward/boon mechanic, and the death/resurrection timeline are all detailed in **Section 9** — refer there rather than duplicating here.
+**Extensive lore not yet touched on above:** full goals/motivations table, the three-way Dark Powers/Strahd/Fanes power struggle, Ireena's anti-curse blessing and why his usual method failed on her, the wine/[Mardikov](the-martikov-family.md) fetch-quest hook, the dinner-invitation and reward/boon mechanic, and the death/resurrection timeline are all detailed in **Section 9** — refer there rather than duplicating here.
 
-**Session 9 note \[player theory, unconfirmed\]:** the party, discussing the Tarokka "lost soul" clue, floated the theory that the ally described (a "soul unmoored from its body, bound still to duty... a blade that does not know it has already fallen") could be Strahd's slain brother — i.e. that he "didn't actually die" in the way the myth says. This is party speculation prompted by Reyna's campfire story, not a GM-confirmed fact — flagging here so it isn't mistaken for established lore.
+**[Session 9](../sessions/s09.md) note \[player theory, unconfirmed\]:** the party, discussing the Tarokka "lost soul" clue, floated the theory that the ally described (a "soul unmoored from its body, bound still to duty... a blade that does not know it has already fallen") could be Strahd's slain brother — i.e. that he "didn't actually die" in the way the myth says. This is party speculation prompted by [Reyna](../pcs/reyna.md)'s campfire story, not a GM-confirmed fact — flagging here so it isn't mistaken for established lore.
 
-**[IDEA — NONCANONICAL] 2026-09-19 — Strahd's active scheme:** his current concrete machination is obtaining the **Heart of Darkness** by slowly poisoning the Winter Worm at the bottom of Lake Zarovich. Ludmilla runs this with Baba Lysaga's help, via upstream runoff from the Luna River. He is escalating the dose during the party's time in Vallaki, and plans to send Rahadin down to kill it. His offer to the party is a task force "to remove the foul presence poisoning Vallaki," rewarded with a favor, safe exit, and a vault item under magical contract. See Sections 15.4–15.5. An ideation draft of his own Tarokka reading is in Section 15.9.
+**[IDEA — NONCANONICAL] 2026-09-19 — Strahd's active scheme:** his current concrete machination is obtaining the **[Heart of Darkness](../items.md#the-heart-of-darkness)** by slowly poisoning the Winter Worm at the bottom of Lake Zarovich. [Ludmilla](strahds-brides.md#ludmilla-vilisevic) runs this with [Baba Lysaga](baba-lysaga.md)'s help, via upstream runoff from the Luna River. He is escalating the dose during the party's time in Vallaki, and plans to send [Rahadin](rahadin.md) down to kill it. His offer to the party is a task force "to remove the foul presence poisoning Vallaki," rewarded with a favor, safe exit, and a vault item under magical contract. See Sections 15.4–15.5. An ideation draft of his own Tarokka reading is in [Section 15.9](../archive/s10-prep.md#159--strahds-own-tarokka-reading-ideation-draft-not-canon).
 
   
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 0](../sessions/s00.md)
+- [Session 1](../sessions/s01.md)
+- [Session 3.5b - The Shadow Theatre](../sessions/s03-5b.md)
+- [Session 5 - Meeting Ireena](../sessions/s05.md)
+- [Session 5.5 — After the First Night…](../sessions/s05-5.md)
+- [Session 7 - Strix Encounter](../sessions/s07.md)
+- [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
+- [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Argonvost](argonvost.md)
+- [Arturi](arturi.md)
+- [Baba Lysaga](baba-lysaga.md)
+- [Baron Vargas Volokovich](baron-vargas-volokovich.md)
+- [Eliza](eliza.md)
+- [Esmeralda D'Avenir](esmeralda-davenir.md)
+- [Ireena Kolyana](ireena-kolyana.md)
+- [Isaac "Izek" Strazani](izek-strazani.md)
+- [Ismark the Great](ismark-the-great.md)
+- [Kasimir Velikov](kasimir-velikov.md)
+- [Lady Fiona Watcher](lady-fiona-watcher.md)
+- [Lugdana](lugdana.md)
+- [Madam Eva](madam-eva.md)
+- [Morgantha](morgantha.md)
+- [Rahadin](rahadin.md)
+- [Saint Markovia](saint-markovia.md)
+- [Strahd's Brides](strahds-brides.md)
+- [The Martikov Family](the-martikov-family.md)
+- [The Woodcutter's Bride (Ludmilla)](woodcutters-bride.md)
+- [Von Richten](von-richten.md)
+- [Key Items](../items.md)
+- [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
+- [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
+- [The Tome of Strahd questline](../lore/tome-of-strahd.md)
+- [Vallaki's noble houses](../lore/vallaki-houses.md)
+- [Session 10 prep (partly played)](../archive/s10-prep.md)
+- [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 9 prep (superseded)](../archive/s09-prep.md)
+- [Changelog](../changelog.md)
+- [Conventions & canonicity rules](../conventions.md)
+- [Current state](../current-state.md)
+- [Open questions](../open-questions.md)
+- [Technical reference](../tech.md)
+
+<!-- backlinks:end -->

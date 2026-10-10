@@ -36,7 +36,7 @@ All scene narration and GM-facing prose should draw on the **Darkest Dungeon nar
 
 ## Secondary Influences
 
-  - **Dragnacarta's Curse of Strahd Reloaded** is the **secondary source** for all NPC characterization and motivations. It is used for inspiration and ideas
+  - **Dragnacarta's Curse of [Strahd](npcs/strahd-von-zarovich.md) Reloaded** is the **secondary source** for all NPC characterization and motivations. It is used for inspiration and ideas
   - **MandyMod's** homebrewed content is also used as a secondary resource for additional idea generation
   - Character voice work (dialogue, letters, internal monologue) may draw on specific additional references noted in individual NPC entries below. If something is in any of the below sections, it is prioritized as the primary source for this campaign.
 
@@ -51,7 +51,7 @@ Unless instructed otherwise, all creative outputs should follow these convention
   - **Letters/journals:** Full literary voice matching the character's personality
   - **Design notes:** After every creative output, provide a brief paragraph of design notes explaining the key mechanical or thematic choices made — what pivot point was chosen, what was emphasized, and why
   - **Summarization of Sessions**: Do not embellish. Keep concise and to the main plot points and key characterizations.
-  - **Multi-NPC or branching encounter scenes:** Use screenplay format (see Section 6 template) rather than prose narration. This is the default for any scene involving dialogue with conditional player responses, multiple NPCs in conversation, or a sequence with distinct narrative beats.
+  - **Multi-NPC or branching encounter scenes:** Use screenplay format (see [Section 6](templates.md) template) rather than prose narration. This is the default for any scene involving dialogue with conditional player responses, multiple NPCs in conversation, or a sequence with distinct narrative beats.
   - **Canonicity tagging (added 2026-08-30):** Content that originates from GM-to-GM worldbuilding/ideation sessions (as opposed to actual play) is tagged **\[IDEA — NONCANONICAL\]** wherever it appears in this document. Untagged content reflects either established published-module baseline or events that have actually occurred in a logged session. See Section 8 for the full maintenance rule.
 
   
@@ -79,7 +79,7 @@ Unless instructed otherwise, all creative outputs should follow these convention
 
   - Update campaign bible according to discussed topics. Mark these updates an inspirations / ideas but noncanonical
   - **Tagging convention (added 2026-08-30):** flag ideation-sourced content inline as **\[IDEA — NONCANONICAL\]** at the start of the relevant heading or bullet, so it's unambiguous at a glance which parts of this document reflect actual play vs. GM-only brainstorming. When a session canonizes an idea, remove the tag and fold the confirmed version into the relevant NPC/item/session entry, noting what changed.
-  - When a worldbuilding session directly contradicts something already in this bible, flag it as **REVISION** rather than silently overwriting the old text, and note which version is currently preferred — this document has a running history of a few such revisions (see Section 9).
+  - When a worldbuilding session directly contradicts something already in this bible, flag it as **REVISION** rather than silently overwriting the old text, and note which version is currently preferred — this document has a running history of a few such revisions (see [Section 9](lore/cosmology.md)).
   - **Skill-assisted maintenance note (added 2026-09-06):** Chris now uses a Claude skill ("cos-bible-maintainer") to apply this section's rules automatically when he asks for an update — from a session transcript or notes, or from an ideation session. That skill also auto-backs up this doc (dated copy) before each edit, and auto-folds confirmed ideation into canon for gameplay/roleplay sessions per the rule above — it does not do this for ideation sessions, which still get tagged fresh per the rule above.
   - **Storage note (added 2026-09-07; corrected 2026-09-24):** the campaign bible lives in the shared **"CoS Bible"** Drive folder as two permanent files that always hold identical content:
       - **`campaign-bible.md`** — plain markdown and the **single source of truth**, so both Chris's and Michelle's AI tools read the same file without Google Docs conversion issues.
@@ -115,7 +115,7 @@ Unless instructed otherwise, all creative outputs should follow these convention
 
 <!-- end list -->
 
-  - For minor/supporting NPCs, the shorter stub format (Source characterization / Role / Key characterization principles / Voice notes if relevant / Current narrative status) remains acceptable — omit the Psychological core placeholder line from the older template at the bottom of Section 4; it isn't used in practice.
+  - For minor/supporting NPCs, the shorter stub format (Source characterization / Role / Key characterization principles / Voice notes if relevant / Current narrative status) remains acceptable — omit the Psychological core placeholder line from the older template at the bottom of [Section 4](npcs/index.md); it isn't used in practice.
 
   
 

@@ -53,7 +53,7 @@ The words slipped out of the bandit's mouth, sliding through the thick air into 
 
   
 
-1.  The tin locket shows the sentient people Dismas has killed in Barovia plus Rahadin.
+1.  The tin locket shows the sentient people Dismas has killed in Barovia plus [Rahadin](rahadin.md).
 
   
 
@@ -62,7 +62,7 @@ The words slipped out of the bandit's mouth, sliding through the thick air into 
   
 
 1.  Unknown to Dismas: Rahadin called the hit on Erasmus. Dismas took the hit to get out of debt / homelessness.
-2.  Intended: Von Richten
+2.  Intended: [Von Richten](von-richten.md)
 
   
 
@@ -72,6 +72,32 @@ The words slipped out of the bandit's mouth, sliding through the thick air into 
 
 1.  0.5 - Killed Erasmus and shot the Vistani who was trying to take him out of Barovia in session 0.5a. The Vistani woman survived.
 2.  2.0 - Killed Doru. Doru is in the locket now
-3.  8.0 - Received a reading from Madam Eva and then went off on a solo adventure
+3.  8.0 - Received a reading from [Madam Eva](madam-eva.md) and then went off on a solo adventure
       
-    1.  Retired as a PC. Now an NPC. Chris Lee now players Reyna
+    1.  Retired as a PC. Now an NPC. Chris Lee now players [Reyna](../pcs/reyna.md)
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 0](../sessions/s00.md)
+- [Session 0.5b - Overconfidence is a slow and insidious killer](../sessions/s00-5b.md)
+- [Session 1](../sessions/s01.md)
+- [Session 2](../sessions/s02.md)
+- [Session 3](../sessions/s03.md)
+- [Session 5 - Meeting Ireena](../sessions/s05.md)
+- [Session 5.5 — After the First Night…](../sessions/s05-5.md)
+- [Session 7 - Strix Encounter](../sessions/s07.md)
+- [Session 8 - Tser Falls Encampment](../sessions/s08.md)
+- [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
+- [Reyna](../pcs/reyna.md)
+- [Ireena Kolyana](ireena-kolyana.md)
+- [Rahadin](rahadin.md)
+- [Von Richten](von-richten.md)
+- [Key Items](../items.md)
+- [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Open questions](../open-questions.md)
+
+<!-- backlinks:end -->

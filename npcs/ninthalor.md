@@ -18,5 +18,15 @@ nav_order: 7
   
 
   - Cold and pragmatic; reads tragedy as fact rather than injustice
-  - His adversarial relationship with Theren carries the weight of long history — not mere indifference
+  - His adversarial relationship with [Theren](../pcs/theren.md) carries the weight of long history — not mere indifference
   - Views Fey contracts as practical protection, not moral compromise
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 0.5e - A Call Home](../sessions/s00-5e.md)
+
+<!-- backlinks:end -->

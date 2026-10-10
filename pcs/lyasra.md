@@ -54,7 +54,7 @@ Why say three words when one will do.
 
   
 
-  - **Unique Item**: Deva's Feather
+  - **Unique Item**: [Deva's Feather](../items.md#lyasra--devas-feather)
 
   
 
@@ -62,3 +62,23 @@ Why say three words when one will do.
       
     1.  0.5 - Sent on a quest to find an angel at Saint Marovia's abbey
     2.  8.0 - Learned for sure that the angel was in Barovia
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 1.5a – Bildrath's Mercantile](../sessions/s01-5a.md)
+- [Session 2](../sessions/s02.md)
+- [Session 2.5a – Rumors, Tall-Tales, There Must Be a Strahd of Truth...](../sessions/s02-5a.md)
+- [Session 5.5 — After the First Night…](../sessions/s05-5.md)
+- [Session 8 - Tser Falls Encampment](../sessions/s08.md)
+- [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
+- [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Key Items](../items.md)
+- [Session 10 prep (partly played)](../archive/s10-prep.md)
+- [Current state](../current-state.md)
+- [Open questions](../open-questions.md)
+
+<!-- backlinks:end -->

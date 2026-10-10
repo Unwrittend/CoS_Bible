@@ -12,7 +12,7 @@ nav_order: 40
 ### The Woodcutter's Bride — Ludmilla Vilisevic (Session 9)
 
 
-**Source characterization:** New, introduced in Session 9 gameplay — not previously in this bible.
+**Source characterization:** New, introduced in [Session 9](../sessions/s09.md) gameplay — not previously in this bible.
 
   
 
@@ -20,7 +20,7 @@ nav_order: 40
 
   
 
-**Identity (canonical, confirmed 2026-09-24):** this is **Ludmilla Vilisevic**, Strahd's eldest bride (see the Brides entry above). *(Previously filed as a GM working title only.)* **The name was never spoken to the party in dialogue** — Ireena did not introduce her, and she never gave her name before combat broke out — so in-fiction the party still doesn't know who she was.
+**Identity (canonical, confirmed 2026-09-24):** this is **[Ludmilla Vilisevic](strahds-brides.md#ludmilla-vilisevic)**, [Strahd](strahd-von-zarovich.md)'s eldest bride (see the Brides entry above). *(Previously filed as a GM working title only.)* **The name was never spoken to the party in dialogue** — [Ireena](ireena-kolyana.md) did not introduce her, and she never gave her name before combat broke out — so in-fiction the party still doesn't know who she was.
 
   
 
@@ -36,10 +36,24 @@ nav_order: 40
 
   
 
-**[IDEA — NONCANONICAL] 2026-09-19 proposed explanation:** her lumber operation (now canonically Ludmilla's) fed **two undead supply lines** — one to Castle Ravenloft (for the Roc) and one to the upstream poison works on the Luna River (Section 15.4).
+**[IDEA — NONCANONICAL] 2026-09-19 proposed explanation:** her lumber operation (now canonically Ludmilla's) fed **two undead supply lines** — one to Castle Ravenloft (for the Roc) and one to the upstream poison works on the Luna River ([Section 15.4](../archive/s10-prep.md#154--strahds-machination-poisoning-the-winter-worm)).
 
   
 
-**Current narrative status (canonical):** **Survived** Session 9 — escaped to Castle Ravenloft via emergency portal at 0 HP; the party believes they destroyed her. Left behind a large stockpile of cut lumber. **Resolved between sessions (per Session 10 recap):** the party sent the lumber to the village of Barovia to build barricades against the undead. **Session 10 recap note:** Michelle stated that **Reyna distinctly knows Ludmilla is not dead** — how Reyna learned this isn't in the session log yet (likely online RP between sessions); add it if there's a record.
+**Current narrative status (canonical):** **Survived** Session 9 — escaped to Castle Ravenloft via emergency portal at 0 HP; the party believes they destroyed her. Left behind a large stockpile of cut lumber. **Resolved between sessions (per [Session 10](../sessions/s10.md) recap):** the party sent the lumber to the village of Barovia to build barricades against the undead. **Session 10 recap note:** Michelle stated that **[Reyna](../pcs/reyna.md) distinctly knows Ludmilla is not dead** — how Reyna learned this isn't in the session log yet (likely online RP between sessions); add it if there's a record.
 
   
+
+<!-- backlinks:start -->
+
+---
+
+**Mentioned in:**
+
+- [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
+- [Strahd's Brides](strahds-brides.md)
+- [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
+- [Session 10 prep (partly played)](../archive/s10-prep.md)
+- [Open questions](../open-questions.md)
+
+<!-- backlinks:end -->
