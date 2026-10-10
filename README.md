@@ -1,6 +1,6 @@
 # Curse of Strahd — Campaign Bible
 
-The campaign bible, split from one 260 KB markdown file into small files so that AI tools (and people) only read what a question needs. The repo is also laid out as a Jekyll site (just-the-docs theme) for GitHub Pages. **Read the visibility warning below before turning Pages on.**
+The campaign bible, split from one 260 KB markdown file into small files so that AI tools (and people) only read what a question needs. It is also published as a GitHub Pages site (just-the-docs theme): https://unwrittend.github.io/CoS_Bible/
 
 ## Read order for AI tools
 
@@ -60,12 +60,8 @@ parent / nav_order / has_children   # just-the-docs navigation
 
 `tools/split_bible.py` cut `archive/campaign-bible-monolith-2026-10-10.md` on its headings without rewriting any prose. `tools/check_lossless.py` confirmed that all 1,640 non-blank source lines appear exactly once across the split files. The only line that moved is the trailing `*Last updated:*` footer, which now lives in `changelog.md`.
 
-## ⚠️ GitHub Pages visibility
+## Published site
 
-On GitHub Free and Pro, **a Pages site is public even when the repository is private.** This bible contains GM-only secrets (spies, hidden survivals, planned encounters). If players could find the URL, either:
+Live at **https://unwrittend.github.io/CoS_Bible/**, rebuilt automatically on every push to `main`. The repo and site are **public** (Chris's decision, 2026-10-10). Anyone with the link can read the GM-only material, players included.
 
-- keep the repo private and don't enable Pages (browse it on github.com instead, which also renders the markdown); or
-- use GitHub Enterprise Cloud, where Pages can be restricted to members; or
-- publish only a player-safe subset.
-
-Local preview, without publishing anything: `bundle install && bundle exec jekyll serve`.
+Local preview: `bundle install && bundle exec jekyll serve`.
