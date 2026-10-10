@@ -39,6 +39,7 @@ nav_order: 29
 **Mentioned in:**
 
 - [Lugdana](lugdana.md)
+- [The Martikov Family](the-martikov-family.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Changelog](../changelog.md)
 

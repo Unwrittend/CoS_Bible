@@ -49,6 +49,7 @@ nav_order: 28
 - [Ismark the Great](ismark-the-great.md)
 - [Stanimir](stanimir.md)
 - [Strahd's Brides](strahds-brides.md)
+- [The Martikov Family](the-martikov-family.md)
 - [Key Items](../items.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)

@@ -8,6 +8,7 @@ nav_order: 5
 
 Dated one-liners of canon changes and bible restructures, newest first.
 
+- 2026-10-10: GM-confirmed identities: [Mordakov](npcs/the-martikov-family.md)/Mardikov = the Martikov family; [Blinda](items.md#belinda) = Belinda (the doll); [Alenik](npcs/von-richten.md)/Alanik = a disguise of Von Richten. Spelling notes added to each entry; Martikov and Belinda are the spellings used.
 - 2026-10-10: Added NPC entry `npcs/ireena-kolyana.md`, compiled from existing mentions (no new lore). Spelling standardized to **[Ireena Kolyana](npcs/ireena-kolyana.md)** (GM-confirmed); "Irena" replaced throughout, except in the archived monolith, and kept as an alias. Fixed a wrong "Ismark the Lesser" alias on [Ismark the Great](npcs/ismark-the-great.md).
 - 2026-10-10: Bible split from one file into this folder (lossless; see README). Original kept at `archive/campaign-bible-monolith-2026-10-10.md`.
 

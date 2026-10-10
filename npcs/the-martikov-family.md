@@ -1,7 +1,7 @@
 ---
 title: "The Martikov Family"
 name: "The Martikov Family"
-aliases: ["Martikovs", "Urwin", "Danika"]
+aliases: ["Martikovs", "Mordakov", "Mardikov", "Urwin", "Danika"]
 type: "npc"
 status: "mixed"
 parent: "NPCs"
@@ -9,6 +9,8 @@ nav_order: 30
 ---
 
 ### The Martikov Family
+
+**Spelling (GM-confirmed 2026-10-10):** the "Mordakov" and "Mardikov" family in earlier ideation notes ([Section 9](../lore/cosmology.md), [Lugdana](lugdana.md), [Ismark the Great](ismark-the-great.md)) is this family. Martikov is the spelling used here.
 
 **Source characterization:** RAW
 

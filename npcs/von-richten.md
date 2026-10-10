@@ -1,7 +1,7 @@
 ---
 title: "Von Richten"
 name: "Von Richten (Rudolph van Richten)"
-aliases: ["Rudolph van Richten", "Rictavio", "Alenik", "Van Richten"]
+aliases: ["Rudolph van Richten", "Rictavio", "Alenik", "Alanik", "Van Richten"]
 type: "npc"
 status: "mixed"
 last-session: 4
@@ -35,7 +35,7 @@ nav_order: 12
 
   
 
-**Aliases**: Rictavio; Alenik
+**Aliases**: Rictavio; Alenik (also spelled Alanik; a disguise Von Richten uses, GM-confirmed 2026-10-10)
 
   
 
