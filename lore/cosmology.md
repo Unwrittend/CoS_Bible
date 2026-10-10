@@ -90,13 +90,13 @@ The Fanes are nature goddesses, each tied to a season, a time-domain (past/prese
 
 **Shelved:** a folk-tale idea — a superhumanly powerful "goat," the **Terror of Mount Ballanok**, tying Strahd thematically to the land itself. Not developed further.
 
-## 9.6 — Tatiana / Irena reincarnation lineage
+## 9.6 — Tatiana / Ireena reincarnation lineage
 
-  - Saint Markovia may be a reincarnation of Tatiana; Irena Kolyana is Tatiana's most recent (third major) reincarnation in this lineage.
-  - Suggested arc: Tatiana as a maid who fell for Sergei in her first life → reborn after St. Andrew's era, grew up on stories of Strahd's tyranny, became Saint Markovia → convinced Argonvost, killed Strahd with the Sun Sword → died when Strahd later returned and killed her → reincarnated as Irena.
-  - Strahd's obsession with Irena is reframed: he may believe she is a nexus/convergence point akin to the Fanes, tied to his repeated failure to permanently die/escape — not simply romantic fixation.
-  - Irena's silver bracelet with gemstones (Tatyana's Bracelet — canonical item, see Section 5) is tied to this lineage; its origin/who placed it with her is deliberately left unresolved.
-  - **Canonical (2026-09-24):** Irena has a blood brother — **Izek Strazani**, the Baron of Vallaki's enforcer (see his Section 4 entry). Neither knows it yet (per ideation); it hasn't been revealed at the table.
-  - Kolyan Indirovich's personal mission is reframed: he raised Ismark on stories of the historical "Markovia" figure and came to suspect Tatiana might be caught in the same cycle as Strahd — this belief drove him to search for and ultimately adopt Irena.
+  - Saint Markovia may be a reincarnation of Tatiana; Ireena Kolyana is Tatiana's most recent (third major) reincarnation in this lineage.
+  - Suggested arc: Tatiana as a maid who fell for Sergei in her first life → reborn after St. Andrew's era, grew up on stories of Strahd's tyranny, became Saint Markovia → convinced Argonvost, killed Strahd with the Sun Sword → died when Strahd later returned and killed her → reincarnated as Ireena.
+  - Strahd's obsession with Ireena is reframed: he may believe she is a nexus/convergence point akin to the Fanes, tied to his repeated failure to permanently die/escape — not simply romantic fixation.
+  - Ireena's silver bracelet with gemstones (Tatyana's Bracelet — canonical item, see Section 5) is tied to this lineage; its origin/who placed it with her is deliberately left unresolved.
+  - **Canonical (2026-09-24):** Ireena has a blood brother — **Izek Strazani**, the Baron of Vallaki's enforcer (see his Section 4 entry). Neither knows it yet (per ideation); it hasn't been revealed at the table.
+  - Kolyan Indirovich's personal mission is reframed: he raised Ismark on stories of the historical "Markovia" figure and came to suspect Tatiana might be caught in the same cycle as Strahd — this belief drove him to search for and ultimately adopt Ireena.
 
   

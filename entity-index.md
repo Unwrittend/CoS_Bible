@@ -40,7 +40,8 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
 | Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 10 |
 | Gertruda Stiegler |  | [npcs/gertruda-stiegler.md](npcs/gertruda-stiegler.md) | mixed | 2 |
-| Ismark the Great | Ismark, Ismark the Lesser | [npcs/ismark-the-great.md](npcs/ismark-the-great.md) | canon |  |
+| Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 10 |
+| Ismark the Great | Ismark the Great | [npcs/ismark-the-great.md](npcs/ismark-the-great.md) | canon |  |
 | Isaac "Izek" Strazani | Isaac, Izek | [npcs/izek-strazani.md](npcs/izek-strazani.md) | mixed | 10 |
 | Kasimir Velikov | Kasimir, Casimir | [npcs/kasimir-velikov.md](npcs/kasimir-velikov.md) | canon | 10 |
 | Void Child - Khirad, the Star of Secrets | Void Child, Khirad, The Star of Secrets | [npcs/khirad.md](npcs/khirad.md) | mixed | 0 |

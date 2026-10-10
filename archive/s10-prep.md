@@ -171,7 +171,7 @@ That fills the whole day, so **they will probably miss dinner with Strahd.** (Mi
       - posing as helpers for Morgantha and Elaine's festival setup;
       - help from the Dusk Elves (tentative);
       - the Session 9 lumber stockpile offered as tribute.
-  - **Irena at the gate:** if she declares, "I am Irena Kolyana, sister of the Burgomaster of Barovia… I would speak with your Burgomaster," the guards laugh her off. Everyone knows Kolyan's daughter has bright red hair (hers is currently dyed black), and they send her to "join the rest of those sufferers in the camps."
+  - **Ireena at the gate:** if she declares, "I am Ireena Kolyana, sister of the Burgomaster of Barovia… I would speak with your Burgomaster," the guards laugh her off. Everyone knows Kolyan's daughter has bright red hair (hers is currently dyed black), and they send her to "join the rest of those sufferers in the camps."
   - **Who says what:** the refugees are the ones who warn about Izek and talk about the werewolf attacks. Lucien is the one who talks about the sickness.
 
 **C. The Vistani camp near Vallaki** — **played in Session 10** (see the Session Log). The notes below were the prep going in.

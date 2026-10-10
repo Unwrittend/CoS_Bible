@@ -95,7 +95,7 @@ A bracelet of wolf fangs — thematically bound to Jacob's lycanthropy and his i
 
 ### The Sun Sword
 
-**Status: partially established (module baseline item); the following backstory is idea-stage.** Per this campaign's reworked history, the Sun Sword is kept inside the Amber Temple itself, guarded by Argonvost. Saint Markovia had to prove herself worthy before Argonvost armed her with it, and she used it to kill Strahd a second time. Per the Session 8 Tarokka reading, the Eight of Glyphs card ("a weapon of vengeance, a sword of sunlight… in an amber prison where the devil fears to tread") points the party toward it, and toward the Amber Temple generally. **Session 9 update:** Irena's in-fiction knowledge narrowed the physical route to Argonvost's Holt to an offshoot of the Luna River.
+**Status: partially established (module baseline item); the following backstory is idea-stage.** Per this campaign's reworked history, the Sun Sword is kept inside the Amber Temple itself, guarded by Argonvost. Saint Markovia had to prove herself worthy before Argonvost armed her with it, and she used it to kill Strahd a second time. Per the Session 8 Tarokka reading, the Eight of Glyphs card ("a weapon of vengeance, a sword of sunlight… in an amber prison where the devil fears to tread") points the party toward it, and toward the Amber Temple generally. **Session 9 update:** Ireena's in-fiction knowledge narrowed the physical route to Argonvost's Holt to an offshoot of the Luna River.
 
 ### The Tome of Strahd
 
@@ -107,11 +107,11 @@ A bracelet of wolf fangs — thematically bound to Jacob's lycanthropy and his i
 
 ### The Holy Symbol / Amulet of Ravenkind
 
-**Status: partially established (module baseline item); location narrowed in play.** Per this campaign's card-reading tracker, tied to the "Five of Swords, the Myrmidon" Tarokka card — located at a den of wolves overlooking a mountain lake. Previously left ambiguous between two candidates (Lake Luna or Lake Baratok); **Session 9 update:** in-fiction discussion with Irena narrowed this to **Luna Lake** specifically (the only one of the two with hills, matching the card's "den of wolves in the hills"). Possibly given by Madam Eva to Lugdana's expedition historically, as a stopgap when she knew they couldn't kill Strahd outright — that part remains idea-stage.
+**Status: partially established (module baseline item); location narrowed in play.** Per this campaign's card-reading tracker, tied to the "Five of Swords, the Myrmidon" Tarokka card — located at a den of wolves overlooking a mountain lake. Previously left ambiguous between two candidates (Lake Luna or Lake Baratok); **Session 9 update:** in-fiction discussion with Ireena narrowed this to **Luna Lake** specifically (the only one of the two with hills, matching the card's "den of wolves in the hills"). Possibly given by Madam Eva to Lugdana's expedition historically, as a stopgap when she knew they couldn't kill Strahd outright — that part remains idea-stage.
 
 ### Tatyana's Bracelet
 
-**Status: CANONICAL item (revealed in Session 5.5 — see Session Log below); the deeper lineage lore attached to it is idea-stage.** A silver bracelet with gemstones, found in Irena's lockbox. New idea layered on: this item ties into the Tatiana reincarnation lineage (see Irena/Tatiana entry, Section 9 §6) — its origin and who placed it with her as a child is deliberately left unresolved, per your stated preference for ambiguity over exposition.
+**Status: CANONICAL item (revealed in Session 5.5 — see Session Log below); the deeper lineage lore attached to it is idea-stage.** A silver bracelet with gemstones, found in Ireena's lockbox. New idea layered on: this item ties into the Tatiana reincarnation lineage (see Ireena/Tatiana entry, Section 9 §6) — its origin and who placed it with her as a child is deliberately left unresolved, per your stated preference for ambiguity over exposition.
 
 ## Other Items
 

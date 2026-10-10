@@ -13,7 +13,7 @@ nav_order: 2
 ## Where the party is
 
 - **Location:** the Vistani camp of Luvash, about an hour southwest of Vallaki's gates, at night. Curfew has passed; the gates are shut until morning.
-- **Party:** Reyna, Lyasra, Cassandra, Theren, Gaille, with Irena travelling as an NPC. Lycius is asleep after eating one of Morgantha's pies.
+- **Party:** Reyna, Lyasra, Cassandra, Theren, Gaille, with Ireena travelling as an NPC. Lycius is asleep after eating one of Morgantha's pies.
 - **Rest:** no long rest taken yet. The party is deciding between a small-group night excursion into Vallaki and resting until morning.
 - **In-world day:** the evening of Arabelle's 7th birthday, the same day Eliza vanished.
 
@@ -23,7 +23,7 @@ nav_order: 2
 - **Stella Watcher's diary** is in the party's hands. Reyna wants to get into the Volokovich manor and rescue her.
 - **Kasimir** asked to speak with Gaille privately. Her amber charm reacted to him.
 - **Morgantha's pies:** what they do to people who eat them.
-- **Getting into Vallaki:** bribe the right guard, bluff in as festival vendors, or present Irena's lineage and the letter of introduction.
+- **Getting into Vallaki:** bribe the right guard, bluff in as festival vendors, or present Ireena's lineage and the letter of introduction.
 - **Theren's missing gold:** the party took it (GM-confirmed). He doesn't know who did.
 
 ## GM-only (known to the GMs, not the party)

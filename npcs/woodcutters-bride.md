@@ -20,7 +20,7 @@ nav_order: 40
 
   
 
-**Identity (canonical, confirmed 2026-09-24):** this is **Ludmilla Vilisevic**, Strahd's eldest bride (see the Brides entry above). *(Previously filed as a GM working title only.)* **The name was never spoken to the party in dialogue** — Irena did not introduce her, and she never gave her name before combat broke out — so in-fiction the party still doesn't know who she was.
+**Identity (canonical, confirmed 2026-09-24):** this is **Ludmilla Vilisevic**, Strahd's eldest bride (see the Brides entry above). *(Previously filed as a GM working title only.)* **The name was never spoken to the party in dialogue** — Ireena did not introduce her, and she never gave her name before combat broke out — so in-fiction the party still doesn't know who she was.
 
   
 

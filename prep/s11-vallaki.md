@@ -18,7 +18,7 @@ Only actors with **their own motives** are listed; agents who simply serve someo
   - ★ **Volokovich House** — Baron **Vargas**; **Victor** (separate motive); **Izek** (with the Volokoviches).
   - ★ **Anastrasya** and ★ **Ludmilla** — separate factions despite both being Strahd's brides.
   - ★ **Strahd**, with **Eliza** acting as his spy.
-  - ★ **Irena**.
+  - ★ **Ireena**.
   - **St. Andral's Church** — Father Lucien (Yeska follows him); gravedigger **Milivoj** (bone thief); coffin maker **Henrik van der Voort** (receives the bones).
   - **Martikovs** — Urwin (with Danika); Davian (separate motive).
   - **Vistani of Vallaki** — Luvash, Arrigal, Arabelle.
@@ -46,13 +46,13 @@ Only actors with **their own motives** are listed; agents who simply serve someo
   - **The poisoning as one thread in daily phases.** The GMs mean to track it by **what the players can observe each day**, not by what Ludmilla does: visible water contamination, dead fish, new symptoms among the refugees. The players likely can't stop it soon — stopping it means learning about the poison and disrupting the plant. The point of a timeline is to keep feeding them information so they're informed when they can act.
   - **Poison and parasites are two different conditions**, each with its own stages. Poison floated as rashes progressing to jaundice. Ties to 15.3 and the open parasite-stages question.
   - **Rejected:** the RAW event where the drunk Watcher brothers (Nikolai II and Carl) free Rictavio's saber-toothed tiger during the festival — it doesn't add anything.
-  - **MandyMod material reviewed (reference only).** Michelle read through MandyMod's Vallaki overviews: guilty-until-proven-innocent justice, the reformation center, Lady Watcher's savior and festival uprising, Strahd's spawn hidden in the coffin shop, and the Feast ending in riots that burn half the town. The gate rules too: Strahd's name illegal even in writing ("the devil"), mandatory festival attendance, entry interrogation. The GMs will borrow pieces but felt the whole deviates too far from their story. **Michelle's take on the gate:** guards grill newcomers and admit no refugees; if they recognize Irena, it's "above our pay grade — talk to the Burgomaster."
+  - **MandyMod material reviewed (reference only).** Michelle read through MandyMod's Vallaki overviews: guilty-until-proven-innocent justice, the reformation center, Lady Watcher's savior and festival uprising, Strahd's spawn hidden in the coffin shop, and the Feast ending in riots that burn half the town. The gate rules too: Strahd's name illegal even in writing ("the devil"), mandatory festival attendance, entry interrogation. The GMs will borrow pieces but felt the whole deviates too far from their story. **Michelle's take on the gate:** guards grill newcomers and admit no refugees; if they recognize Ireena, it's "above our pay grade — talk to the Burgomaster."
 
 ## 16.3 — Getting into Vallaki
 
   - **What the party wants:** get into Vargas's mansion to look for Stella. They've also talked about overthrowing or killing Vargas. GM questions to answer: what happened to Stella? How do they find the mansion? How did the diary reach Morgantha (less important)?
   - **The walls:** Vallaki is walled on all sides, with portcullised gates and no port (Lake Zarovich is a walk away). Climbing is very hard. Roughly a mile long. The Vistani camp sits near the most natural gate; the refugee camp is outside the gates, about **15 minutes** from where the party is.
-  - **Ways in:** bluff as festival vendors; **bribe the right guard** (the Vistani's tip); talk their way in with Irena. A core social option is reaching Vargas by **showing the letter of introduction and convincing the guards of Irena's lineage**.
+  - **Ways in:** bluff as festival vendors; **bribe the right guard** (the Vistani's tip); talk their way in with Ireena. A core social option is reaching Vargas by **showing the letter of introduction and convincing the guards of Ireena's lineage**.
   - **Izek interrupts** most infiltration routes (see his Section 4 entry).
   - **Map notes:** Vargas's mansion is **N3**, St. Andral's is far from it, and **Blinsky's** is in the middle of town. Sounds at the church won't carry to the mansion.
   - **Breakout scenes:** if several night threads are live, players who pass checks can be moved into a private channel. Sample read-aloud for the Ernst thread: *"From the corner of your eye you catch a cloaked figure dart quickly into the shadows from Vargas's household. You glance back and see that [X, Y and Z] have made the same connection."* The GMs agreed four simultaneous events is too many — pick a subset per scenario (16.4).
@@ -79,8 +79,8 @@ The party chooses to **rest** at the Vistani camp or **infiltrate** Vallaki toni
   - **Izek's response:** holds the gate (see his entry).
   - **The bones:** St. Andral's bones are stolen on the evening after the rest (wording in the transcript is ambiguous; the theft happens around this rest).
   - **Considered and dropped as the night's attack:**
-      - an assassination attempt on Irena by Anastrasya;
-      - werewolves attacking Irena to win Strahd's favor (as the daughter of the Burgomaster whose town Strahd has been attacking).
+      - an assassination attempt on Ireena by Anastrasya;
+      - werewolves attacking Ireena to win Strahd's favor (as the daughter of the Burgomaster whose town Strahd has been attacking).
 
 **If they infiltrate tonight:**
 

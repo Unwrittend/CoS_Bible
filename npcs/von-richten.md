@@ -27,7 +27,7 @@ nav_order: 12
 
   
 
-***Motivations.*** Vengeance against the Vistani broadly (not just the family who sold his son Erasmus) — since Erasmus was sold to Strahd's court and killed. Recently developed a new fixation: experimenting on Irena the moment he learns she can resist vampirism (see Section 9 §11), framed as another symptom of his darkening arc.
+***Motivations.*** Vengeance against the Vistani broadly (not just the family who sold his son Erasmus) — since Erasmus was sold to Strahd's court and killed. Recently developed a new fixation: experimenting on Ireena the moment he learns she can resist vampirism (see Section 9 §11), framed as another symptom of his darkening arc.
 
   
 

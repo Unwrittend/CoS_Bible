@@ -25,7 +25,7 @@ ALIASES = {
     "strahd-von-zarovich": ["Strahd", "The Devil Strahd"],
     "khirad": ["Void Child", "Khirad", "The Star of Secrets"],
     "esmeralda-davenir": ["Esmeralda"],
-    "ismark-the-great": ["Ismark", "Ismark the Lesser"],
+    "ismark-the-great": ["Ismark the Great"],
     "madam-eva": ["Eva"],
     "the-martikov-family": ["Martikovs", "Urwin", "Danika"],
     "mad-mary": ["Mary"],

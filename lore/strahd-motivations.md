@@ -18,11 +18,11 @@ nav_order: 2
 | Take revenge (Ireena's family/Kolyan's line, Doru, Ismark's line; Mordakovs standing, not finalized) | Revenge, full stop |
 | Obtain more power | Refusal to be controlled by anyone — "master of his own fate" |
 | Escape Barovia | Also tied to mastery of his own fate |
-| Claim Irena's soul | Belief that he owns Tatiana / is entitled to her |
+| Claim Ireena's soul | Belief that he owns Tatiana / is entitled to her |
 
   
 
-Cross-cutting: exerting dominance/superiority (revenge + claiming Irena); entertainment (revenge + claiming/toying with Irena + spy network). Character traits kept distinct from motivations: egocentric, prideful, cunning, and a polite "gentlemanly facade" masking the cunning.
+Cross-cutting: exerting dominance/superiority (revenge + claiming Ireena); entertainment (revenge + claiming/toying with Ireena + spy network). Character traits kept distinct from motivations: egocentric, prideful, cunning, and a polite "gentlemanly facade" masking the cunning.
 
   
 
@@ -42,18 +42,18 @@ Strahd's core psychology (Tatiana-shaped hole, the "icky"/predatory design choic
   - **Floated, explicitly NOT canonized:** Rahadin striking a deal with the Dark Powers to resurrect Strahd each time he dies. A possible throughline, deliberately left uncanonized.
   - **Confirmed within the ideation sessions** (still unconfirmed at the table): Rahadin has sacrificed the Dusk Elves for some purpose — whether for the Dark Powers or his own ends is undetermined, but the event itself is treated as settled.
   - **The Winter Fane is the connective tissue** tying all three factions together — already bound to the Dark Powers, with Strahd trying to seize/control her via the Heart of Darkness, while the surviving Fanes presumably want her back. Whichever faction wins her gains a decisive advantage — **what that advantage is was explicitly left open.**
-  - **Irena/Tatiana's "claiming" reframed as a Trojan horse:** Strahd's visible fixation on winning/claiming Irena functions partly as a smokescreen — the Dark Powers assume his "game" is just winning her, so they intervene less in the schemes that actually matter to his real goal of breaking free from them.
+  - **Ireena/Tatiana's "claiming" reframed as a Trojan horse:** Strahd's visible fixation on winning/claiming Ireena functions partly as a smokescreen — the Dark Powers assume his "game" is just winning her, so they intervene less in the schemes that actually matter to his real goal of breaking free from them.
 
-## 10.4 — Irena's anti-curse blessing (major plot device)
+## 10.4 — Ireena's anti-curse blessing (major plot device)
 
-Irena was blessed with some form of anti-curse protection while alone in the woods, before Kolyan found her — most likely by the **Summer Fane**, though a joint Summer+Autumn blessing was also floated. When Strahd bit her, she didn't turn — the first time in any of Tatiana's incarnations his usual method (bite → vampire spawn → obedient companion) has failed. This shifts Strahd from default domination into genuine curiosity and a **carrot-and-stick courtship**: sincere attempts to win her affection alternating with escalating psychological/physical coercion once charm-based domination fails too.
+Ireena was blessed with some form of anti-curse protection while alone in the woods, before Kolyan found her — most likely by the **Summer Fane**, though a joint Summer+Autumn blessing was also floated. When Strahd bit her, she didn't turn — the first time in any of Tatiana's incarnations his usual method (bite → vampire spawn → obedient companion) has failed. This shifts Strahd from default domination into genuine curiosity and a **carrot-and-stick courtship**: sincere attempts to win her affection alternating with escalating psychological/physical coercion once charm-based domination fails too.
 
   
 
-  - **Possible seeding beat:** Irena recounts what she believes is a recurring nightmare of being chased through the forest by a large black wolf (the Summer Fane's animal) — with the twist, left for you to reveal when ready, that this "nightmare" is actually a suppressed memory of the real blessing.
+  - **Possible seeding beat:** Ireena recounts what she believes is a recurring nightmare of being chased through the forest by a large black wolf (the Summer Fane's animal) — with the twist, left for you to reveal when ready, that this "nightmare" is actually a suppressed memory of the real blessing.
   - The blessing's scope is broad/flexible — a general "anti-curse mechanism" rather than vampire-immunity specifically, potentially covering lycanthropy and Vistani curses too; sufficiently powerful Fane-level entities could still overcome it via a contested roll.
   - **Tabled, not resolved:** whether a mortal's soul actually departs the body upon vampire-spawn conversion, or remains present in diminished form — raised as a possible explanation for why Tatiana keeps reincarnating even after past spawn-conversions.
-  - **Direct consequence:** Von Richten becomes specifically fascinated by Irena the moment he learns she can resist vampirism, and wants to experiment on her — another symptom of his darkening arc (see his NPC entry, Section 4). The Dark Powers don't control him yet; they find him increasingly *enticing* as a potential asset given his own moral decay.
+  - **Direct consequence:** Von Richten becomes specifically fascinated by Ireena the moment he learns she can resist vampirism, and wants to experiment on her — another symptom of his darkening arc (see his NPC entry, Section 4). The Dark Powers don't control him yet; they find him increasingly *enticing* as a potential asset given his own moral decay.
 
 ## 10.5 — Faction geography & the Heart of Darkness
 

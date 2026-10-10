@@ -19,7 +19,7 @@ nav_order: 11
 
   
 
-***Resonance.*** Complicated, not cartoonishly hateable — except in one deliberate place: his pursuit of Tatiana/Irena, which should land as viscerally "icky"/predatory (a hunter enjoying the chase; "wooing" as part of the hunt), so players want to see him defeated on that front specifically even while finding him sympathetic elsewhere.
+***Resonance.*** Complicated, not cartoonishly hateable — except in one deliberate place: his pursuit of Tatiana/Ireena, which should land as viscerally "icky"/predatory (a hunter enjoying the chase; "wooing" as part of the hunt), so players want to see him defeated on that front specifically even while finding him sympathetic elsewhere.
 
   
 
@@ -27,7 +27,7 @@ nav_order: 11
 
   
 
-***Motivations.*** Two root motivations, from which everything else descends: (1) **mastery of his own fate/destiny** — refusal to be controlled by anyone, chiefly the Dark Powers; and (2) a genuine **love of entertainment/spectacle**. Goals downstream of these: revenge on those who've killed him across past cycles; obtaining more power; escaping Barovia; claiming Irena/Tatiana (belief that he owns her); building his spy network and military strength.
+***Motivations.*** Two root motivations, from which everything else descends: (1) **mastery of his own fate/destiny** — refusal to be controlled by anyone, chiefly the Dark Powers; and (2) a genuine **love of entertainment/spectacle**. Goals downstream of these: revenge on those who've killed him across past cycles; obtaining more power; escaping Barovia; claiming Ireena/Tatiana (belief that he owns her); building his spy network and military strength.
 
   
 
@@ -43,7 +43,7 @@ nav_order: 11
 
   
 
-***Relationships.*** Views virtually everyone in Barovia (barring the Vistani, his "birds") as living in a cage, and believes what he could offer Tatiana/Irena — wealth, protection, status — is a bigger, more comfortable cage than anyone else in Barovia could give her. Blames Sergei for his own death in his internal accounting ("too bullheaded to see he could never win her back") rather than taking responsibility; views Sergei and Tatiana's romance with a kind of contemptuous dismissal ("high school love"). If he can't escape Barovia, he'd keep Tatiana as a vampire-spawn companion; if he can escape and she still refuses him, he'd leave without her rather than delay his own freedom — but would frame it to himself as teaching her a lesson about her own "childishness," never as self-preservation.
+***Relationships.*** Views virtually everyone in Barovia (barring the Vistani, his "birds") as living in a cage, and believes what he could offer Tatiana/Ireena — wealth, protection, status — is a bigger, more comfortable cage than anyone else in Barovia could give her. Blames Sergei for his own death in his internal accounting ("too bullheaded to see he could never win her back") rather than taking responsibility; views Sergei and Tatiana's romance with a kind of contemptuous dismissal ("high school love"). If he can't escape Barovia, he'd keep Tatiana as a vampire-spawn companion; if he can escape and she still refuses him, he'd leave without her rather than delay his own freedom — but would frame it to himself as teaching her a lesson about her own "childishness," never as self-preservation.
 
   
 
@@ -55,7 +55,7 @@ nav_order: 11
 
   
 
-**Extensive lore not yet touched on above:** full goals/motivations table, the three-way Dark Powers/Strahd/Fanes power struggle, Irena's anti-curse blessing and why his usual method failed on her, the wine/Mardikov fetch-quest hook, the dinner-invitation and reward/boon mechanic, and the death/resurrection timeline are all detailed in **Section 9** — refer there rather than duplicating here.
+**Extensive lore not yet touched on above:** full goals/motivations table, the three-way Dark Powers/Strahd/Fanes power struggle, Ireena's anti-curse blessing and why his usual method failed on her, the wine/Mardikov fetch-quest hook, the dinner-invitation and reward/boon mechanic, and the death/resurrection timeline are all detailed in **Section 9** — refer there rather than duplicating here.
 
 **Session 9 note \[player theory, unconfirmed\]:** the party, discussing the Tarokka "lost soul" clue, floated the theory that the ally described (a "soul unmoored from its body, bound still to duty... a blade that does not know it has already fallen") could be Strahd's slain brother — i.e. that he "didn't actually die" in the way the myth says. This is party speculation prompted by Reyna's campfire story, not a GM-confirmed fact — flagging here so it isn't mistaken for established lore.
 

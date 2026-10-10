@@ -33,6 +33,6 @@ nav_order: 18
 
   
 
-**Current narrative status:** Historical figure, deceased for centuries by the party's present day. Not yet encountered; his Holt (per the party's card-reading tracker) is tied to the Holy Symbol of Ravenkind's location. **Session 9 update:** Irena's in-fiction guidance narrowed this further — the Holt ("a house led by a dragon, died over a hundred years ago") is reachable via an offshoot of the Luna River.
+**Current narrative status:** Historical figure, deceased for centuries by the party's present day. Not yet encountered; his Holt (per the party's card-reading tracker) is tied to the Holy Symbol of Ravenkind's location. **Session 9 update:** Ireena's in-fiction guidance narrowed this further — the Holt ("a house led by a dragon, died over a hundred years ago") is reachable via an offshoot of the Luna River.
 
   

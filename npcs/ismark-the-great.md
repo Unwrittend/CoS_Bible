@@ -1,7 +1,7 @@
 ---
 title: "Ismark the Great"
 name: "Ismark the Great"
-aliases: ["Ismark", "Ismark the Lesser"]
+aliases: ["Ismark the Great"]
 type: "npc"
 status: "canon"
 parent: "NPCs"

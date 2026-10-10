@@ -30,4 +30,4 @@ nav_order: 16
 
   
 
-**Current narrative status:** Confirmed — the campfire storytelling scene was completed in Session 9. Stanimir told the planned Lugdana/Holy Symbol of Ravenkind poem, largely as outlined; the table judged it a half-truth ("Lugdana surely existed... we do not know where she is"). Irena's own story slot (the wolf-chase nightmare vehicle planned in Section 13.3) was **not** used this session — still open for a future session.
+**Current narrative status:** Confirmed — the campfire storytelling scene was completed in Session 9. Stanimir told the planned Lugdana/Holy Symbol of Ravenkind poem, largely as outlined; the table judged it a half-truth ("Lugdana surely existed... we do not know where she is"). Ireena's own story slot (the wolf-chase nightmare vehicle planned in Section 13.3) was **not** used this session — still open for a future session.

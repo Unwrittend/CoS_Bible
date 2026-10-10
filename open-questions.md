@@ -48,12 +48,12 @@ nav_order: 4
   - Von Richten's undead-warded bedroll — needs full homebrew stat-out and an in-fiction concealment method.
   - Whether Esmeralda appears in-session, and how/when.
   - Gertruda's independent motivation is confirmed in direction but not yet scripted as scenes/letters.
-  - How Irena/Tatiana's convergence-point role will surface to the players — needs seeding, not exposition.
+  - How Ireena/Tatiana's convergence-point role will surface to the players — needs seeding, not exposition.
   - Which NPC branch (Casimir/Petrina vs. Lady Watcher/Stella vs. Victor) actually leads the party to the Tome of Strahd — deliberately left redundant/branching.
   - The Volokoviches' redeeming trait/nuance — still being worked out. *(2026-09-15: goals articulated — Section 15.6 — but a redeeming trait still isn't named.)*
   - No quest hook yet points toward the Abbey of Saint Markovia — a gap.
-  - ~~Isaac "Izek" Strazani as Irena's brother~~ — **RESOLVED 2026-09-24: canon.** Still open: how the two were separated (ideation only), and when and how the relationship is revealed.
-  - **(Added 2026-09-24)** When and how Izek realizes Irena is the red-haired woman of his dreams (dye growing out or washing off, catching her unguarded), and where the resulting abduction fight happens.
+  - ~~Isaac "Izek" Strazani as Ireena's brother~~ — **RESOLVED 2026-09-24: canon.** Still open: how the two were separated (ideation only), and when and how the relationship is revealed.
+  - **(Added 2026-09-24)** When and how Izek realizes Ireena is the red-haired woman of his dreams (dye growing out or washing off, catching her unguarded), and where the resulting abduction fight happens.
   - ~~**(Added 2026-09-24)** Watcher family naming: is **Nikolai** the dead husband or a son?~~ — **RESOLVED 2026-09-24: both.** The husband is Nikolai; the son is Nikolai II.
   - **(Added 2026-09-24)** Does Baba Lysaga have covens/agents, and did Lady Watcher learn her occultism from one?
   - **(Added 2026-09-24)** Arabelle — what is she *for*, and therefore where is she? **Partly resolved in Session 10 (canonical):** she went missing in the Vallaki marketplace on her 7th birthday. **Still open:** who took her and where she is now (Lake Zarovich via an infected host or druid, Von Richten's wagon, or something else), and whether it's connected to Eliza vanishing the same day. See Section 15.8.
@@ -62,7 +62,7 @@ nav_order: 4
   - ~~**(Added Session 10)** Who took Theren's gold?~~ **Resolved (GM-confirmed):** the rest of the party, while he was with Eliza. Theren still doesn't know.
   - **(Added Session 10)** How does Reyna know Ludmilla survived? Log the source if there is one.
   - ~~**(Added Session 10)** Where did Eliza go?~~ **Resolved (GM-confirmed):** to Castle Ravenloft; she is Strahd's spy. The party doesn't know.
-  - **(Added Session 10)** Irena named a family that resents the mill's new owners. The transcript says "the Andersons." Confirm the name.
+  - **(Added Session 10)** Ireena named a family that resents the mill's new owners. The transcript says "the Andersons." Confirm the name.
   - ~~**(Added 2026-09-16)** Does "Ludmilla Vilisevic" relate to the Session 9 "Woodcutter's Bride"?~~ — **RESOLVED 2026-09-24 (canonical): they are the same character**, and she survived via an emergency portal (Section 4). Also resolved: "Violetta" = Volenta Popofsky.
   - **(Added Session 9)** ~~Who was the noble vampire, and was her unusual death meaningful?~~ **RESOLVED 2026-09-24 (canonical):** Ludmilla, who escaped by emergency portal rather than dying. **Still open:** what exactly she was building (2026-09-19 proposal: supply lines to the castle for the Roc and to the upstream poison works — Section 15.4).
   - **(Added 2026-09-24)** Ludmilla's aftermath: how badly was she hurt, does she know who the party are, has she told Strahd, and does losing her undead workforce set back the poisoning schedule in 15.4? Does she want revenge?
