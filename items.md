@@ -5,7 +5,7 @@ status: "mixed"
 nav_order: 12
 ---
 
-# SECTION 5: KEY ITEMS
+# Key items
 
 ## Character Items
 
@@ -37,7 +37,7 @@ Khirad manifests itself as 'Void Child' to Gaille. Void child can only speak in 
 
   
 
-**\[IDEA — NONCANONICAL\] See the REVISION note under Void Child's NPC entry ([Section 4](npcs/index.md)) — Khirad/Void Child's identity as an Elder Evil vs. a corrupted Winter Fane remnant is unresolved.**
+**\[IDEA — NONCANONICAL\] See the REVISION note under Void Child's [NPC entry](npcs/khirad.md) — Khirad/Void Child's identity as an Elder Evil vs. a corrupted Winter Fane remnant is unresolved.**
 
 ### Cassandra – Dark One's Tarokka Deck
 
@@ -99,11 +99,11 @@ A bracelet of wolf fangs — thematically bound to [Jacob](pcs/jacob.md)'s lycan
 
 ### The Tome of Strahd
 
-**Status: idea-stage, a major new questline.** An artifact resembling [Strahd](npcs/strahd-von-zarovich.md)'s own diary/journal, giving deep, humanizing backstory and potentially his own research notes on communing with/summoning the Dark Powers ("Mother Night" in-world — see [Section 11](lore/tome-of-strahd.md)). Hidden inside the Volokovich mansion's enchanted Spirit Mirror, a gift from Saint Andrew to the family, styled as a Sorcerer's-Stone/Mirror-of-Erised analog. Full questline details, including multiple parallel NPC leads, are in **Section 11**.
+**Status: idea-stage, a major new questline.** An artifact resembling [Strahd](npcs/strahd-von-zarovich.md)'s own diary/journal, giving deep, humanizing backstory and potentially his own research notes on communing with/summoning the Dark Powers ("Mother Night" in-world — see [Tome of Strahd](lore/tome-of-strahd.md)). Hidden inside the Volokovich mansion's enchanted Spirit Mirror, a gift from Saint Andrew to the family, styled as a Sorcerer's-Stone/Mirror-of-Erised analog. Full questline details, including multiple parallel NPC leads, are in **[Tome of Strahd](lore/tome-of-strahd.md)**.
 
 ### The Heart of Darkness
 
-**Status: idea-stage.** The Winter Fane's remaining physical essence, tentatively located at the bottom of **Lake Zarovich** (with a mountain-location alternative also considered). [Strahd](npcs/strahd-von-zarovich.md) cannot personally retrieve it due to his running-water weakness — this is being used as a legitimate fetch-quest hook, potentially offering the party passage out of Barovia in exchange for retrieval. See **[Section 10](lore/strahd-motivations.md)** for full details, including the significant player-exit mechanic tied to this item. **2026-09-19 ideation update:** now tied to the **Winter Worm**, the Winter Fane's primordial beast sleeping at the lake bottom. Strahd is slowly poisoning the worm to get the Heart, and plans to send [Rahadin](npcs/rahadin.md) (and possibly the party) down to kill it. Whether the Heart is inside the worm or guarded by it, and whether it's one stone or several, is undecided. See **[Section 15.2](archive/s10-prep.md#152--the-winter-worm--the-heart-of-darkness) and 15.4**.
+**Status: idea-stage.** The Winter Fane's remaining physical essence, tentatively located at the bottom of **Lake Zarovich** (with a mountain-location alternative also considered). [Strahd](npcs/strahd-von-zarovich.md) cannot personally retrieve it due to his running-water weakness — this is being used as a legitimate fetch-quest hook, potentially offering the party passage out of Barovia in exchange for retrieval. See **[Strahd's motivations](lore/strahd-motivations.md)** for full details, including the significant player-exit mechanic tied to this item. **2026-09-19 ideation update:** now tied to the **Winter Worm**, the Winter Fane's primordial beast sleeping at the lake bottom. Strahd is slowly poisoning the worm to get the Heart, and plans to send [Rahadin](npcs/rahadin.md) (and possibly the party) down to kill it. Whether the Heart is inside the worm or guarded by it, and whether it's one stone or several, is undecided. See **[The Winter Worm & the Heart of Darkness](archive/s10-prep.md#the-winter-worm--the-heart-of-darkness) and [Strahd's Machination: Poisoning the Winter Worm](archive/s10-prep.md#strahds-machination-poisoning-the-winter-worm)**.
 
 ### The Holy Symbol / Amulet of Ravenkind
 
@@ -111,7 +111,7 @@ A bracelet of wolf fangs — thematically bound to [Jacob](pcs/jacob.md)'s lycan
 
 ### Tatyana's Bracelet
 
-**Status: CANONICAL item (revealed in [Session 5.5](sessions/s05-5.md) — see Session Log below); the deeper lineage lore attached to it is idea-stage.** A silver bracelet with gemstones, found in [Ireena](npcs/ireena-kolyana.md)'s lockbox. New idea layered on: this item ties into the Tatiana reincarnation lineage (see Ireena/Tatiana entry, [Section 9](lore/cosmology.md) §6) — its origin and who placed it with her as a child is deliberately left unresolved, per your stated preference for ambiguity over exposition.
+**Status: CANONICAL item (revealed in [Session 5.5](sessions/s05-5.md) — see Session Log below); the deeper lineage lore attached to it is idea-stage.** A silver bracelet with gemstones, found in [Ireena](npcs/ireena-kolyana.md)'s lockbox. New idea layered on: this item ties into the Tatiana reincarnation lineage (see Ireena/Tatiana entry, [Tatiana / Ireena reincarnation lineage](lore/cosmology.md#tatiana--ireena-reincarnation-lineage)) — its origin and who placed it with her as a child is deliberately left unresolved, per your stated preference for ambiguity over exposition.
 
 ## Other Items
 
@@ -149,6 +149,7 @@ Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first dau
 - [Saint Markovia](npcs/saint-markovia.md)
 - [Stanimir](npcs/stanimir.md)
 - [Strahd von Zarovich](npcs/strahd-von-zarovich.md)
+- [Strahd's Brides](npcs/strahds-brides.md)
 - [Von Richten](npcs/von-richten.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](lore/cosmology.md)
 - [Strahd's motivations & the power struggle](lore/strahd-motivations.md)

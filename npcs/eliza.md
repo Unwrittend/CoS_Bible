@@ -25,8 +25,8 @@ nav_order: 15
   - A stereotypical spy archetype with a bubbly personality, but with an unhinged edge underneath.
   - Keeps scrying materials on her person (described in the brainstorm as small pouches of goat-innards/similar used for divination-adjacent magic), and possibly a lock of [Theren](../pcs/theren.md)'s hair, for tracking/scrying on Strahd's behalf. If searched, this is what the party would find.
   - Picked up a folksy, warm speech affectation in the map-design session, played for both charm and mild comic effect.
-  - Established as the NPC most likely to enthusiastically recommend the Pie Mill (see [Section 13](../archive/s09-prep.md)) to the party as a wholesome local landmark, partly out of genuine friendliness and partly to restock her own pie supply.
-  - Slotted to tell the reworked "Vistani can leave Barovia" parable at the planned campfire storytelling scene (reassigned from [Stanimir](stanimir.md) — see Section 13), reinforcing why Ismark distrusts the Vistani.
+  - Established as the NPC most likely to enthusiastically recommend the Pie Mill (see [Session 9 prep](../archive/s09-prep.md)) to the party as a wholesome local landmark, partly out of genuine friendliness and partly to restock her own pie supply.
+  - Slotted to tell the reworked "Vistani can leave Barovia" parable at the planned campfire storytelling scene (reassigned from [Stanimir](stanimir.md) — see [Session 9 prep](../archive/s09-prep.md)), reinforcing why Ismark distrusts the Vistani.
 
   
 

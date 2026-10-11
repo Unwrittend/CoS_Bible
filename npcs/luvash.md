@@ -18,7 +18,7 @@ nav_order: 35
 
   - Volatile and theatrical. Was whipping [Alexei](alexei.md) for losing his daughter when the party arrived, then switched in an instant to effusive host.
   - "I disagree with what you say, but what matters most is getting my daughter back."
-  - Keeps an entry arrangement with Burgomaster [Vargas](baron-vargas-volokovich.md) ([Section 4](index.md), Vargas).
+  - Keeps an entry arrangement with Burgomaster [Vargas](baron-vargas-volokovich.md).
 
 **Current narrative status (canonical):** Met in Session 10. His daughter Arabelle has been missing in Vallaki since 9 a.m. on her 7th birthday.
 

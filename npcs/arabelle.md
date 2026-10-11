@@ -14,7 +14,7 @@ nav_order: 38
 
 **Role:** [Luvash](luvash.md)'s seven-year-old daughter
 
-**Current narrative status (canonical):** **Missing in Vallaki** since about 9 a.m. on her 7th birthday ([Session 10](../sessions/s10.md)), lost in the marketplace on the way to Blinsky's toy shop for a birthday doll. Madam Eva had asked the party to bring her a birthday letter and money ([Theren](../pcs/theren.md) carries the letter) and to buy her a doll. Who took her, and where she is now, is open ([Section 15.8](../archive/s10-prep.md#158--arabelle-undecided)).
+**Current narrative status (canonical):** **Missing in Vallaki** since about 9 a.m. on her 7th birthday ([Session 10](../sessions/s10.md)), lost in the marketplace on the way to Blinsky's toy shop for a birthday doll. Madam Eva had asked the party to bring her a birthday letter and money ([Theren](../pcs/theren.md) carries the letter) and to buy her a doll. Who took her, and where she is now, is open ([Arabelle (undecided)](../archive/s10-prep.md#arabelle-undecided)).
 
 <!-- backlinks:start -->
 

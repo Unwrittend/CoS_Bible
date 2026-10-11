@@ -12,7 +12,7 @@ nav_order: 90
 
   
 
-# SECTION 1: HOW TO USE THIS DOCUMENT
+# How to use this document
 
 This bible is designed to sit as a **Project Knowledge** file in Claude.ai. Every conversation you open within the project will have access to it automatically, without any pasting required.
 

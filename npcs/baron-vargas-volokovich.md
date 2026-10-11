@@ -11,7 +11,7 @@ nav_order: 31
 
 ### Baron Vargas Volokovich
 
-**[IDEA — NONCANONICAL]** Source: 2026-09-15/19 ideation ([Section 15.6](../archive/s10-prep.md#156--vallakis-factions-current-working-model)).
+**[IDEA — NONCANONICAL]** Source: 2026-09-15/19 ideation ([Vallaki's Factions (current working model)](../archive/s10-prep.md#vallakis-factions-current-working-model)).
 
 **Source characterization:** RAW, homebrew expanded
 
@@ -19,7 +19,7 @@ nav_order: 31
 
 **Key characterization principles:**
 
-  - Goal: keep [Strahd](strahd-von-zarovich.md) out first and foremost, and keep the peace — which to him means making sure everyone *seems* happy. Strahd's recent reawakening (~a month ago) is the inciting incident for the festivals. Catchphrase: "All will be well" ([Section 12](../lore/vallaki-houses.md)).
+  - Goal: keep [Strahd](strahd-von-zarovich.md) out first and foremost, and keep the peace — which to him means making sure everyone *seems* happy. Strahd's recent reawakening (~a month ago) is the inciting incident for the festivals. Catchphrase: "All will be well" ([Vallaki's noble houses](../lore/vallaki-houses.md)).
   - Wants the power inside Lake Zarovich to fight Strahd's coming onslaught, against everything Saint Andral would want. He believed the orphan [Izek](izek-strazani.md)'s story of a monster in the lake when no one else did, rescued him, and took him in.
   - Paranoid; sees assassins in every shadow. Blames Strahd for poisoning Vallaki's water — ironically, correctly.
   - Refuses Barovian refugees entry because they bring disease and unhappiness, which attract maladies and Strahd. Has bitten refugees lynched as Strahd's servants. Imposes the gate entry ritual (running holy water, silver-blade cut, garlic) on everyone, Vallakian and Barovian alike.
