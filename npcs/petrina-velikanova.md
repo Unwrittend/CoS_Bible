@@ -22,7 +22,7 @@ nav_order: 21
   
 
   - Sends dreams to her brother Casimir, who wants to resurrect her.
-  - Tentatively identified as the "lost soul" from the Nine-of-Glyphs card clue tied to the Tome of Strahd (see Section 11).
+  - Tentatively identified as the "lost soul" from the Nine-of-Glyphs card clue tied to the Tome of Strahd (see [Tome of Strahd](../lore/tome-of-strahd.md)).
 
   
 

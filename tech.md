@@ -4,7 +4,7 @@ type: "meta"
 nav_order: 92
 ---
 
-# SECTION 7: TECHNICAL REFERENCE
+# Technical reference
 
 *Quick reference for Foundry VTT setup details — useful context when asking AI for technical help.*
 

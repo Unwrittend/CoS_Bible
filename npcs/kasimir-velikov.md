@@ -27,7 +27,7 @@ nav_order: 20
   - Nephew of the late Dusk Elf prince; cousin of Rahadin.
   - Core motivations (per raw material): Dusk Elf safety, and his sister's resurrection/redemption.
   - RP inspirations pitched: Doctor Strange, Sherlock Holmes, Spock, and the Twelfth Doctor.
-  - Twist for this campaign: Petrina's spirit is the "lost soul" referenced in the Nine-of-Glyphs Tarokka clue ("I see the ancient foe of an old and noble house. The lost soul will lead you to him"), and can lead the party either directly toward knowledge of the Tome of Strahd, or toward Casimir himself, who then points them at the Volokovich mansion — rather than simply handing the item over, which felt too anticlimactic. See Section 11.
+  - Twist for this campaign: Petrina's spirit is the "lost soul" referenced in the Nine-of-Glyphs Tarokka clue ("I see the ancient foe of an old and noble house. The lost soul will lead you to him"), and can lead the party either directly toward knowledge of the Tome of Strahd, or toward Casimir himself, who then points them at the Volokovich mansion — rather than simply handing the item over, which felt too anticlimactic. See [Tome of Strahd](../lore/tome-of-strahd.md).
 
   
 

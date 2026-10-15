@@ -11,7 +11,7 @@ nav_order: 26.5
 
 ### Ireena Kolyana
 
-**Source characterization:** RAW (Ireena Kolyana), heavily reworked. Introduced in play in [Session 5](../sessions/s05.md) ("Meeting Ireena"). *Entry created 2026-10-10 by gathering what the bible already said about her across the session log, NPC entries and Sections 9–16. No new material was added. Fields of the full NPC template (Resonance, Emotions, Morale, Voice) haven't been worked out yet and are left for the GMs.*
+**Source characterization:** RAW (Ireena Kolyana), heavily reworked. Introduced in play in [Session 5](../sessions/s05.md) ("Meeting Ireena"). *Entry created 2026-10-10 by gathering what the bible already said about her across the session log, NPC entries, lore and prep notes. No new material was added. Fields of the full NPC template (Resonance, Emotions, Morale, Voice) haven't been worked out yet and are left for the GMs.*
 
 **Spelling:** **Ireena Kolyana** (GM-confirmed 2026-10-10). Earlier entries and transcripts often spell it "Irena"; that spelling is kept here only as an alias.
 
@@ -23,7 +23,7 @@ nav_order: 26.5
   - Manages her own secrets rather than handing them over. She hid Strahd's bite under a scarf, and asked to go later rather than take her turn in the [Session 5.5](../sessions/s05-5.md) truth game.
   - A useful guide for the party: she knows the land and its people, marks quest locations on their map, interprets their Tarokka readings with them ([Session 9](../sessions/s09.md)), and recognized [Stella Watcher](stella-watcher.md) from the diary ([Session 10](../sessions/s10.md)).
   - "She's a girl's girl." She stayed at [Gaille](../pcs/gaille.md)'s side through [Kasimir](kasimir-velikov.md)'s attention (Session 10).
-  - Should be specifically infuriated by the Volokoviches refusing Barovian refugees entry to Vallaki (Section 12 / [lore/vallaki-houses](../lore/vallaki-houses.md), ideation).
+  - Should be specifically infuriated by the Volokoviches refusing Barovian refugees entry to Vallaki ([lore/vallaki-houses](../lore/vallaki-houses.md), ideation).
 
 **Canonical facts (established in play or GM-confirmed):**
 
@@ -35,8 +35,8 @@ nav_order: 26.5
 
 **[IDEA — NONCANONICAL] GM ideation attached to her:**
 
-  - **Reincarnation lineage:** Tatiana → [Saint Markovia](saint-markovia.md) → Ireena ([Section 9.6](../lore/cosmology.md#96--tatiana--ireena-reincarnation-lineage), [lore/cosmology](../lore/cosmology.md)). Kolyan suspected the cycle and searched for her, then adopted her. Strahd may believe she is a nexus point like the Fanes, not simply a romantic fixation.
-  - **Anti-curse blessing** ([Section 10.4](../lore/strahd-motivations.md#104--ireenas-anti-curse-blessing-major-plot-device), [lore/strahd-motivations](../lore/strahd-motivations.md)): she was blessed while alone in the woods before Kolyan found her, most likely by the Summer Fane. This is why Strahd's bite didn't turn her. It shifts Strahd into a carrot-and-stick courtship, and makes [Von Richten](von-richten.md) want to experiment on her once he learns of it.
+  - **Reincarnation lineage:** Tatiana → [Saint Markovia](saint-markovia.md) → Ireena ([Tatiana / Ireena reincarnation lineage](../lore/cosmology.md#tatiana--ireena-reincarnation-lineage), [lore/cosmology](../lore/cosmology.md)). Kolyan suspected the cycle and searched for her, then adopted her. Strahd may believe she is a nexus point like the Fanes, not simply a romantic fixation.
+  - **Anti-curse blessing** ([Ireena's anti-curse blessing (major plot device)](../lore/strahd-motivations.md#ireenas-anti-curse-blessing-major-plot-device), [lore/strahd-motivations](../lore/strahd-motivations.md)): she was blessed while alone in the woods before Kolyan found her, most likely by the Summer Fane. This is why Strahd's bite didn't turn her. It shifts Strahd into a carrot-and-stick courtship, and makes [Von Richten](von-richten.md) want to experiment on her once he learns of it.
   - **The wolf-chase "nightmare":** a recurring dream of being chased by a large black wolf, which is really a suppressed memory of the blessing. Planned for her campfire story, which still hasn't been told (Sessions 9 and 10).
   - **How she and Izek were separated:** Chris's version has Kolyan find her in the Svalich Woods while Izek reached Vallaki as an orphan. Michelle raised timeline concerns, so this is unsettled.
   - **Izek's red-hair fixation:** he won't recognize her while her hair is dyed. That could change if the dye grows out or washes off.

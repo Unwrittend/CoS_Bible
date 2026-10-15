@@ -1,11 +1,11 @@
-"""Cross-link the bible: turn mentions of characters, items, sessions and "Section N"
-references into relative markdown links, and maintain a generated "Mentioned in"
+"""Cross-link the bible: turn mentions of characters, items and sessions into relative
+markdown links, and maintain a generated "Mentioned in"
 backlinks block at the bottom of each entity page.
 
 Rules:
   - Only the first mention of each target per section (text between headings) is linked.
   - Headings, frontmatter, code, existing links and the backlinks block are never touched.
-  - A file never links to itself (except to an anchor inside itself, e.g. "Section 9.6").
+  - A file never links to itself (except to an anchor inside itself).
   - Idempotent: rerunning adds nothing if a section already links to a target.
   - Only link markup is added; the prose itself is unchanged.
 
@@ -95,23 +95,6 @@ TERMS = {
     "lore/tome-of-strahd.md": ["Tome of Strahd"],
 }
 
-# Old monolith section numbers -> files ("Section 5" is ambiguous: items vs session log).
-SECTION_FILES = {
-    "1": "about.md", "2": "conventions.md", "3": "pcs/index.md", "4": "npcs/index.md",
-    "6": "templates.md", "7": "tech.md", "8": "conventions.md", "9": "lore/cosmology.md",
-    "10": "lore/strahd-motivations.md", "11": "lore/tome-of-strahd.md",
-    "12": "lore/vallaki-houses.md", "13": "archive/s09-prep.md", "14": "open-questions.md",
-    "15": "archive/s10-prep.md", "16": "prep/s11-vallaki.md",
-}
-
-
-def gh_anchor(heading):
-    """GitHub/kramdown-GFM heading id."""
-    text = re.sub(r"^#+\s*", "", heading).strip().lower()
-    text = re.sub(r"[^\w\- ]", "", text).replace("_", "")
-    return text.replace(" ", "-")
-
-
 def read(path):
     return open(os.path.join(ROOT, path), encoding="utf-8").read()
 
@@ -133,14 +116,6 @@ files = sorted(p for p in (os.path.relpath(f, ROOT) for f in
                if not p.startswith(("tools/", "archive/campaign-bible-monolith"))
                and p not in SKIP_FILES)
 
-# Subsection anchors: "Section 15.8" -> archive/s10-prep.md#158--arabelle-undecided
-SUBSECTIONS = {}
-for num, path in SECTION_FILES.items():
-    for line in read(path).split("\n"):
-        m = re.match(r"^## (\d+\.\d+) ", line)
-        if m:
-            SUBSECTIONS[m.group(1)] = f"{path}#{gh_anchor(line)}"
-
 # Session files: "Session 1.5b" -> sessions/s01-5b.md
 SESSIONS = {}
 for p in files:
@@ -153,8 +128,7 @@ term_to_target = {t: tgt for tgt, ts in TERMS.items() for t in ts}
 name_alt = "|".join(re.escape(t) for t in sorted(term_to_target, key=len, reverse=True))
 TOKEN = re.compile(
     r"(?<![\w\[])(?:"
-    r"(?P<section>Section (?P<secnum>\d+(?:\.\d+)?))"
-    r"|(?P<session>Session (?P<sesnum>\d+(?:\.\d+[a-z]?)?))"
+    r"(?P<session>Session (?P<sesnum>\d+(?:\.\d+[a-z]?)?))"
     r"|(?P<name>" + name_alt + r"))(?![\w])")
 PROTECT = re.compile(
     r"`[^`]*`"                                   # inline code
@@ -164,9 +138,6 @@ PROTECT = re.compile(
 
 
 def resolve(m):
-    if m.group("section"):
-        num = m.group("secnum")
-        return SUBSECTIONS.get(num) or SECTION_FILES.get(num.split(".")[0])
     if m.group("session"):
         num = m.group("sesnum")
         return SESSIONS.get(num)

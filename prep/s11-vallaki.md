@@ -6,11 +6,11 @@ parent: "Prep"
 nav_order: 1
 ---
 
-# SECTION 16: SESSION 11 PREP — VALLAKI FACTIONS, THE THREE-DAY TIMELINE & THE NIGHT OUTSIDE THE WALLS
+# Session 11 prep — Vallaki factions, the three-day timeline & the night outside the walls
 
 **[IDEA — NONCANONICAL] Everything in this section is GM ideation, not actual play.** Sources: *Velocki Factions Timeline: Major and Minor Groups Revealed* (2026-09-27); *Major Factions and Suspected Events in the World* (2026-09-27); *Feast of St. Angels, Zombie Attack, and Bones Theft* (2026-09-27); *Sneaking into Valocky and [Vargas](../npcs/baron-vargas-volokovich.md)'s Mansion Mystery* (2026-10-08). The transcripts render St. Andral as "St. Angels" and [Lucien](../npcs/father-lucien-petrovich.md) as "Lucian"; this section uses the bible's spellings. The GMs plan to build their own day-by-day timeline next, rather than lean on Dragnacarta.
 
-## 16.1 — The cast of motives (Vallaki factions)
+## The cast of motives (Vallaki factions)
 
 Only actors with **their own motives** are listed; agents who simply serve someone else's motive are noted under their principal. Major factions — the ones likely to drive major events — are marked ★.
 
@@ -31,7 +31,7 @@ Only actors with **their own motives** are listed; agents who simply serve someo
   - **Can intervene but needn't:** the **werewolves**; the **Deva at Krezk** (about a day's walk); **Baba Lysaga's coven**.
   - Left off the motive list: Ernst and Yeska (agents only); **Blinsky** (no tie yet); [Arturi](../npcs/arturi.md); Von Richten's tower (out of the party's likely range).
 
-## 16.2 — Major events in the three-day window
+## Major events in the three-day window
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
@@ -45,20 +45,20 @@ Only actors with **their own motives** are listed; agents who simply serve someo
 
   - **Canon update (GM-confirmed 2026-10-14) — the coffin maker's house:** the vampire spawn in the Feast condition are real — a nest in his house, and **[Arabelle](../npcs/arabelle.md) is trapped there.** Her clairvoyance led her to the nest; Henrik kidnapped her so she wouldn't expose him, and is hiding her in hope the spawn don't notice. Rescuing Arabelle therefore leads the party to the nest, and to the Feast-of-St.-Andral thread. Whether the bones theft and its timing stay as above is still **[IDEA — NONCANONICAL]**.
   - **The poisoning as one thread in daily phases.** The GMs mean to track it by **what the players can observe each day**, not by what Ludmilla does: visible water contamination, dead fish, new symptoms among the refugees. The players likely can't stop it soon — stopping it means learning about the poison and disrupting the plant. The point of a timeline is to keep feeding them information so they're informed when they can act.
-  - **Poison and parasites are two different conditions**, each with its own stages. Poison floated as rashes progressing to jaundice. Ties to 15.3 and the open parasite-stages question.
+  - **Poison and parasites are two different conditions**, each with its own stages. Poison floated as rashes progressing to jaundice. Ties to [The Withering Sickness (parasites + poison)](../archive/s10-prep.md#the-withering-sickness-parasites--poison) and the open parasite-stages question.
   - **Rejected:** the RAW event where the drunk Watcher brothers (Nikolai II and Carl) free Rictavio's saber-toothed tiger during the festival — it doesn't add anything.
   - **MandyMod material reviewed (reference only).** Michelle read through MandyMod's Vallaki overviews: guilty-until-proven-innocent justice, the reformation center, Lady Watcher's savior and festival uprising, Strahd's spawn hidden in the coffin shop, and the Feast ending in riots that burn half the town. The gate rules too: Strahd's name illegal even in writing ("the devil"), mandatory festival attendance, entry interrogation. The GMs will borrow pieces but felt the whole deviates too far from their story. **Michelle's take on the gate:** guards grill newcomers and admit no refugees; if they recognize [Ireena](../npcs/ireena-kolyana.md), it's "above our pay grade — talk to the Burgomaster."
 
-## 16.3 — Getting into Vallaki
+## Getting into Vallaki
 
   - **What the party wants:** get into [Vargas](../npcs/baron-vargas-volokovich.md)'s mansion to look for [Stella](../npcs/stella-watcher.md). They've also talked about overthrowing or killing Vargas. GM questions to answer: what happened to Stella? How do they find the mansion? How did the diary reach [Morgantha](../npcs/morgantha.md) (less important)?
   - **The walls:** Vallaki is walled on all sides, with portcullised gates and no port (Lake Zarovich is a walk away). Climbing is very hard. Roughly a mile long. The Vistani camp sits near the most natural gate; the refugee camp is outside the gates, about **15 minutes** from where the party is.
   - **Ways in:** bluff as festival vendors; **bribe the right guard** (the Vistani's tip); talk their way in with [Ireena](../npcs/ireena-kolyana.md). A core social option is reaching Vargas by **showing the letter of introduction and convincing the guards of Ireena's lineage**.
-  - **[Izek](../npcs/izek-strazani.md) interrupts** most infiltration routes (see his [Section 4](../npcs/index.md) entry).
+  - **[Izek](../npcs/izek-strazani.md) interrupts** most infiltration routes (see his [NPC entry](../npcs/izek-strazani.md)).
   - **Map notes:** Vargas's mansion is **N3**, St. Andral's is far from it, and **Blinsky's** is in the middle of town. Sounds at the church won't carry to the mansion.
-  - **Breakout scenes:** if several night threads are live, players who pass checks can be moved into a private channel. Sample read-aloud for the [Ernst](../npcs/ernest-larnack.md) thread: *"From the corner of your eye you catch a cloaked figure dart quickly into the shadows from Vargas's household. You glance back and see that [X, Y and Z] have made the same connection."* The GMs agreed four simultaneous events is too many — pick a subset per scenario (16.4).
+  - **Breakout scenes:** if several night threads are live, players who pass checks can be moved into a private channel. Sample read-aloud for the [Ernst](../npcs/ernest-larnack.md) thread: *"From the corner of your eye you catch a cloaked figure dart quickly into the shadows from Vargas's household. You glance back and see that [X, Y and Z] have made the same connection."* The GMs agreed four simultaneous events is too many — pick a subset per scenario ([The night: rest or infiltrate](#the-night-rest-or-infiltrate)).
 
-## 16.4 — The night: rest or infiltrate
+## The night: rest or infiltrate
 
 The party chooses to **rest** at the Vistani camp or **infiltrate** Vallaki tonight.
 

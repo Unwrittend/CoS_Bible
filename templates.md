@@ -4,7 +4,7 @@ type: "meta"
 nav_order: 91
 ---
 
-# SECTION 6: REUSABLE PROMPT TEMPLATES
+# Reusable prompt templates
 
 Copy, fill in the blanks, and paste these into any session to get consistent outputs.
 

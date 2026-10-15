@@ -36,7 +36,7 @@ nav_order: 40
 
   
 
-**[IDEA — NONCANONICAL] 2026-09-19 proposed explanation:** her lumber operation (now canonically Ludmilla's) fed **two undead supply lines** — one to Castle Ravenloft (for the Roc) and one to the upstream poison works on the Luna River ([Section 15.4](../archive/s10-prep.md#154--strahds-machination-poisoning-the-winter-worm)).
+**[IDEA — NONCANONICAL] 2026-09-19 proposed explanation:** her lumber operation (now canonically Ludmilla's) fed **two undead supply lines** — one to Castle Ravenloft (for the Roc) and one to the upstream poison works on the Luna River ([Strahd's Machination: Poisoning the Winter Worm](../archive/s10-prep.md#strahds-machination-poisoning-the-winter-worm)).
 
   
 

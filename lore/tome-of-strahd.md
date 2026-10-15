@@ -6,7 +6,7 @@ parent: "Lore & Worldbuilding"
 nav_order: 3
 ---
 
-# SECTION 11: THE TOME OF STRAHD — QUESTLINE
+# The Tome of Strahd — questline
 
 **\[IDEA — NONCANONICAL\]** Source: *[Von Richten](../npcs/von-richten.md)'s Darkening Path and Faction Power Struggles*.
 
@@ -24,11 +24,11 @@ An artifact resembling [Strahd](../npcs/strahd-von-zarovich.md)'s own diary/jour
 
   
 
-**REVISION [IDEA — NONCANONICAL], 2026-09-19:** the Spirit Mirror's Erised-style effect is changed from showing **what you most desire** to showing **the future** (the Tome is "of the past"; the reflection shows what's coming). This is now the preferred version. It explains [Stella](../npcs/stella-watcher.md)'s madness (she saw her own parasite-riddled future — see her [Section 4](../npcs/index.md) entry) and [Victor](../npcs/victor-volokovich.md)'s cruelty (he sees himself becoming his father).
+**REVISION [IDEA — NONCANONICAL], 2026-09-19:** the Spirit Mirror's Erised-style effect is changed from showing **what you most desire** to showing **the future** (the Tome is "of the past"; the reflection shows what's coming). This is now the preferred version. It explains [Stella](../npcs/stella-watcher.md)'s madness (she saw her own parasite-riddled future — see her [NPC entry](../npcs/stella-watcher.md)) and [Victor](../npcs/victor-volokovich.md)'s cruelty (he sees himself becoming his father).
 
   
 
-**Multiple parallel NPC leads toward the Tome** (intentionally redundant/branching, so whichever thread the players pick up still works — see full NPC entries in Section 4):
+**Multiple parallel NPC leads toward the Tome** (intentionally redundant/branching, so whichever thread the players pick up still works — see the full entries under [NPCs](../npcs/index.md)):
 
   
 

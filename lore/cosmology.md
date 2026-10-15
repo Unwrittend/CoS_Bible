@@ -6,11 +6,11 @@ parent: "Lore & Worldbuilding"
 nav_order: 1
 ---
 
-# SECTION 9: COSMOLOGY — THE FANES, STRAHD'S DEATHS, AND THE ORDER OF THE SILVER DRAGON
+# Cosmology — the Fanes, Strahd's deaths, and the Order of the Silver Dragon
 
 **\[IDEA — NONCANONICAL\] Everything in this section originates from Chris & Michelle's worldbuilding/ideation sessions, not from actual play.** It is GM-only background until something in a session reveals or confirms it. Sources: the two-part Fanes/[Von Richten](../npcs/von-richten.md) worldbuilding session, the *Recapping Session — First Death and Silver Dragon Order*, *[Strahd](../npcs/strahd-von-zarovich.md)'s Motivations, Goals and Character Development Discussion*, and the *\[Untitled\] Strahd Characterization & Reward Items session*.
 
-## 9.1 — The Fanes: core structure
+## The Fanes: core structure
 
 The Fanes are nature goddesses, each tied to a season, a time-domain (past/present/future), a worshipping population, and (for the worshipped three) an animal:
 
@@ -22,21 +22,21 @@ The Fanes are nature goddesses, each tied to a season, a time-domain (past/prese
 | **Spring** | Spring | Past | Swamp folk | Spider | Captured in amber by [Baba Lysaga](../npcs/baba-lysaga.md) |
 | **Summer** | Summer | Present | Forest folk | Wolf | Killed by [Strahd](../npcs/strahd-von-zarovich.md); becomes the Gulthias Tree |
 | **Autumn** | Autumn | Future | Mountain folk | Raven | Survives as **[Madam Eva](../npcs/madam-eva.md)** |
-| **Winter** | Winter | Death | None (unworshipped) | Unassigned/TBD | Corrupted; joined the Dark Powers/Mother Night; became the mists — **tentatively identified as [Void Child](../npcs/khirad.md)/Khirad (REVISION, unresolved — see [Section 4](../npcs/index.md))** |
+| **Winter** | Winter | Death | None (unworshipped) | Unassigned/TBD | Corrupted; joined the Dark Powers/Mother Night; became the mists — **tentatively identified as [Void Child](../npcs/khirad.md)/Khirad (REVISION, unresolved — see [Void Child's entry](../npcs/khirad.md))** |
 
   
 
-**Primordial beasts (added 2026-09-24, ideation):** each Fane also has a sentient **primordial beast** — Winter: **the Winter Worm** (Lake Zarovich); Spring: a great spider (Baba Lysaga's creeping hut floated as an automaton imitation of it); Summer: undecided; Autumn: **the Roc of Mount Gakis**. This effectively fills the Winter Fane's "Unassigned/TBD" animal slot with the worm, though the GMs framed it as a beast rather than a symbol. Full detail in **[Section 15.1](../archive/s10-prep.md#151--the-primordial-beasts)**.
+**Primordial beasts (added 2026-09-24, ideation):** each Fane also has a sentient **primordial beast** — Winter: **the Winter Worm** (Lake Zarovich); Spring: a great spider (Baba Lysaga's creeping hut floated as an automaton imitation of it); Summer: undecided; Autumn: **the Roc of Mount Gakis**. This effectively fills the Winter Fane's "Unassigned/TBD" animal slot with the worm, though the GMs framed it as a beast rather than a symbol. Full detail in **[The Primordial Beasts](../archive/s10-prep.md#the-primordial-beasts)**.
 
-## 9.2 — Founding tragedy ("Rise of Strahd")
+## Founding tragedy ("Rise of Strahd")
 
   - The forest-fane druids invited [Strahd](../npcs/strahd-von-zarovich.md) to a ceremony honoring the Summer Fane, partly to curry favor with him ("we will be part of your kingdom"). Strahd used the occasion to kill the Summer Fane, whom he perceived as arrogant/overconfident in her own strength. Her spilled blood soaked into what had been a healthy, vibrant tree — creating the corrupted **Gulthias Tree** and, from that same bloodshed, **the birth of Barovia's werewolves**. The Summer Fane and her people are conceived as **Fey creatures** (dryad-type), not human.
   - The Spring Fane (swamp) held all knowledge of the past and ran communal memory-baptisms, but had no ability to see the future and so never foresaw Strahd's coming. **[Baba Lysaga](../npcs/baba-lysaga.md)** — a former priestess of the Spring Fane — eventually captures the Spring Fane in amber, motivated by love for Strahd and a desire to absorb the Fane's memory-collecting power to become, in her mind, Strahd's "true mother." Strahd, unable to tolerate her instability, has [Rahadin](../npcs/rahadin.md) exile her to the ruins of Berez (not yet ruins at that point).
   - Floated as a possible pun/etymology for "Amber Temple" (Baba Lysaga's amber-based imprisonment) — needs reconciling with the Temple's established deeper history as an ancient magical nexus predating her. The Amber Temple is not the *birth* of the Dark Powers, but rather an ancient magical "ley line" convergence that predates them, which the Dark Powers later co-opted. This is where Strahd went to obtain his vampirism.
   - The Winter Fane, having never been worshipped, is drawn to **Mother Night** and the Dark Powers, who whisper to her; in exchange she becomes the entity that powers the mists that seal Barovia.
-  - The Mountain Fane (Autumn/future) survives by going into hiding and merging/pact-binding with a mortal woman named **Katarina** to become **[Madam Eva](../npcs/madam-eva.md)** (full detail under Madam Eva's NPC entry, [Section 4](../npcs/index.md)). Madam Eva does not know her sister (the Spring Fane) is trapped in amber — she was occupied manifesting the Katarina bond when that happened and has no memory of it.
+  - The Mountain Fane (Autumn/future) survives by going into hiding and merging/pact-binding with a mortal woman named **Katarina** to become **[Madam Eva](../npcs/madam-eva.md)** (full detail under [Madam Eva's NPC entry](../npcs/madam-eva.md)). Madam Eva does not know her sister (the Spring Fane) is trapped in amber — she was occupied manifesting the Katarina bond when that happened and has no memory of it.
 
-## 9.3 — Restoration conditions
+## Restoration conditions
 
 |  |  |
 | :-: | :-: |
@@ -52,25 +52,25 @@ The Fanes are nature goddesses, each tied to a season, a time-domain (past/prese
   - Von Richten's undead-caching activity is tied to Madam Eva — she covertly helped implant/encourage his obsession with Summer Fane lore as one of her ongoing (morally grim) attempts to make progress restoring the Summer Fane. Offered as her rationale for tolerating him despite his hatred of the Vistani.
   - Cassandra's role: Madam Eva sees her (via the Tarokka gift/prophetic visions) as a potential vessel to help restore the Fanes, possibly a future high priestess or another avatar/conduit for the Mountain Fane — this is Eva's hope, not a fixed fact.
 
-## 9.4 — Timeline naming conventions
+## Timeline naming conventions
 
   - **Age of Fanes** — pre-Ravenloft period when all three worshipped Fanes existed and were venerated.
   - **Rise of [Strahd](../npcs/strahd-von-zarovich.md)** — the founding tragedy: Strahd's ascension, the killing of the Summer Fane, [Baba Lysaga](../npcs/baba-lysaga.md)'s capture of the Spring Fane and exile, the Winter Fane's corruption.
 
-## 9.5 — Strahd's deaths & the Order of the Silver Dragon
+## Strahd's deaths & the Order of the Silver Dragon
 
 **REVISION note:** an earlier pass of this timeline had the Order of the Silver Dragon founded "at the same time as [Markovia](../npcs/saint-markovia.md) is fighting [Strahd](../npcs/strahd-von-zarovich.md)." The *Recapping Session* revises this: **Lord [Argonvost](../npcs/argonvost.md)** (a dragon in disguise as a nobleman) and his fortified holt predate Strahd's rule entirely, guarding the Amber Temple as "a repository of evil power" long before Strahd's rise — not to fight Strahd, and without any awareness the Fanes were sealed inside. Markovia's role isn't founding the order; it's **converting** an already-existing, neutral Argonvost into an active ally by convincing him appeasement doesn't guarantee the Temple's safety. (Ironic detail: by preventing anything leaving the Temple, Argonvost's vigilance inadvertently made his order the Spring Fane's jailer too, without knowing she was there.)
 
   
 
 1.  **Andrel's Reprieve — Strahd's 1st vampire death.** Saint Andrew kills Strahd using personal knowledge of his weaknesses (they knew each other before). Andrew's bones remain in Vallaki, which becomes important later. Ushers in a period of peace; likely when Vallaki grows into Barovia's largest settlement. Mists have not yet rolled in.
-2.  **Markovia's Reprieve — Strahd's 2nd vampire death.** Saint Markovia (Tatiana's 2nd major reincarnation — see §9.6) convinces Argonvost to act; he arms her with the **[Sun Sword](../items.md#the-sun-sword)** (kept inside the Amber Temple), after she proves herself worthy. She kills Strahd. An uneasy "**weary peace**" follows — unlike Andrew's death, people know he could return, they just don't know how or why. Her remains are later brought to Krezk, which protects that location from Strahd's future revenge.
+2.  **Markovia's Reprieve — Strahd's 2nd vampire death.** Saint Markovia (Tatiana's 2nd major reincarnation — see [Tatiana / Ireena reincarnation lineage](#tatiana--ireena-reincarnation-lineage)) convinces Argonvost to act; he arms her with the **[Sun Sword](../items.md#the-sun-sword)** (kept inside the Amber Temple), after she proves herself worthy. She kills Strahd. An uneasy "**weary peace**" follows — unlike Andrew's death, people know he could return, they just don't know how or why. Her remains are later brought to Krezk, which protects that location from Strahd's future revenge.
 3.  **Argonvost & the Silver Dragon Knights are slaughtered** when Strahd returns (a "2.5," not a true death). Because Argonvost's remains are kept as a trophy in Castle Ravenloft rather than consecrated ground, Strahd is able to target and destroy the order directly. [Reysatra](../npcs/reysatra.md) and Argonvost survive the Markovia-era fight but are killed in this later reprisal.
       
       - **The Silver Age (interim era):** a survived-and-recovering Argonvost issues a call to arms that eventually recruits Reysatra. He begins quietly dissipating Amber Shards out of the Temple to dilute its concentration of dark power — secretly [Madam Eva](../npcs/madam-eva.md)'s idea, which she lets him believe is his own, since her real goal is extracting the Spring Fane piece by piece. Whether Argonvost and Katarina/Madam Eva had a personal history (courtly acquaintance, possibly an unconsummated romance) is optional/undecided.
       - **"Soul Trap Discovery" (unresolved):** during this era, Barovia's people are proposed to begin realizing souls of the dead aren't properly departing the demiplane. The original discovery method (tied to consecrated bone-sites) was self-identified as chronologically inconsistent and left open — "further research of the bones" TBD.
       - **Berez's ruin:** explicitly NOT Argonvost/Strahd razing Berez in revenge on Markovia (rejected). Instead: **[Baba Lysaga](../npcs/baba-lysaga.md) performs a ritual sacrifice, using Berez as fuel to resurrect Strahd** after Markovia's kill, further depleting the Spring Fane's power she already holds captive — explaining both her present weakness and Berez's eventual ruin. (Reference-only, not adopted: raw-module Marina/Berez backstory, and a Dragnacarta/MandyMod alternative involving Strahd's bride Patrona originating from Berez — neither is canon.)
-      - Post-resurrection Strahd (this era) becomes notably more cunning: kills Argonvost and destroys the order; destroys historical knowledge of his mortal/early-vampire self (this is why the [Tome of Strahd](tome-of-strahd.md), Section 11, survived only by being hidden somewhere even he couldn't find it); builds his spy network; begins isolating settlements; starts subjugating Barovia's werewolves into service rather than them being independently aligned with him.
+      - Post-resurrection Strahd (this era) becomes notably more cunning: kills Argonvost and destroys the order; destroys historical knowledge of his mortal/early-vampire self (this is why the [Tome of Strahd](tome-of-strahd.md) survived only by being hidden somewhere even he couldn't find it); builds his spy network; begins isolating settlements; starts subjugating Barovia's werewolves into service rather than them being independently aligned with him.
 4.  **[Lugdana](../npcs/lugdana.md)'s era — Strahd's temporary stasis (not a true death).** [Ismark the Great](../npcs/ismark-the-great.md), Lugdana, and the [Martikov](../npcs/the-martikov-family.md) family band together — aided by werewolf knowledge and possibly the wereravens — to bind Strahd in stasis, since by this point it's understood a true kill is impossible while the Fanes remain unrestored. Madam Eva may have given them the [Holy Symbol of Ravenkind](../items.md#the-holy-symbol--amulet-of-ravenkind) as a stopgap, knowing they couldn't win outright. **Deliberate timeline-compression decision:** the gap between Strahd's second return and this binding is kept short (100–200 years, leaning short) so a few very long-lived witnesses (chiefly Reysatra) can still personally remember this era, and so this Strahd reads rawer/more reckless than the patient, learned Strahd the party faces today — the March of the Dead is a long parade of failed champions, Lugdana's expedition merely the last of them, each failure sharpening Strahd's tactics. Lugdana dies to werewolves; Ismark the Great dies of natural causes while laying the foundations of the village of Barovia.
 5.  **Present day.** Strahd returns from stasis and retaliates against the Martikov family's ancestors, Doru, and the village — the villagers' current persecution/hero-worship dynamic stems from Doru and Kolyan Indirovich taking the blame for their ancestors' role in the historical binding.
 
@@ -90,13 +90,13 @@ The Fanes are nature goddesses, each tied to a season, a time-domain (past/prese
 
 **Shelved:** a folk-tale idea — a superhumanly powerful "goat," the **Terror of Mount Ballanok**, tying Strahd thematically to the land itself. Not developed further.
 
-## 9.6 — Tatiana / Ireena reincarnation lineage
+## Tatiana / Ireena reincarnation lineage
 
   - [Saint Markovia](../npcs/saint-markovia.md) may be a reincarnation of Tatiana; [Ireena Kolyana](../npcs/ireena-kolyana.md) is Tatiana's most recent (third major) reincarnation in this lineage.
   - Suggested arc: Tatiana as a maid who fell for Sergei in her first life → reborn after St. Andrew's era, grew up on stories of [Strahd](../npcs/strahd-von-zarovich.md)'s tyranny, became Saint Markovia → convinced [Argonvost](../npcs/argonvost.md), killed Strahd with the [Sun Sword](../items.md#the-sun-sword) → died when Strahd later returned and killed her → reincarnated as Ireena.
   - Strahd's obsession with Ireena is reframed: he may believe she is a nexus/convergence point akin to the Fanes, tied to his repeated failure to permanently die/escape — not simply romantic fixation.
-  - Ireena's silver bracelet with gemstones ([Tatyana's Bracelet](../items.md#tatyanas-bracelet) — canonical item, see Section 5) is tied to this lineage; its origin/who placed it with her is deliberately left unresolved.
-  - **Canonical (2026-09-24):** Ireena has a blood brother — **[Izek Strazani](../npcs/izek-strazani.md)**, the Baron of Vallaki's enforcer (see his [Section 4](../npcs/index.md) entry). Neither knows it yet (per ideation); it hasn't been revealed at the table.
+  - Ireena's silver bracelet with gemstones ([Tatyana's Bracelet](../items.md#tatyanas-bracelet) — canonical item, see [Key Items](../items.md)) is tied to this lineage; its origin/who placed it with her is deliberately left unresolved.
+  - **Canonical (2026-09-24):** Ireena has a blood brother — **[Izek Strazani](../npcs/izek-strazani.md)**, the Baron of Vallaki's enforcer (see his [NPC entry](../npcs/izek-strazani.md)). Neither knows it yet (per ideation); it hasn't been revealed at the table.
   - Kolyan Indirovich's personal mission is reframed: he raised Ismark on stories of the historical "Markovia" figure and came to suspect Tatiana might be caught in the same cycle as Strahd — this belief drove him to search for and ultimately adopt Ireena.
 
   
@@ -114,7 +114,6 @@ The Fanes are nature goddesses, each tied to a season, a time-domain (past/prese
 - [Strahd's Brides](../npcs/strahds-brides.md)
 - [The Martikov Family](../npcs/the-martikov-family.md)
 - [Void Child - Khirad, the Star of Secrets](../npcs/khirad.md)
-- [Von Richten](../npcs/von-richten.md)
 - [Key Items](../items.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Conventions & canonicity rules](../conventions.md)

@@ -10,7 +10,7 @@ nav_order: 33
 
 ### Morgantha
 
-**Source characterization:** RAW night hag, homebrew expanded (see also [Section 13.4](../archive/s09-prep.md#134--the-pie-mill-reworked-old-durst-mill), the Pie Mill)
+**Source characterization:** RAW night hag, homebrew expanded (see also [The Pie Mill (reworked Old Durst Mill)](../archive/s09-prep.md#the-pie-mill-reworked-old-durst-mill), the Pie Mill)
 
 **Role:** Proprietor of the Pie Mill; seller of dream pastries
 
@@ -24,8 +24,8 @@ nav_order: 33
       - She's preparing to vend at the Festival of the Blazing Sun and is welcome in Vallaki — [Izek](izek-strazani.md) hasn't run her out.
       - Carries about 2 gp and a bag of sentimental items (a wooden sun pendant, a fishing tackle, [Stella Watcher](stella-watcher.md)'s diary).
       - Her dream pastries are a heavily weakened version of [Strahd](strahd-von-zarovich.md)'s Winter-Worm poison, and she may be involved in crafting it. She has been gathering its sedative ingredient, cat-o'-nine-tails, in play.
-      - Travels with [Elaine](elaine-groze.md). See Sections 15.4 and 15.7A.
-  - **[IDEA — NONCANONICAL] Session 10 Prep doc (current):** she has a meat pie and a vegetable cheese pie left (1 gp each), sells a "purified valerian extract" herbal remedy, sells at dawn every other day, and — **only if the party buys a pie** — warns them about "the fool [Vargas](baron-vargas-volokovich.md)' attack dog, Izek." A Divine Sense read-aloud is written for her. See [Section 15](../archive/s10-prep.md).10A.
+      - Travels with [Elaine](elaine-groze.md). See [Strahd's Machination: Poisoning the Winter Worm](../archive/s10-prep.md#strahds-machination-poisoning-the-winter-worm) and [Planned Encounters for the Next Session (A)](../archive/s10-prep.md#planned-encounters-for-the-next-session).
+  - **[IDEA — NONCANONICAL] Session 10 Prep doc (current):** she has a meat pie and a vegetable cheese pie left (1 gp each), sells a "purified valerian extract" herbal remedy, sells at dawn every other day, and — **only if the party buys a pie** — warns them about "the fool [Vargas](baron-vargas-volokovich.md)' attack dog, Izek." A Divine Sense read-aloud is written for her. See [Road to Vallaki — Morgantha & Elaine](../archive/s10-prep.md#a-road-to-vallaki--morgantha--elaine).
 
 **Current narrative status:** Met in Session 3. **Session 10 (canonical):** met again on the road to Vallaki, pushing a cart with her "granddaughter" Elaine, who was reading Stella Watcher's diary aloud. Introduced herself as "Morgantha… everyone knows me as the pie lady." Had seven pies left (four veggie-cheese of stewed local root vegetables, three meat), 1 gp each; offered four-for-three plus an introduction to Vallaki, then sold all seven to [Reyna](../pcs/reyna.md) for 7 gp. Said the pies hold "natural herb remedies passed down for generations" that make you very relaxed and help some sleep — Lycius ate a cheese pie, got blissfully sedated and fell asleep. She sells outside Vallaki's gates every other day, can enter the town as a vendor, and will vend at the coming festival. She called the Vallakians "profiteering vultures" robbing the Barovians and warned about Izek. The mill sits southwest off the road, hidden in trees — "follow your nose." [Ireena](ireena-kolyana.md) said the old Durst mill was sold after the Dursts died and is now a bakery known for "fluffy, dreamy pastries," and that a rival family (transcribed "the Andersons" — confirm) resents the new owners. She left quickly after the sale. The party now suspects the pies are drugs. Her daughters were not seen. *That the pastries are a weakened form of Strahd's poison remains [IDEA — NONCANONICAL].*
 
