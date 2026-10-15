@@ -10,6 +10,8 @@ nav_order: 1
 
 **[IDEA — NONCANONICAL] Everything in this section is GM ideation, not actual play.** Sources: *Velocki Factions Timeline: Major and Minor Groups Revealed* (2026-09-27); *Major Factions and Suspected Events in the World* (2026-09-27); *Feast of St. Angels, Zombie Attack, and Bones Theft* (2026-09-27); *Sneaking into Valocky and [Vargas](../npcs/baron-vargas-volokovich.md)'s Mansion Mystery* (2026-10-08). The transcripts render St. Andral as "St. Angels" and [Lucien](../npcs/father-lucien-petrovich.md) as "Lucian"; this section uses the bible's spellings. The GMs plan to build their own day-by-day timeline next, rather than lean on Dragnacarta.
 
+**Played in [Session 11](../sessions/s11.md) (canonical):** the party didn't rest at the Vistani camp. They went with [Ireena](../npcs/ireena-kolyana.md) to the refugee camp, uncovered the parasites, then bribed and intimidated their way through the gate into Vallaki at night (a full moon). The werewolf raid, [Izek](../npcs/izek-strazani.md)'s patrol and [Ernst](../npcs/ernest-larnack.md)'s shadowing didn't come up in play; whether any of them still happens tonight is up to the GMs.
+
 ## The cast of motives (Vallaki factions)
 
 Only actors with **their own motives** are listed; agents who simply serve someone else's motive are noted under their principal. Major factions — the ones likely to drive major events — are marked ★.

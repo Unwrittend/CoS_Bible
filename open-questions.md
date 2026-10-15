@@ -72,7 +72,7 @@ nav_order: 4
 
   
 
-**Session 11 prep (added 2026-10-09):**
+**[Session 11](sessions/s11.md) prep (added 2026-10-09):**
 
   - Who actually steals St. Andral's bones (Milivoj, per RAW) and for whom? How does that fit [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)'s heist (15.5) and Henrik van der Voort's role? ~~Are vampire spawn hidden in the coffin shop, as in RAW?~~ **Yes — GM-confirmed 2026-10-14:** the coffin maker's house holds a vampire spawn nest (and [Arabelle](npcs/arabelle.md)).
   - What day does the Feast of St. Andral fall on, and does it coincide with the Festival (day 3)? What day does Von Richten's zombie swarm hit?
@@ -83,6 +83,17 @@ nav_order: 4
   - The werewolf raid: does Kiril come himself or send a lieutenant? Is Emil rescuable from Castle Ravenloft? Is there an OC sympathetic to Emil?
   - What is [Dismas](npcs/dismas.md) doing? (Speculated: at the Watcher house.) Where do Blinsky and [Arturi](npcs/arturi.md) fit?
 
+**From Session 11 (added 2026-10-14):**
+
+  - Who is "Strassney," whom a gate guard said wouldn't let him open the gate? Izek Strazani?
+  - What happened at the gate after the party went in: the shouting, the scream, the fire and the lullaby on a grass whistle? Were the guards who took Reyna's bribe punished?
+  - Pies vs. water: [Emeric](npcs/emeric.md) is infected without having eaten a pie, and the refugees drink Lake Zarovich water. What exactly do the pies do, and are the boba-like globules connected to the worms?
+  - Did Lyasra's *purify food and drink* work on the pie, and what pushed back against it?
+  - Do the treated refugees (Emeric, [Magda](npcs/magda.md), [Jen](npcs/jen.md)) stay cured? What happens to the rest of the camp tonight, and to Jen's father?
+  - Why did [Belinda](items.md#belinda) feel she was "in the right place" in Vallaki?
+  - Did Kasimir follow the party into Vallaki?
+  - What do the Void Child's angelfish and swirling-liquid images mean?
+
 **Encounters & tone:**
 
   
@@ -91,9 +102,9 @@ nav_order: 4
   - Whether a second Roc/nest exists at "Mount Berrypuck" — floated, not committed.
   - How graphic the Pie Mill's "bloodberry pie" ingredient gets at the actual table — needs a deliberate decision, separate from brainstorming.
   - Scripted vs. random encounters as a general philosophy — unresolved beyond the specific Tser Falls bridge case.
-  - **(Added Session 9)** What caused the erratic/hypnotized behavior in the owlbear and vultures near the Tser Falls bridge? *(2026-09-19 proposed answer: runoff from Strahd's upstream poison works — [Strahd's Machination: Poisoning the Winter Worm](archive/s10-prep.md#strahds-machination-poisoning-the-winter-worm).)*
-  - **(Added 2026-09-24)** Parasite life-cycle stages for the withering sickness — to be modeled on real parasitism.
-  - **(Added 2026-09-24, from the Session 10 Prep doc)** Refugee timeline: the first refugees arrived **three months ago**, but Strahd reawoke only about **a month ago** ([Vallaki's Factions (current working model)](archive/s10-prep.md#vallakis-factions-current-working-model)). Reconcile. *(Session 10: Morgantha said in play that the gates have been closed for "several moons," which leans toward months.)*
+  - **(Added Session 9)** What caused the erratic/hypnotized behavior in the owlbear and vultures near the Tser Falls bridge? *(2026-09-19 proposed answer: runoff from Strahd's upstream poison works — [Strahd's Machination: Poisoning the Winter Worm](archive/s10-prep.md#strahds-machination-poisoning-the-winter-worm).)* **REVISION check (Session 11):** asked at the table, the GMs read the map as showing that Tser Falls does **not** connect to Lake Zarovich by water. Check this against the poison-runoff proposal and the Luna Lake → Luna River → Lake Zarovich flow in [The Withering Sickness](archive/s10-prep.md#the-withering-sickness-parasites--poison), and decide which holds.
+  - **(Added 2026-09-24)** Parasite life-cycle stages for the withering sickness — to be modeled on real parasitism. *(Partly shown in [Session 11](sessions/s11.md), canonical: white-blue lines under the skin, darker and moving in children; constant hunger; shivering; flaking skin, with the lines drawing back Reyna's touch; it comes and goes over days. In the dead, hard, icy boils incubate larva-like worms in the skin and gel-encased pupae inside. Lay on Hands and* lesser restoration *stop the movement but leave the marks. The full stage sequence is still open.)*
+  - **(Added 2026-09-24, from the Session 10 Prep doc)** Refugee timeline: the first refugees arrived **three months ago**, but Strahd reawoke only about **a month ago** ([Vallaki's Factions (current working model)](archive/s10-prep.md#vallakis-factions-current-working-model)). Reconcile. *(Session 10: Morgantha said in play that the gates have been closed for "several moons," which leans toward months. Session 11: Kasimir said the Barovians only arrived "this last month," and Magda said the sickness began "a few weeks ago when we first arrived" — which leans toward about a month. Kasimir also said the pie maker has come to Vallaki for about three months.)*
   - **(Added 2026-09-24, from the Session 10 Prep doc)** Izek's magic: he **conjures fire** at the gates, but his night attacks were imagined as **cold/necrotic**. Is it both, or pick one? *(Session 10: fire is now canon via Morgantha's warning; cold for a disguised attack is still open.)*
   - **(Added 2026-09-24, from the Session 10 Prep doc)** "No one has died yet" from the nightly bats and wolves, vs. refugees dying in droves from the withering sickness. Keep the tone consistent at the table.
   - **(Added 2026-09-24, from the Session 10 Prep doc)** The poison/pastry sedative: **valerian** (prep doc) or **cat-o'-nine-tails** ([Strahd's Machination: Poisoning the Winter Worm](archive/s10-prep.md#strahds-machination-poisoning-the-winter-worm)), both, or is valerian just Morgantha's cover product?

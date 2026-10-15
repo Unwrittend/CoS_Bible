@@ -42,6 +42,7 @@ nav_order: 23
 **Mentioned in:**
 
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Gaille](../pcs/gaille.md)
 - [Reyna](../pcs/reyna.md)
 - [Elaine Groze](elaine-groze.md)

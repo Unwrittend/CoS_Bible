@@ -75,7 +75,6 @@ nav_order: 12
 - [Session 3](../sessions/s03.md)
 - [Session 5 - Meeting Ireena](../sessions/s05.md)
 - [Session 6 - Wailing Tree](../sessions/s06.md)
-- [Arabelle](arabelle.md)
 - [Arturi](arturi.md)
 - [Dismas](dismas.md)
 - [Esmeralda D'Avenir](esmeralda-davenir.md)

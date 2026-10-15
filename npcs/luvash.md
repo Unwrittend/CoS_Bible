@@ -3,7 +3,7 @@ title: "Luvash"
 name: "Luvash"
 type: "npc"
 status: "canon"
-last-session: 10
+last-session: 11
 parent: "NPCs"
 nav_order: 35
 ---
@@ -22,6 +22,8 @@ nav_order: 35
 
 **Current narrative status (canonical):** Met in Session 10. His daughter Arabelle has been missing in Vallaki since 9 a.m. on her 7th birthday.
 
+**[Session 11](../sessions/s11.md) (canonical):** Hosted the party at dinner. Explained the camp's full-moon tradition: "sleepovers," with every child roped at the waist to the tent's center and the able-bodied keeping watch. "You never know what will come in the night."
+
 <!-- backlinks:start -->
 
 ---
@@ -29,14 +31,13 @@ nav_order: 35
 **Mentioned in:**
 
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Theren](../pcs/theren.md)
 - [Alexei](alexei.md)
 - [Arabelle](arabelle.md)
 - [Arrigal](arrigal.md)
-- [Ireena Kolyana](ireena-kolyana.md)
 - [Kasimir Velikov](kasimir-velikov.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
-- [Current state](../current-state.md)
 
 <!-- backlinks:end -->

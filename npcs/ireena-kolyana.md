@@ -4,7 +4,7 @@ name: "Ireena Kolyana"
 aliases: ["Irena", "Ireena", "Irena Kolyana", "Kolyan's daughter", "Tatiana"]
 type: "npc"
 status: "mixed"
-last-session: 10
+last-session: 11
 parent: "NPCs"
 nav_order: 26.5
 ---
@@ -40,10 +40,10 @@ nav_order: 26.5
   - **The wolf-chase "nightmare":** a recurring dream of being chased by a large black wolf, which is really a suppressed memory of the blessing. Planned for her campfire story, which still hasn't been told (Sessions 9 and 10).
   - **How she and Izek were separated:** Chris's version has Kolyan find her in the Svalich Woods while Izek reached Vallaki as an orphan. Michelle raised timeline concerns, so this is unsettled.
   - **Izek's red-hair fixation:** he won't recognize her while her hair is dyed. That could change if the dye grows out or washes off.
-  - **Threats considered for the Vallaki arc:** an assassination attempt by [Anastrasya](strahds-brides.md#anastrasya-karelova), and werewolves attacking her to win Strahd's favor. Both were considered and dropped as the Session 11 night attack ([prep](../prep/s11-vallaki.md)). [Volenta](strahds-brides.md#volenta-popofsky) would regard her as her biggest threat if the brides learn of her ([Strahd's Brides](strahds-brides.md)).
+  - **Threats considered for the Vallaki arc:** an assassination attempt by [Anastrasya](strahds-brides.md#anastrasya-karelova), and werewolves attacking her to win Strahd's favor. Both were considered and dropped as the [Session 11](../sessions/s11.md) night attack ([prep](../prep/s11-vallaki.md)). [Volenta](strahds-brides.md#volenta-popofsky) would regard her as her biggest threat if the brides learn of her ([Strahd's Brides](strahds-brides.md)).
   - **At the Vallaki gate:** if she announces herself as Ireena Kolyana, the guards laugh her off because of her dyed hair (Session 10 prep, [archive](../archive/s10-prep.md)). Michelle's alternative: guards who recognize her say it's "above our pay grade" and send her to the Burgomaster. Session 11 prep lists showing the letter of introduction and convincing the guards of her lineage as a core social route in.
 
-**Current narrative status (canonical):** Travelling with the party (Session 10). At night she's at [Luvash](luvash.md)'s Vistani camp outside Vallaki, with her hair still dyed black and the bite hidden. Her destination is Vallaki, and the party hopes to find priestly protection for her there (Session 9).
+**Current narrative status (canonical):** Travelling with the party. **Session 11:** chose to spend the night with the Barovian refugees as her duty to her people; [Magda](magda.md) and [Emeric](emeric.md) recognized her despite her dyed hair. Agreed to go into Vallaki that night because "something is clearly wrong," and is now inside the walls with the party, her hair still dyed black and the bite hidden. Her destination is Vallaki, and the party hopes to find priestly protection for her there (Session 9).
 
 **Key Plot Points:**
 
@@ -54,6 +54,7 @@ nav_order: 26.5
   - 7 - Dismas dyes her hair black with a blond streak.
   - 9 - Judges the campfire stories; guides the party on the map and the Tarokka readings ([Argonvost](argonvost.md)'s Holt via the Luna River; the Holy Symbol at Luna Lake).
   - 10 - Explains the Durst mill bakery; identifies Stella Watcher as the diary's author; stays with Gaille through Kasimir's attention.
+  - 11 - Insists on staying with her people at the refugee camp; recognized by Magda and Emeric; chooses the two of them for [Reyna](../pcs/reyna.md)'s healing; goes into Vallaki with the party.
 
 <!-- backlinks:start -->
 
@@ -70,8 +71,12 @@ nav_order: 26.5
 - [Session 7 - Strix Encounter](../sessions/s07.md)
 - [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Theren](../pcs/theren.md)
 - [Argonvost](argonvost.md)
+- [Emeric](emeric.md)
 - [Isaac "Izek" Strazani](izek-strazani.md)
+- [Magda](magda.md)
 - [Morgantha](morgantha.md)
 - [Saint Markovia](saint-markovia.md)
 - [Stanimir](stanimir.md)

@@ -3,7 +3,7 @@ title: "Morgantha"
 name: "Morgantha"
 type: "npc"
 status: "mixed"
-last-session: 10
+last-session: 11
 parent: "NPCs"
 nav_order: 33
 ---
@@ -29,6 +29,8 @@ nav_order: 33
 
 **Current narrative status:** Met in Session 3. **Session 10 (canonical):** met again on the road to Vallaki, pushing a cart with her "granddaughter" Elaine, who was reading Stella Watcher's diary aloud. Introduced herself as "Morgantha… everyone knows me as the pie lady." Had seven pies left (four veggie-cheese of stewed local root vegetables, three meat), 1 gp each; offered four-for-three plus an introduction to Vallaki, then sold all seven to [Reyna](../pcs/reyna.md) for 7 gp. Said the pies hold "natural herb remedies passed down for generations" that make you very relaxed and help some sleep — Lycius ate a cheese pie, got blissfully sedated and fell asleep. She sells outside Vallaki's gates every other day, can enter the town as a vendor, and will vend at the coming festival. She called the Vallakians "profiteering vultures" robbing the Barovians and warned about Izek. The mill sits southwest off the road, hidden in trees — "follow your nose." [Ireena](ireena-kolyana.md) said the old Durst mill was sold after the Dursts died and is now a bakery known for "fluffy, dreamy pastries," and that a rival family (transcribed "the Andersons" — confirm) resents the new owners. She left quickly after the sale. The party now suspects the pies are drugs. Her daughters were not seen. *That the pastries are a weakened form of Strahd's poison remains [IDEA — NONCANONICAL].*
 
+**[Session 11](../sessions/s11.md) (canonical, by reputation):** Many of the refugees are eating her pies, and have been for weeks; they bring pleasant dreams some don't want to wake from. [Theren](../pcs/theren.md) found a heavy dose of the Tser Falls sedative herb in one; its filling was slimy, its "cheese" boba-like globules of liquid. It resisted [Lyasra](../pcs/lyasra.md)'s *purify food and drink*. [Kasimir](kasimir-velikov.md) said she has sold in Vallaki for about three months and is a festival favorite. **Not confirmed as the source of the worms:** [Emeric](emeric.md) is infected without having eaten one.
+
   
 
 <!-- backlinks:start -->
@@ -39,8 +41,11 @@ nav_order: 33
 
 - [Session 3](../sessions/s03.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Cassandra Priam](../pcs/cassandra-priam.md)
+- [Lyasra](../pcs/lyasra.md)
 - [Reyna](../pcs/reyna.md)
+- [Theren](../pcs/theren.md)
 - [Baron Vargas Volokovich](baron-vargas-volokovich.md)
 - [Elaine Groze](elaine-groze.md)
 - [Isaac "Izek" Strazani](izek-strazani.md)

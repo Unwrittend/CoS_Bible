@@ -4,7 +4,7 @@ name: "Kasimir Velikov"
 aliases: ["Kasimir", "Casimir"]
 type: "npc"
 status: "canon"
-last-session: 10
+last-session: 11
 parent: "NPCs"
 nav_order: 20
 ---
@@ -37,6 +37,8 @@ nav_order: 20
 
 **GM-confirmed canon (2026-10-09):** Kasimir is **interested in Gaille**, beyond their shared scholarship. Gaille so far reads him as a fellow researcher; [Cassandra](../pcs/cassandra-priam.md)'s Ten of Stars reading about the pair felt accurate.
 
+**[Session 11](../sessions/s11.md) (canonical):** Called staying out of Vallaki under the full moon "the wisest choice" and offered the party his hovel. Followed them to the refugee camp with papers and books to finish his "study appointment" with Gaille (still pending). Unsurprised the Barovians are unwell but shocked by how bad it is: in his "hundreds of years" here he has never seen the wriggling worms, and he gagged. He said a pie maker has come to Vallaki regularly for about three months and was an attraction at [Vargas](baron-vargas-volokovich.md)'s festivals this last month, and that the Barovians only arrived this last month. Whether he followed the party into Vallaki wasn't stated.
+
   
 
 <!-- backlinks:start -->
@@ -47,10 +49,12 @@ nav_order: 20
 
 - [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Cassandra Priam](../pcs/cassandra-priam.md)
 - [Gaille](../pcs/gaille.md)
 - [Ireena Kolyana](ireena-kolyana.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
+- [Morgantha](morgantha.md)
 - [Petrina Velikanova](petrina-velikanova.md)
 - [Rahadin](rahadin.md)
 - [Stella Watcher](stella-watcher.md)

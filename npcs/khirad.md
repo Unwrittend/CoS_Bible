@@ -49,6 +49,7 @@ nav_order: 9
 **Mentioned in:**
 
 - [Session 0.5d - Pursuit of Knowledge](../sessions/s00-5d.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Gaille](../pcs/gaille.md)
 - [Key Items](../items.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)

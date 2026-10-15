@@ -121,6 +121,8 @@ A bracelet of wolf fangs — thematically bound to [Jacob](pcs/jacob.md)'s lycan
 
 Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first daughter. Desires a host to become alive. Loves her sister, [Gertruda](npcs/gertruda-stiegler.md) and always wants to keep her little sister safe. Has a empathic connection to those that touch it.
 
+**[Session 11](sessions/s11.md) (canonical):** carried by [Gaille](pcs/gaille.md). When she drew it out inside Vallaki to comfort the child [Jen](npcs/jen.md), she felt a longing, as if they were **in the right place** — feelings neither hers nor the [Void Child](npcs/khirad.md)'s. She didn't hand it over.
+
   
 
 <!-- backlinks:start -->
@@ -137,11 +139,14 @@ Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first dau
 - [Session 5.5 — After the First Night…](sessions/s05-5.md)
 - [Session 9 - Campfire Confessions & the Woodcutter's Bride](sessions/s09.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](sessions/s11.md)
 - [Cassandra Priam](pcs/cassandra-priam.md)
+- [Gaille](pcs/gaille.md)
 - [Lyasra](pcs/lyasra.md)
 - [Argonvost](npcs/argonvost.md)
 - [Ireena Kolyana](npcs/ireena-kolyana.md)
 - [Isaac "Izek" Strazani](npcs/izek-strazani.md)
+- [Jen](npcs/jen.md)
 - [Lugdana](npcs/lugdana.md)
 - [Mad Mary](npcs/mad-mary.md)
 - [Madam Eva](npcs/madam-eva.md)
@@ -157,6 +162,7 @@ Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first dau
 - [Session 11 prep — Vallaki](prep/s11-vallaki.md)
 - [Session 9 prep (superseded)](archive/s09-prep.md)
 - [Changelog](changelog.md)
+- [Current state](current-state.md)
 - [Open questions](open-questions.md)
 
 <!-- backlinks:end -->

@@ -14,12 +14,12 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 
 | Name | Aliases | File | Status | Last session |
 | --- | --- | --- | --- | --- |
-| Cassandra Priam |  | [pcs/cassandra-priam.md](pcs/cassandra-priam.md) | canon |  |
-| Gaille |  | [pcs/gaille.md](pcs/gaille.md) | canon |  |
+| Cassandra Priam |  | [pcs/cassandra-priam.md](pcs/cassandra-priam.md) | canon | 11 |
+| Gaille |  | [pcs/gaille.md](pcs/gaille.md) | canon | 11 |
 | Jacob |  | [pcs/jacob.md](pcs/jacob.md) | canon |  |
-| Lyasra |  | [pcs/lyasra.md](pcs/lyasra.md) | canon |  |
-| Reyna |  | [pcs/reyna.md](pcs/reyna.md) | canon |  |
-| Theren |  | [pcs/theren.md](pcs/theren.md) | canon |  |
+| Lyasra |  | [pcs/lyasra.md](pcs/lyasra.md) | canon | 11 |
+| Reyna |  | [pcs/reyna.md](pcs/reyna.md) | canon | 11 |
+| Theren |  | [pcs/theren.md](pcs/theren.md) | canon | 11 |
 
 ## NPCs
 
@@ -36,22 +36,25 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Dismas |  | [npcs/dismas.md](npcs/dismas.md) | canon |  |
 | Elaine Groze |  | [npcs/elaine-groze.md](npcs/elaine-groze.md) | mixed | 10 |
 | Eliza |  | [npcs/eliza.md](npcs/eliza.md) | canon | 10 |
+| Emeric | Emmerich | [npcs/emeric.md](npcs/emeric.md) | canon | 11 |
 | Ernest Larnack | Ernst, Ernst Larnack | [npcs/ernest-larnack.md](npcs/ernest-larnack.md) | mixed |  |
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
 | Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 10 |
 | Gertruda Stiegler |  | [npcs/gertruda-stiegler.md](npcs/gertruda-stiegler.md) | mixed | 2 |
 | Henrik van der Voort | Henrik, the coffin maker | [npcs/henrik-van-der-voort.md](npcs/henrik-van-der-voort.md) | mixed |  |
-| Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 10 |
+| Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 11 |
 | Ismark the Great | Ismark the Great | [npcs/ismark-the-great.md](npcs/ismark-the-great.md) | canon |  |
-| Isaac "Izek" Strazani | Isaac, Izek | [npcs/izek-strazani.md](npcs/izek-strazani.md) | mixed | 10 |
-| Kasimir Velikov | Kasimir, Casimir | [npcs/kasimir-velikov.md](npcs/kasimir-velikov.md) | canon | 10 |
+| Isaac "Izek" Strazani | Isaac, Izek | [npcs/izek-strazani.md](npcs/izek-strazani.md) | mixed | 11 |
+| Jen |  | [npcs/jen.md](npcs/jen.md) | canon | 11 |
+| Kasimir Velikov | Kasimir, Casimir | [npcs/kasimir-velikov.md](npcs/kasimir-velikov.md) | canon | 11 |
 | Void Child - Khirad, the Star of Secrets | Void Child, Khirad, The Star of Secrets | [npcs/khirad.md](npcs/khirad.md) | mixed | 0 |
 | Lady Fiona Watcher | Fiona, Lady Watcher | [npcs/lady-fiona-watcher.md](npcs/lady-fiona-watcher.md) | mixed |  |
 | Lugdana | Lugdana | [npcs/lugdana.md](npcs/lugdana.md) | canon | 9 |
-| Luvash |  | [npcs/luvash.md](npcs/luvash.md) | canon | 10 |
+| Luvash |  | [npcs/luvash.md](npcs/luvash.md) | canon | 11 |
 | Mad Mary | Mary | [npcs/mad-mary.md](npcs/mad-mary.md) | canon | 1 |
 | Madam Eva | Eva | [npcs/madam-eva.md](npcs/madam-eva.md) | mixed |  |
-| Morgantha |  | [npcs/morgantha.md](npcs/morgantha.md) | mixed | 10 |
+| Magda | Megna | [npcs/magda.md](npcs/magda.md) | canon | 11 |
+| Morgantha |  | [npcs/morgantha.md](npcs/morgantha.md) | mixed | 11 |
 | Ninthalor |  | [npcs/ninthalor.md](npcs/ninthalor.md) | canon |  |
 | Petrina Velikanova |  | [npcs/petrina-velikanova.md](npcs/petrina-velikanova.md) | canon |  |
 | Rahadin |  | [npcs/rahadin.md](npcs/rahadin.md) | mixed | 5 |
@@ -99,6 +102,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Session 8 - Tser Falls Encampment |  | [sessions/s08.md](sessions/s08.md) | canon | 8 |
 | Session 9 - Campfire Confessions & the Woodcutter's Bride |  | [sessions/s09.md](sessions/s09.md) | canon | 9 |
 | Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki |  | [sessions/s10.md](sessions/s10.md) | canon | 10 |
+| Session 11 - The Full Moon, the Wormy Refugees & Through the Gate |  | [sessions/s11.md](sessions/s11.md) | canon | 11 |
 
 ## Lore
 
@@ -124,7 +128,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | About this bible |  | [about.md](about.md) |  |  |
 | Changelog |  | [changelog.md](changelog.md) |  |  |
 | Conventions & canonicity rules |  | [conventions.md](conventions.md) |  |  |
-| Current state |  | [current-state.md](current-state.md) | canon | 10 |
+| Current state |  | [current-state.md](current-state.md) | canon | 11 |
 | Open questions |  | [open-questions.md](open-questions.md) | idea |  |
 | Technical reference |  | [tech.md](tech.md) |  |  |
 | Prompt templates |  | [templates.md](templates.md) |  |  |

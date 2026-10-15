@@ -49,7 +49,6 @@ nav_order: 15
 - [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Theren](../pcs/theren.md)
-- [Arabelle](arabelle.md)
 - [Stanimir](stanimir.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)

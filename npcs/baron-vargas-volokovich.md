@@ -35,7 +35,9 @@ nav_order: 31
 **Mentioned in:**
 
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Isaac "Izek" Strazani](izek-strazani.md)
+- [Kasimir Velikov](kasimir-velikov.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
 - [Luvash](luvash.md)
 - [Morgantha](morgantha.md)

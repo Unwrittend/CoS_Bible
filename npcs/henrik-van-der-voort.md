@@ -28,7 +28,6 @@ nav_order: 41
 
 **Mentioned in:**
 
-- [Arabelle](arabelle.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Changelog](../changelog.md)

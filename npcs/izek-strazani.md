@@ -4,7 +4,7 @@ name: "Isaac \"Izek\" Strazani"
 aliases: ["Isaac", "Izek"]
 type: "npc"
 status: "mixed"
-last-session: 10
+last-session: 11
 parent: "NPCs"
 nav_order: 26
 ---
@@ -37,7 +37,7 @@ nav_order: 26
 
 **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Session 11 prep](../prep/s11-vallaki.md)):** On most of the party's infiltration routes, **Izek walks in on the guards or the section they're using.** The party makes a group Perception check against a combined total (roughly 30–40, TBD); success means they hear his heavy footsteps coming, failure means he surprises them ("State your business"). Combat is always possible, but explore non-combat options first. He would throw intruders in the **standard town prison** (not the mansion's private one) rather than bring them to Vargas — unless he thinks they'd help Vargas's plan. If they enter at night, they may see him **leaving Blinsky's toy shop with a satchel** (collecting his dolls). During a werewolf raid on the refugee camp, he gathers guards to hold the gate and strikes only wolves that come too close; otherwise he lets the Barovians die.
 
-  
+**[Session 11](../sessions/s11.md) (canonical, unconfirmed link):** a Vallaki gate guard said he couldn't open the gate because "Strassney" wouldn't let him — possibly Izek's surname, Strazani. Moments after the party slipped in, they heard shouting at the guards, a scream and fire at the gate, then a lullaby on a grass whistle.
 
 <!-- backlinks:start -->
 
@@ -46,6 +46,7 @@ nav_order: 26
 **Mentioned in:**
 
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Baron Vargas Volokovich](baron-vargas-volokovich.md)
 - [Ernest Larnack](ernest-larnack.md)
 - [Ireena Kolyana](ireena-kolyana.md)
