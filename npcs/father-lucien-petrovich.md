@@ -24,7 +24,7 @@ nav_order: 32
   - Would likely know Father Donavich.
   - Custodian of St. Andral's bones, which keep Vallaki's ground consecrated (and, per ideation, may be what protects its wells — [Strahd's Offer to the Party, the Bones of Saint Andral & the Brides](../archive/s10-prep.md#strahds-offer-to-the-party-the-bones-of-saint-andral--the-brides)).
 
-  - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Session 11 prep](../prep/s11-vallaki.md)):** Faction note: **Yeska** shares Lucien's motives (not a separate faction). The church's gravedigger **Milivoj** is the one who steals St. Andral's bones and hands them to the coffin maker **Henrik van der Voort** (per RAW). Who Milivoj is working for — and how this fits [Anastrasya](strahds-brides.md#anastrasya-karelova)'s bones heist ([Strahd's Offer to the Party, the Bones of Saint Andral & the Brides](../archive/s10-prep.md#strahds-offer-to-the-party-the-bones-of-saint-andral--the-brides)) — is unreconciled ([Open questions](../open-questions.md)).
+  - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Section 16](../prep/s11-vallaki.md)):** Faction note: **Yeska** shares Lucien's motives (not a separate faction). The church's gravedigger **Milivoj** is the one who steals St. Andral's bones and hands them to the coffin maker **[Henrik van der Voort](henrik-van-der-voort.md)** (per RAW). Who Milivoj is working for — and how this fits [Anastrasya](strahds-brides.md#anastrasya-karelova)'s bones heist (15.5) — is unreconciled ([Section 14](../open-questions.md)).
 
 **Current narrative status:** Not yet encountered in play.
 

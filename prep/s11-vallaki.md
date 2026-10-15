@@ -1,7 +1,7 @@
 ---
 title: "Session 11 prep — Vallaki"
 type: "prep"
-status: "idea"
+status: "mixed"
 parent: "Prep"
 nav_order: 1
 ---
@@ -19,7 +19,7 @@ Only actors with **their own motives** are listed; agents who simply serve someo
   - ★ **[Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova)** and ★ **[Ludmilla](../npcs/strahds-brides.md#ludmilla-vilisevic)** — separate factions despite both being [Strahd's brides](../npcs/strahds-brides.md).
   - ★ **[Strahd](../npcs/strahd-von-zarovich.md)**, with **[Eliza](../npcs/eliza.md)** acting as his spy.
   - ★ **[Ireena](../npcs/ireena-kolyana.md)**.
-  - **St. Andral's Church** — [Father Lucien](../npcs/father-lucien-petrovich.md) (Yeska follows him); gravedigger **Milivoj** (bone thief); coffin maker **Henrik van der Voort** (receives the bones).
+  - **St. Andral's Church** — [Father Lucien](../npcs/father-lucien-petrovich.md) (Yeska follows him); gravedigger **Milivoj** (bone thief); coffin maker **[Henrik van der Voort](../npcs/henrik-van-der-voort.md)** (receives the bones). **Canon update (GM-confirmed 2026-10-14):** Henrik is hosting a vampire spawn nest at his house, and holds [Arabelle](../npcs/arabelle.md) captive there — see 16.2.
   - **[Martikovs](../npcs/the-martikov-family.md)** — Urwin (with Danika); Davian (separate motive).
   - **Vistani of Vallaki** — [Luvash](../npcs/luvash.md), [Arrigal](../npcs/arrigal.md), [Arabelle](../npcs/arabelle.md).
   - **Dusk elves** — [Kasimir](../npcs/kasimir-velikov.md).
@@ -36,13 +36,14 @@ Only actors with **their own motives** are listed; agents who simply serve someo
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
 | **Event** | **Factions** | **Condition** | **When** |
-| Theft of St. Andral's bones | [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) / Milivoj → Henrik | — (inciting event) | The night the party arrives, if they rest ([The night: rest or infiltrate](#the-night-rest-or-infiltrate)) |
+| Theft of St. Andral's bones | [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) / Milivoj → [Henrik](../npcs/henrik-van-der-voort.md) | — (inciting event) | The night the party arrives, if they rest (16.4) |
 | **Feast of St. Andral** — [Strahd](../npcs/strahd-von-zarovich.md)'s forces attack Vallaki | Anastrasya, Strahd | Bones not returned to the church, **or** the vampire spawn in the coffin maker's shop not destroyed (RAW frames it as the party staying 3+ days without retrieving the bones) | TBD; may coincide with the Festival |
 | **Festival of the Blazing Sun** | [Vargas](../npcs/baron-vargas-volokovich.md) | Vargas is still in control | Day 3 |
 | **Watcher rebellion** | [Fiona](../npcs/lady-fiona-watcher.md) | Happens unless Fiona is dissuaded or becomes Burgomistress first | Comes to a head at the Festival, or sooner with the players' support |
 | **Zombie swarm on the Vistani camp** | [Von Richten](../npcs/von-richten.md) | Von Richten isn't dissuaded | TBD (possibly day 1) |
 | **Winter Worm poisoning** | Strahd, [Ludmilla](../npcs/strahds-brides.md#ludmilla-vilisevic) ([Rahadin](../npcs/rahadin.md)) | Ongoing unless the poison works are disrupted | Every day; Rahadin's dive TBD |
 
+  - **Canon update (GM-confirmed 2026-10-14) — the coffin maker's house:** the vampire spawn in the Feast condition are real — a nest in his house, and **[Arabelle](../npcs/arabelle.md) is trapped there.** Her clairvoyance led her to the nest; Henrik kidnapped her so she wouldn't expose him, and is hiding her in hope the spawn don't notice. Rescuing Arabelle therefore leads the party to the nest, and to the Feast-of-St.-Andral thread. Whether the bones theft and its timing stay as above is still **[IDEA — NONCANONICAL]**.
   - **The poisoning as one thread in daily phases.** The GMs mean to track it by **what the players can observe each day**, not by what Ludmilla does: visible water contamination, dead fish, new symptoms among the refugees. The players likely can't stop it soon — stopping it means learning about the poison and disrupting the plant. The point of a timeline is to keep feeding them information so they're informed when they can act.
   - **Poison and parasites are two different conditions**, each with its own stages. Poison floated as rashes progressing to jaundice. Ties to [The Withering Sickness (parasites + poison)](../archive/s10-prep.md#the-withering-sickness-parasites--poison) and the open parasite-stages question.
   - **Rejected:** the RAW event where the drunk Watcher brothers (Nikolai II and Carl) free Rictavio's saber-toothed tiger during the festival — it doesn't add anything.
@@ -96,6 +97,7 @@ The party chooses to **rest** at the Vistani camp or **infiltrate** Vallaki toni
 
 - [Ernest Larnack](../npcs/ernest-larnack.md)
 - [Father Lucien Petrovich](../npcs/father-lucien-petrovich.md)
+- [Henrik van der Voort](../npcs/henrik-van-der-voort.md)
 - [Ireena Kolyana](../npcs/ireena-kolyana.md)
 - [Isaac "Izek" Strazani](../npcs/izek-strazani.md)
 - [Lady Fiona Watcher](../npcs/lady-fiona-watcher.md)

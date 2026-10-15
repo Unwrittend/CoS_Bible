@@ -56,7 +56,9 @@ nav_order: 4
   - **(Added 2026-09-24)** When and how Izek realizes Ireena is the red-haired woman of his dreams (dye growing out or washing off, catching her unguarded), and where the resulting abduction fight happens.
   - ~~**(Added 2026-09-24)** Watcher family naming: is **Nikolai** the dead husband or a son?~~ — **RESOLVED 2026-09-24: both.** The husband is Nikolai; the son is Nikolai II.
   - **(Added 2026-09-24)** Does Baba Lysaga have covens/agents, and did Lady Watcher learn her occultism from one?
-  - **(Added 2026-09-24)** [Arabelle](npcs/arabelle.md) — what is she *for*, and therefore where is she? **Partly resolved in [Session 10](sessions/s10.md) (canonical):** she went missing in the Vallaki marketplace on her 7th birthday. **Still open:** who took her and where she is now (Lake Zarovich via an infected host or druid, Von Richten's wagon, or something else), and whether it's connected to [Eliza](npcs/eliza.md) vanishing the same day. See [Arabelle (undecided)](archive/s10-prep.md#arabelle-undecided).
+  - ~~**(Added 2026-09-24)** [Arabelle](npcs/arabelle.md) — what is she *for*, and therefore where is she?~~ **RESOLVED 2026-10-14 (GM-confirmed):** she went missing in the Vallaki marketplace on her 7th birthday ([Session 10](sessions/s10.md)) and is trapped in the coffin maker [Henrik van der Voort](npcs/henrik-van-der-voort.md)'s house. Her clairvoyance led her to the vampire spawn nest there; Henrik took her to keep his secret and is hiding her from the spawn. Not connected to [Eliza](npcs/eliza.md)'s disappearance.
+  - **(Added 2026-10-14)** Arabelle's clairvoyance: a Vistani gift (shared with [Madam Eva](npcs/madam-eva.md)?), and did it pull her to the den or did she follow a vision? Could it reach the party (a dream, [Cassandra](pcs/cassandra-priam.md)'s cards) as a way to find her?
+  - **(Added 2026-10-14)** Why does Henrik host the spawn (threatened, paid, protecting someone)? Who do they answer to — [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)? What clues lead the party to the shop, and what would make the spawn notice Arabelle (her scent, growing hunger, the bones arriving)?
   - ~~**(Added 2026-09-24)** The Vistani camp near Vallaki — encounter still unplanned.~~ **Played in Session 10.**
   - **(Added Session 10)** Why did Gaille's amber react to Kasimir? What does he want to discuss privately?
   - ~~**(Added Session 10)** Who took [Theren](pcs/theren.md)'s gold?~~ **Resolved (GM-confirmed):** the rest of the party, while he was with Eliza. Theren still doesn't know.
@@ -72,7 +74,7 @@ nav_order: 4
 
 **Session 11 prep (added 2026-10-09):**
 
-  - Who actually steals St. Andral's bones (Milivoj, per RAW) and for whom? How does that fit [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)'s heist ([Strahd's Offer to the Party, the Bones of Saint Andral & the Brides](archive/s10-prep.md#strahds-offer-to-the-party-the-bones-of-saint-andral--the-brides)) and Henrik van der Voort's role? Are vampire spawn hidden in the coffin shop, as in RAW?
+  - Who actually steals St. Andral's bones (Milivoj, per RAW) and for whom? How does that fit [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)'s heist (15.5) and Henrik van der Voort's role? ~~Are vampire spawn hidden in the coffin shop, as in RAW?~~ **Yes — GM-confirmed 2026-10-14:** the coffin maker's house holds a vampire spawn nest (and [Arabelle](npcs/arabelle.md)).
   - What day does the Feast of St. Andral fall on, and does it coincide with the Festival (day 3)? What day does Von Richten's zombie swarm hit?
   - Which cleric ([Lyasra](pcs/lyasra.md) or Theren) does Fiona hail as her savior, if any?
   - What happened to Stella, and how did her diary end up with [Morgantha](npcs/morgantha.md)? (The latter is lower priority.)

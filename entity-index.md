@@ -40,6 +40,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
 | Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 10 |
 | Gertruda Stiegler |  | [npcs/gertruda-stiegler.md](npcs/gertruda-stiegler.md) | mixed | 2 |
+| Henrik van der Voort | Henrik, the coffin maker | [npcs/henrik-van-der-voort.md](npcs/henrik-van-der-voort.md) | mixed |  |
 | Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 10 |
 | Ismark the Great | Ismark the Great | [npcs/ismark-the-great.md](npcs/ismark-the-great.md) | canon |  |
 | Isaac "Izek" Strazani | Isaac, Izek | [npcs/izek-strazani.md](npcs/izek-strazani.md) | mixed | 10 |
@@ -114,7 +115,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | --- | --- | --- | --- | --- |
 | Session 9 prep (superseded) |  | [archive/s09-prep.md](archive/s09-prep.md) | idea |  |
 | Session 10 prep (partly played) |  | [archive/s10-prep.md](archive/s10-prep.md) | idea |  |
-| Session 11 prep — Vallaki |  | [prep/s11-vallaki.md](prep/s11-vallaki.md) | idea |  |
+| Session 11 prep — Vallaki |  | [prep/s11-vallaki.md](prep/s11-vallaki.md) | mixed |  |
 
 ## Reference
 
