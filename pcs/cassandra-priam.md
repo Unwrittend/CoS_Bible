@@ -99,5 +99,6 @@ Quirks:
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
 - [Current state](../current-state.md)
+- [Open questions](../open-questions.md)
 
 <!-- backlinks:end -->

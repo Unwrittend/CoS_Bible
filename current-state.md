@@ -29,6 +29,7 @@ nav_order: 2
 ## GM-only (known to the GMs, not the party)
 
 - [Eliza](npcs/eliza.md) is [Strahd](npcs/strahd-von-zarovich.md)'s spy and went to Castle Ravenloft.
+- [Arabelle](npcs/arabelle.md) is trapped in the coffin maker [Henrik van der Voort](npcs/henrik-van-der-voort.md)'s house in Vallaki (GM-confirmed 2026-10-14). Her clairvoyance led her to the vampire den he is hosting there; he kidnapped her to keep it secret and is hiding her from the vampires.
 - [Ludmilla Vilisevic](npcs/strahds-brides.md#ludmilla-vilisevic) survived [Session 9](sessions/s09.md): a portal pulled her back to the castle. The party believes she is dead.
 - The plans for the rest-or-infiltrate night (Kiril's werewolf raid on the refugee children, or [Izek](npcs/izek-strazani.md)'s patrol and [Ernst](npcs/ernest-larnack.md)'s shadowing) are **[IDEA — NONCANONICAL]** prep. See [prep/s11-vallaki](prep/s11-vallaki.md).
 
