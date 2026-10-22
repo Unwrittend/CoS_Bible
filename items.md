@@ -123,6 +123,8 @@ Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first dau
 
 **[Session 11](sessions/s11.md) (canonical):** carried by [Gaille](pcs/gaille.md). When she drew it out inside Vallaki to comfort the child [Jen](npcs/jen.md), she felt a longing, as if they were **in the right place** — feelings neither hers nor the [Void Child](npcs/khirad.md)'s. She didn't hand it over.
 
+**GM-confirmed canon (2026-10-21):** Belinda's "right place" refers to her sister [Gertruda](npcs/gertruda-stiegler.md), who is with [Von Richten](npcs/von-richten.md). The two are in hiding as a carnival troupe. The party doesn't know this yet.
+
   
 
 <!-- backlinks:start -->
@@ -144,6 +146,7 @@ Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first dau
 - [Gaille](pcs/gaille.md)
 - [Lyasra](pcs/lyasra.md)
 - [Argonvost](npcs/argonvost.md)
+- [Gertruda Stiegler](npcs/gertruda-stiegler.md)
 - [Ireena Kolyana](npcs/ireena-kolyana.md)
 - [Isaac "Izek" Strazani](npcs/izek-strazani.md)
 - [Jen](npcs/jen.md)

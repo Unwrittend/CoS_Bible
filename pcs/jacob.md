@@ -51,5 +51,6 @@ nav_order: 3
 - [Key Items](../items.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Open questions](../open-questions.md)
 
 <!-- backlinks:end -->

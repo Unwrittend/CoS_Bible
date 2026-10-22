@@ -48,6 +48,8 @@ nav_order: 4
 
   - Rescued by [Von Richten](von-richten.md)
 
+**GM-confirmed canon (2026-10-21):** Gertruda is with Von Richten, and the two are **in hiding as a carnival troupe**. The doll [Belinda](../items.md#belinda)'s sense of being "in the right place" inside Vallaki ([Session 11](../sessions/s11.md)) was her sister Gertruda's presence. Not yet known to the party, including [Jacob](../pcs/jacob.md).
+
   
 
 **Planned development \[IDEA — NONCANONICAL\]:**
@@ -78,6 +80,8 @@ nav_order: 4
 - [Key Items](../items.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
+- [Changelog](../changelog.md)
+- [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 - [Prompt templates](../templates.md)
 

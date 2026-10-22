@@ -60,6 +60,7 @@ nav_order: 12
   - **Timeline:** in Barovia roughly 15–20 years (revised down from an initial 25–30 estimate to keep his age plausible as a young doctor when his son was taken). Was once a doctor who spent his time and money healing others — a kindness now curdled into vengeance.
   - **Hobbies:** wine connoisseurship offers a fetch-quest hook — he could offer passage out of Barovia in exchange for bottles from the **Wizard of Wines** vineyard, run by the [Martikov](the-martikov-family.md) family. (Cross-reference: this idea actually belongs to Strahd's characterization, not Von Richten's — see [Full profile notes cross-reference](../lore/strahd-motivations.md#full-profile-notes-cross-reference). Included here as a reminder these two NPCs' arcs may intersect at the Martikov vineyard.)
   - **First appearance confirmed:** he will **not** appear human-looking to the party on first encounter — reads as a vampire through and through.
+  - **GM-confirmed canon (2026-10-21):** Von Richten and [Gertruda](gertruda-stiegler.md) are **in hiding together as a carnival troupe** (consistent with his RAW Rictavio persona). [Belinda](../items.md#belinda)'s "right place" pull in Vallaki ([Session 11](../sessions/s11.md)) points to Gertruda. Not yet known to the party.
   - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Session 11 prep](../prep/s11-vallaki.md)):** **Zombie swarm on the Vistani.** He's been collecting zombies in his pits to strike at Strahd and anything he sees as Strahd-aligned — chiefly the Vistani. Unless he's dissuaded, he brings a zombie horde against the Vistani camp outside Vallaki during the three-day window ([Major events in the three-day window](../prep/s11-vallaki.md#major-events-in-the-three-day-window)). His tiger was mentioned as an alternative, but the zombies tie better into what's already set up.
   - **Discarded thread:** an earlier idea that the child's body recovered in [Session 0.5b](../sessions/s00-5b.md)/[Session 1](../sessions/s01.md) (Erasmus) was a vampire spawn was walked back — the internal logic didn't hold (a vampire spawn wouldn't have a heartbeat, and [Dismas](dismas.md)'s exam found one). Benched rather than force-retconned; pieces of it could be salvaged later if useful.
 
@@ -90,6 +91,7 @@ nav_order: 12
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
 - [Changelog](../changelog.md)
+- [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 
 <!-- backlinks:end -->
