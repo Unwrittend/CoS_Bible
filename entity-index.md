@@ -111,7 +111,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Cosmology: Fanes, Strahd's deaths & the Silver Dragon |  | [lore/cosmology.md](lore/cosmology.md) | idea |  |
 | Strahd's motivations & the power struggle |  | [lore/strahd-motivations.md](lore/strahd-motivations.md) | idea |  |
 | The Tome of Strahd questline |  | [lore/tome-of-strahd.md](lore/tome-of-strahd.md) | idea |  |
-| Vallaki's noble houses |  | [lore/vallaki-houses.md](lore/vallaki-houses.md) | idea |  |
+| Vallaki's noble houses |  | [lore/vallaki-houses.md](lore/vallaki-houses.md) | mixed |  |
 
 ## Prep (current & archived)
 

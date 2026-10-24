@@ -20,6 +20,7 @@ nav_order: 31
 **Key characterization principles:**
 
   - Goal: keep [Strahd](strahd-von-zarovich.md) out first and foremost, and keep the peace — which to him means making sure everyone *seems* happy. Strahd's recent reawakening (~a month ago) is the inciting incident for the festivals. Catchphrase: "All will be well" ([Vallaki's noble houses](../lore/vallaki-houses.md)).
+  - **GM-confirmed canon (2026-10-23):** **"All is well"** is Vargas's official slogan, and Vallaki's guards are told to say it. **REVISION:** the ideation wording above (and RAW) is "All will be well"; "All is well" is the preferred, canonical wording.
   - Wants the power inside Lake Zarovich to fight Strahd's coming onslaught, against everything Saint Andral would want. He believed the orphan [Izek](izek-strazani.md)'s story of a monster in the lake when no one else did, rescued him, and took him in.
   - Paranoid; sees assassins in every shadow. Blames Strahd for poisoning Vallaki's water — ironically, correctly.
   - Refuses Barovian refugees entry because they bring disease and unhappiness, which attract maladies and Strahd. Has bitten refugees lynched as Strahd's servants. Imposes the gate entry ritual (running holy water, silver-blade cut, garlic) on everyone, Vallakian and Barovian alike.
@@ -44,5 +45,6 @@ nav_order: 31
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Changelog](../changelog.md)
 
 <!-- backlinks:end -->
