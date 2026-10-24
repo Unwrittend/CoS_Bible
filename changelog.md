@@ -8,7 +8,7 @@ nav_order: 5
 
 Dated one-liners of canon changes and bible restructures, newest first.
 
-- 2026-10-23: GM-confirmed: "**All is well**" is [Vargas](npcs/baron-vargas-volokovich.md)'s official slogan, which Vallaki's guards are told to say. Recorded as a REVISION of the ideation/RAW wording "All will be well" in Vargas's entry and [Vallaki's noble houses](lore/vallaki-houses.md).
+- 2026-10-23: GM-confirmed: "**All will be well**" is [Vargas](npcs/baron-vargas-volokovich.md)'s official slogan, which Vallaki's guards are told to say. Noted in Vargas's entry and [Vallaki's noble houses](lore/vallaki-houses.md). (Corrects a same-day entry that briefly recorded the wording as "All is well.")
 - 2026-10-21: GM-confirmed: [Belinda](items.md#belinda)'s "right place" in Vallaki is her sister [Gertruda](npcs/gertruda-stiegler.md), who is in hiding with [Von Richten](npcs/von-richten.md) as a carnival troupe. Belinda open question resolved; Gertruda, Von Richten, items and current state updated.
 - 2026-10-14: Logged [Session 11](sessions/s11.md). New NPC entries: [Emeric](npcs/emeric.md), [Magda](npcs/magda.md), [Jen](npcs/jen.md). Parasite details shown in play recorded in open questions; Tser Falls/Lake Zarovich water link flagged for a REVISION check.
 - 2026-10-14: Clarified (GM-confirmed): the coffin maker's house holds a **vampire spawn nest**, not full vampires. Wording corrected throughout.
