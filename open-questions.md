@@ -89,7 +89,7 @@ nav_order: 4
   - What happened at the gate after the party went in: the shouting, the scream, the fire and the lullaby on a grass whistle? Were the guards who took Reyna's bribe punished?
   - Pies vs. water: [Emeric](npcs/emeric.md) is infected without having eaten a pie, and the refugees drink Lake Zarovich water. What exactly do the pies do, and are the boba-like globules connected to the worms?
   - Did Lyasra's *purify food and drink* work on the pie, and what pushed back against it?
-  - Do the treated refugees (Emeric, [Magda](npcs/magda.md), [Jen](npcs/jen.md)) stay cured? What happens to the rest of the camp tonight, and to Jen's father?
+  - Do the treated refugees (Emeric, [Magda](npcs/magda.md), [Gen](npcs/gen.md)) stay cured? What happens to the rest of the camp tonight, and to Gen's father?
   - ~~Why did [Belinda](items.md#belinda) feel she was "in the right place" in Vallaki?~~ **RESOLVED 2026-10-21 (GM-confirmed):** she sensed her sister [Gertruda](npcs/gertruda-stiegler.md), who is in hiding with [Von Richten](npcs/von-richten.md) as a carnival troupe. **Still open:** where in Vallaki the troupe is staying (RAW puts Rictavio and his wagon at the Blue Water Inn), what the troupe looks like to outsiders, and how and when the party, especially [Jacob](pcs/jacob.md), finds them.
   - Did Kasimir follow the party into Vallaki?
   - What do the Void Child's angelfish and swirling-liquid images mean?

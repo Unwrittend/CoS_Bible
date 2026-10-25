@@ -74,7 +74,7 @@ TERMS = {
     "npcs/henrik-van-der-voort.md": ["Henrik van der Voort", "Henrik"],
     "npcs/emeric.md": ["Emeric", "Emmerich"],
     "npcs/magda.md": ["Magda"],
-    "npcs/jen.md": ["Jen"],
+    "npcs/gen.md": ["Gen", "Generator"],
     "npcs/ireena-kolyana.md": ["Ireena Kolyana", "Ireena", "Irena"],
     "npcs/strahds-brides.md": ["Strahd's Brides", "Strahd's brides"],
     "npcs/strahds-brides.md#ludmilla-vilisevic": ["Ludmilla Vilisevic", "Ludmilla"],

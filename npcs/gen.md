@@ -1,6 +1,7 @@
 ---
-title: "Jen"
-name: "Jen"
+title: "Gen"
+name: "Gen"
+aliases: ["Generator", "Jen"]
 type: "npc"
 status: "canon"
 last-session: 11
@@ -8,9 +9,11 @@ parent: "NPCs"
 nav_order: 44
 ---
 
-### Jen
+### Gen
 
 **Source characterization:** Homebrew (Barovian refugee child)
+
+**Name:** Gen, short for *Generator*: a callback to Gen, the demon-cursed goblin child from an earlier D&D campaign. Earlier notes spelled it "Jen" (corrected by Chris, 2026-10-25).
 
 **Role:** Refugee child the party has taken under its wing
 

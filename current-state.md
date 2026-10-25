@@ -13,7 +13,7 @@ nav_order: 2
 ## Where the party is
 
 - **Location:** inside Vallaki's walls, at night under a full moon, after curfew. They got through the gate by bribing (10 gp) and intimidating the guards, who sent them to the **Blue Water Inn**.
-- **Party:** [Reyna](pcs/reyna.md), [Lyasra](pcs/lyasra.md), [Cassandra](pcs/cassandra-priam.md), [Theren](pcs/theren.md), [Gaille](pcs/gaille.md), with [Ireena](npcs/ireena-kolyana.md) and three Barovian refugees: [Emeric](npcs/emeric.md), [Magda](npcs/magda.md) and the child [Jen](npcs/jen.md). Lycius is still asleep from the pie. Whether [Kasimir](npcs/kasimir-velikov.md) came in with them wasn't stated.
+- **Party:** [Reyna](pcs/reyna.md), [Lyasra](pcs/lyasra.md), [Cassandra](pcs/cassandra-priam.md), [Theren](pcs/theren.md), [Gaille](pcs/gaille.md), with [Ireena](npcs/ireena-kolyana.md) and three Barovian refugees: [Emeric](npcs/emeric.md), [Magda](npcs/magda.md) and the child [Gen](npcs/gen.md). Lycius is still asleep from the pie. Whether [Kasimir](npcs/kasimir-velikov.md) came in with them wasn't stated.
 - **Rest:** still no long rest. Reyna plans to gather information overnight in commoner clothes; other night activities go through Discord.
 - **In-world day:** still the night of [Arabelle](npcs/arabelle.md)'s 7th birthday.
 

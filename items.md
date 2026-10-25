@@ -121,7 +121,7 @@ A bracelet of wolf fangs — thematically bound to [Jacob](pcs/jacob.md)'s lycan
 
 Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first daughter. Desires a host to become alive. Loves her sister, [Gertruda](npcs/gertruda-stiegler.md) and always wants to keep her little sister safe. Has a empathic connection to those that touch it.
 
-**[Session 11](sessions/s11.md) (canonical):** carried by [Gaille](pcs/gaille.md). When she drew it out inside Vallaki to comfort the child [Jen](npcs/jen.md), she felt a longing, as if they were **in the right place** — feelings neither hers nor the [Void Child](npcs/khirad.md)'s. She didn't hand it over.
+**[Session 11](sessions/s11.md) (canonical):** carried by [Gaille](pcs/gaille.md). When she drew it out inside Vallaki to comfort the child [Gen](npcs/gen.md), she felt a longing, as if they were **in the right place** — feelings neither hers nor the [Void Child](npcs/khirad.md)'s. She didn't hand it over.
 
 **GM-confirmed canon (2026-10-21):** Belinda's "right place" refers to her sister [Gertruda](npcs/gertruda-stiegler.md), who is with [Von Richten](npcs/von-richten.md). The two are in hiding as a carnival troupe. The party doesn't know this yet.
 
@@ -149,7 +149,7 @@ Doll that houses the soul of [Mad Mary](npcs/mad-mary.md)'s miscarried first dau
 - [Gertruda Stiegler](npcs/gertruda-stiegler.md)
 - [Ireena Kolyana](npcs/ireena-kolyana.md)
 - [Isaac "Izek" Strazani](npcs/izek-strazani.md)
-- [Jen](npcs/jen.md)
+- [Gen](npcs/gen.md)
 - [Lugdana](npcs/lugdana.md)
 - [Mad Mary](npcs/mad-mary.md)
 - [Madam Eva](npcs/madam-eva.md)

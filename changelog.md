@@ -8,9 +8,10 @@ nav_order: 5
 
 Dated one-liners of canon changes and bible restructures, newest first.
 
+- 2026-10-25: Renamed the refugee child Jen to [Gen](npcs/gen.md), short for *Generator* (a callback to the demon-cursed goblin child Gen from an earlier campaign). File moved from `npcs/jen.md`.
 - 2026-10-23: GM-confirmed: "**All will be well**" is [Vargas](npcs/baron-vargas-volokovich.md)'s official slogan, which Vallaki's guards are told to say. Noted in Vargas's entry and [Vallaki's noble houses](lore/vallaki-houses.md). (Corrects a same-day entry that briefly recorded the wording as "All is well.")
 - 2026-10-21: GM-confirmed: [Belinda](items.md#belinda)'s "right place" in Vallaki is her sister [Gertruda](npcs/gertruda-stiegler.md), who is in hiding with [Von Richten](npcs/von-richten.md) as a carnival troupe. Belinda open question resolved; Gertruda, Von Richten, items and current state updated.
-- 2026-10-14: Logged [Session 11](sessions/s11.md). New NPC entries: [Emeric](npcs/emeric.md), [Magda](npcs/magda.md), [Jen](npcs/jen.md). Parasite details shown in play recorded in open questions; Tser Falls/Lake Zarovich water link flagged for a REVISION check.
+- 2026-10-14: Logged [Session 11](sessions/s11.md). New NPC entries: [Emeric](npcs/emeric.md), [Magda](npcs/magda.md), [Gen](npcs/gen.md). Parasite details shown in play recorded in open questions; Tser Falls/Lake Zarovich water link flagged for a REVISION check.
 - 2026-10-14: Clarified (GM-confirmed): the coffin maker's house holds a **vampire spawn nest**, not full vampires. Wording corrected throughout.
 - 2026-10-14: GM-confirmed: [Arabelle](npcs/arabelle.md) has clairvoyance and is trapped in the coffin maker's house, where [Henrik van der Voort](npcs/henrik-van-der-voort.md) is hosting a vampire den; he took her to keep it secret and is hiding her from the vampires. Added NPC entry `npcs/henrik-van-der-voort.md`. Arabelle open question resolved; Session 11 prep and current state updated.
 - 2026-10-10: Standardized spellings throughout (except the archived monolith and source titles): Mordakov/Mardikov → [Martikov](npcs/the-martikov-family.md), Blinda → [Belinda](items.md#belinda), Alanik → [Alenik](npcs/von-richten.md). Old spellings kept as search aliases.

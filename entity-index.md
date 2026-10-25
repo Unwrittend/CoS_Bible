@@ -40,12 +40,12 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Ernest Larnack | Ernst, Ernst Larnack | [npcs/ernest-larnack.md](npcs/ernest-larnack.md) | mixed |  |
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
 | Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 10 |
+| Gen | Generator, Jen | [npcs/gen.md](npcs/gen.md) | canon | 11 |
 | Gertruda Stiegler |  | [npcs/gertruda-stiegler.md](npcs/gertruda-stiegler.md) | mixed | 2 |
 | Henrik van der Voort | Henrik, the coffin maker | [npcs/henrik-van-der-voort.md](npcs/henrik-van-der-voort.md) | mixed |  |
 | Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 11 |
 | Ismark the Great | Ismark the Great | [npcs/ismark-the-great.md](npcs/ismark-the-great.md) | canon |  |
 | Isaac "Izek" Strazani | Isaac, Izek | [npcs/izek-strazani.md](npcs/izek-strazani.md) | mixed | 11 |
-| Jen |  | [npcs/jen.md](npcs/jen.md) | canon | 11 |
 | Kasimir Velikov | Kasimir, Casimir | [npcs/kasimir-velikov.md](npcs/kasimir-velikov.md) | canon | 11 |
 | Void Child - Khirad, the Star of Secrets | Void Child, Khirad, The Star of Secrets | [npcs/khirad.md](npcs/khirad.md) | mixed | 0 |
 | Lady Fiona Watcher | Fiona, Lady Watcher | [npcs/lady-fiona-watcher.md](npcs/lady-fiona-watcher.md) | mixed |  |
