@@ -34,7 +34,7 @@ def frontmatter(path):
 
 rows = []
 for path in sorted(glob.glob(os.path.join(ROOT, "**", "*.md"), recursive=True)):
-    rel = os.path.relpath(path, ROOT)
+    rel = os.path.relpath(path, ROOT).replace(os.sep, "/")
     if rel.startswith(("tools/", "_")) or rel in ("README.md", "entity-index.md", "index.md"):
         continue
     meta = frontmatter(path)
@@ -68,5 +68,5 @@ for t in TYPE_ORDER:
                    f"{m.get('status', '')} | {last} |")
     out.append("")
 
-open(os.path.join(ROOT, "entity-index.md"), "w", encoding="utf-8").write("\n".join(out))
+open(os.path.join(ROOT, "entity-index.md"), "w", encoding="utf-8", newline="\n").write("\n".join(out))
 print(f"indexed {len(rows)} files")

@@ -153,7 +153,7 @@ That fills the whole day, so **they will probably miss dinner with [Strahd](../n
   - She dissolves into mad ramblings about seeing, in the mirror, her face ghostly pale and worms crawling under her skin and into her eyes.
   - She blinds herself and is returned to the Watcher House mad.
 
-**B. The Vallaki gates** — *see [Vallaki Gates — the Refugee Camp](#b-vallaki-gates--the-refugee-camp) for the prep-doc write-up (Emeric, Magda, Franz, read-alouds).*
+**B. The Vallaki gates** — *see [Vallaki Gates — the Refugee Camp](#b-vallaki-gates--the-refugee-camp) for the prep-doc write-up ([Emeric](../npcs/emeric.md), [Magda](../npcs/magda.md), Franz, read-alouds).*
 
   - **Setting:** Barovian refugees everywhere — destitute, injured (some from werewolf attacks on the road), starving, and infected with the withering sickness. They're living off the lakeshore and trying to get into Vallaki to escape starvation.
   - **NPCs:** [Father Lucien Petrovich](../npcs/father-lucien-petrovich.md) and Yeska tending the sick; the gate guards; and **Izek Strazani (optional)**, who appears only if the guards can't handle things. None of the brides, and not Annabelle.
@@ -259,8 +259,8 @@ Chris read out an ideation-stage version of [Madam Eva](../npcs/madam-eva.md)'s 
 
 **New NPCs:**
 
-  - **Emeric**, a melancholy older man with graying hair.
-  - **Magda**, a grief-stricken young woman with deep circles under her eyes.
+  - **[Emeric](../npcs/emeric.md)**, a melancholy older man with graying hair.
+  - **[Magda](../npcs/magda.md)**, a grief-stricken young woman with deep circles under her eyes.
   - Both came with the first wave of refugees from Barovia. They have led the effort to welcome and organize newcomers since [Strahd](../npcs/strahd-von-zarovich.md)'s siege.
   - They're wary of outsiders but curious about why the party has come.
   - Magda briefly hopes the party are Baron Vallakovich's servants, come to invite the refugees in. Emeric points to the party's strange appearance and sets her straight.
@@ -326,9 +326,11 @@ Each of these is also listed in [Open questions](../open-questions.md).
 - [Baba Lysaga](../npcs/baba-lysaga.md)
 - [Baron Vargas Volokovich](../npcs/baron-vargas-volokovich.md)
 - [Elaine Groze](../npcs/elaine-groze.md)
+- [Emeric](../npcs/emeric.md)
 - [Father Lucien Petrovich](../npcs/father-lucien-petrovich.md)
 - [Ireena Kolyana](../npcs/ireena-kolyana.md)
 - [Lady Fiona Watcher](../npcs/lady-fiona-watcher.md)
+- [Magda](../npcs/magda.md)
 - [Morgantha](../npcs/morgantha.md)
 - [Rahadin](../npcs/rahadin.md)
 - [Stella Watcher](../npcs/stella-watcher.md)

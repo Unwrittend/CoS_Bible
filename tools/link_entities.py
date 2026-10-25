@@ -14,6 +14,7 @@ Add new names to TERMS below when a new NPC/item file is created.
 """
 import glob
 import os
+import posixpath
 import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -114,7 +115,7 @@ def fm_field(fm, key):
     return m.group(1).replace('\\"', '"') if m else None
 
 
-files = sorted(p for p in (os.path.relpath(f, ROOT) for f in
+files = sorted(p for p in (os.path.relpath(f, ROOT).replace(os.sep, "/") for f in
                            glob.glob(os.path.join(ROOT, "**", "*.md"), recursive=True))
                if not p.startswith(("tools/", "archive/campaign-bible-monolith"))
                and p not in SKIP_FILES)
@@ -151,7 +152,7 @@ def rel_link(src, target):
     path, _, anchor = target.partition("#")
     if path == src:
         return "#" + anchor if anchor else None
-    rel = os.path.relpath(path, os.path.dirname(src) or ".")
+    rel = posixpath.relpath(path, posixpath.dirname(src) or ".")
     return rel + ("#" + anchor if anchor else "")
 
 
@@ -163,7 +164,7 @@ def existing_targets(line, src):
         if url.startswith(("http", "mailto")):
             continue
         path, _, anchor = url.partition("#")
-        path = os.path.normpath(os.path.join(os.path.dirname(src), path)) if path else src
+        path = posixpath.normpath(posixpath.join(posixpath.dirname(src), path)) if path else src
         out.add(path + ("#" + anchor if anchor else ""))
     return out
 
@@ -234,12 +235,12 @@ changed = 0
 for p in files:
     body = bodies[p].rstrip("\n")
     if meta[p]["type"] in BACKLINK_TYPES and refs[p]:
-        items = [f"- [{meta[s]['title']}]({os.path.relpath(s, os.path.dirname(p) or '.')})"
+        items = [f"- [{meta[s]['title']}]({posixpath.relpath(s, posixpath.dirname(p) or '.')})"
                  for s in sorted(refs[p], key=sort_key)]
         body += "\n\n" + "\n".join([BL_START, "", "---", "", "**Mentioned in:**", ""] + items
                                    + ["", BL_END])
     new = meta[p]["fm"] + body + "\n"
     if new != read(p):
-        open(os.path.join(ROOT, p), "w", encoding="utf-8").write(new)
+        open(os.path.join(ROOT, p), "w", encoding="utf-8", newline="\n").write(new)
         changed += 1
 print(f"updated {changed} of {len(files)} files")
