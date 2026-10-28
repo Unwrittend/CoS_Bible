@@ -10,6 +10,7 @@ nav_order: 2
 
 ### Cassandra Priam
 
+  - **Player: Mary**
   - **Aesthetic archetype:** Oracle of Delphi — prophetic, otherworldly, classical Greek influence
 
   
@@ -96,6 +97,7 @@ Quirks:
 - [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
 - [Lyasra](lyasra.md)
 - [Kasimir Velikov](../npcs/kasimir-velikov.md)
 - [Madam Eva](../npcs/madam-eva.md)
@@ -103,6 +105,7 @@ Quirks:
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
 - [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
+- [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 

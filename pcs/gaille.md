@@ -40,6 +40,7 @@ nav_order: 5
 - [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
 - [Cassandra Priam](cassandra-priam.md)
 - [Gen](../npcs/gen.md)
 - [Ireena Kolyana](../npcs/ireena-kolyana.md)

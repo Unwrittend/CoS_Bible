@@ -17,8 +17,8 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Cassandra Priam |  | [pcs/cassandra-priam.md](pcs/cassandra-priam.md) | canon | 11 |
 | Gaille |  | [pcs/gaille.md](pcs/gaille.md) | canon | 11 |
 | Jacob |  | [pcs/jacob.md](pcs/jacob.md) | canon |  |
-| Lyasra |  | [pcs/lyasra.md](pcs/lyasra.md) | canon | 11 |
-| Reyna |  | [pcs/reyna.md](pcs/reyna.md) | canon | 11 |
+| Lyasra |  | [pcs/lyasra.md](pcs/lyasra.md) | canon | 11.5 |
+| Reyna |  | [pcs/reyna.md](pcs/reyna.md) | canon | 11.5 |
 | Theren |  | [pcs/theren.md](pcs/theren.md) | canon | 11 |
 
 ## NPCs
@@ -40,10 +40,10 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Ernest Larnack | Ernst, Ernst Larnack | [npcs/ernest-larnack.md](npcs/ernest-larnack.md) | mixed |  |
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
 | Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 10 |
-| Gen | Generator, Jen | [npcs/gen.md](npcs/gen.md) | canon | 11 |
+| Gen | Generator, Jen | [npcs/gen.md](npcs/gen.md) | canon | 11.5 |
 | Gertruda Stiegler |  | [npcs/gertruda-stiegler.md](npcs/gertruda-stiegler.md) | mixed | 2 |
 | Henrik van der Voort | Henrik, the coffin maker | [npcs/henrik-van-der-voort.md](npcs/henrik-van-der-voort.md) | mixed |  |
-| Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 11 |
+| Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 11.5 |
 | Ismark the Great | Ismark the Great | [npcs/ismark-the-great.md](npcs/ismark-the-great.md) | canon |  |
 | Isaac "Izek" Strazani | Isaac, Izek | [npcs/izek-strazani.md](npcs/izek-strazani.md) | mixed | 11 |
 | Kasimir Velikov | Kasimir, Casimir | [npcs/kasimir-velikov.md](npcs/kasimir-velikov.md) | canon | 11 |
@@ -104,6 +104,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Session 9 - Campfire Confessions & the Woodcutter's Bride |  | [sessions/s09.md](sessions/s09.md) | canon | 9 |
 | Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki |  | [sessions/s10.md](sessions/s10.md) | canon | 10 |
 | Session 11 - The Full Moon, the Wormy Refugees & Through the Gate |  | [sessions/s11.md](sessions/s11.md) | canon | 11 |
+| Session 11.5 - Welcome to Vallaki |  | [sessions/s11-5.md](sessions/s11-5.md) | canon | 11.5 |
 
 ## Lore
 

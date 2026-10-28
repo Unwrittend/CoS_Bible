@@ -78,6 +78,7 @@ nav_order: 12
 - [Session 3](../sessions/s03.md)
 - [Session 5 - Meeting Ireena](../sessions/s05.md)
 - [Session 6 - Wailing Tree](../sessions/s06.md)
+- [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
 - [Arturi](arturi.md)
 - [Dismas](dismas.md)
 - [Esmeralda D'Avenir](esmeralda-davenir.md)

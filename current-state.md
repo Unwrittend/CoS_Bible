@@ -6,7 +6,7 @@ last-session: 11
 nav_order: 2
 ---
 
-# Current state (after Session 11)
+# Current state (after Session 11.5, partly logged)
 
 *Hand-written summary, 2026-10-14, from [Session 11](sessions/s11.md). Update this page whenever a session is logged. The linked files are authoritative; this page is a pointer, not a source.*
 
@@ -15,7 +15,7 @@ nav_order: 2
 - **Location:** inside Vallaki's walls, at night under a full moon, after curfew. They got through the gate by bribing (10 gp) and intimidating the guards, who sent them to the **Blue Water Inn**.
 - **Party:** [Reyna](pcs/reyna.md), [Lyasra](pcs/lyasra.md), [Cassandra](pcs/cassandra-priam.md), [Theren](pcs/theren.md), [Gaille](pcs/gaille.md), with [Ireena](npcs/ireena-kolyana.md) and three Barovian refugees: [Emeric](npcs/emeric.md), [Magda](npcs/magda.md) and the child [Gen](npcs/gen.md). Lycius is still asleep from the pie. Whether [Kasimir](npcs/kasimir-velikov.md) came in with them wasn't stated.
 - **Rest:** still no long rest. Reyna plans to gather information overnight in commoner clothes; other night activities go through Discord.
-- **Since then (Discord night RP, not yet logged; as the GMs described it on 2026-10-27):** [Reyna](pcs/reyna.md) assaulted a guard; [Rictavio](npcs/von-richten.md) shot her and killed a guard outside the Blue Water Inn; the party sought refuge at **St. Andral's Church** in front of the congregation and spent the night there.
+- **Since then ([Session 11.5](sessions/s11-5.md), Discord RP):** the group hid in the stockyard while Ireena distracted the guards, and Reyna, Lyasra and Gen went looking for the Blue Water Inn. *Not yet logged; as the GMs described it on 2026-10-27:* [Reyna](pcs/reyna.md) assaulted a guard; [Rictavio](npcs/von-richten.md) shot her and killed a guard outside the Blue Water Inn; the party sought refuge at **St. Andral's Church** in front of the congregation and spent the night there.
 - **In-world day:** still the night of [Arabelle](npcs/arabelle.md)'s 7th birthday.
 
 ## Top open threads (canon)

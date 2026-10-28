@@ -35,7 +35,7 @@ TERMS = {
     "npcs/dismas.md": ["Dismas"],
     "npcs/reysatra.md": ["Reysatra"],
     "npcs/gertruda-stiegler.md": ["Gertruda Stiegler", "Gertruda"],
-    "npcs/mad-mary.md": ["Mad Mary", "Mary"],
+    "npcs/mad-mary.md": ["Mad Mary"],  # bare "Mary" is also Cassandra's player
     "npcs/violet-larkwing.md": ["Violet Larkwing", "Violet"],
     "npcs/ninthalor.md": ["Ninthalor"],
     "npcs/amogano.md": ["Amogano"],

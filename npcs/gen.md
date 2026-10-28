@@ -4,7 +4,7 @@ name: "Gen"
 aliases: ["Generator", "Jen"]
 type: "npc"
 status: "canon"
-last-session: 11
+last-session: 11.5
 parent: "NPCs"
 nav_order: 44
 ---
@@ -17,7 +17,7 @@ nav_order: 44
 
 **Role:** Refugee child the party has taken under its wing
 
-**Current narrative status (canonical):** Met in [Session 11](../sessions/s11.md). Her lower right leg was riddled with parasite lines ("my leg hurts"). [Theren](../pcs/theren.md)'s *lesser restoration* stopped the wriggling. Her father is in the refugee camp eating pies; her mother isn't there. [Reyna](../pcs/reyna.md) won her over with candy and carries her in a baby-carrier sling; Theren has declared her "his child." Went into Vallaki with the party. [Gaille](../pcs/gaille.md) nearly gave her [Belinda](../items.md#belinda) for comfort, but didn't.
+**Current narrative status (canonical):** Met in [Session 11](../sessions/s11.md). Her lower right leg was riddled with parasite lines ("my leg hurts"). [Theren](../pcs/theren.md)'s *lesser restoration* stopped the wriggling. Her father is in the refugee camp eating pies; her mother isn't there. [Reyna](../pcs/reyna.md) won her over with candy and carries her in a baby-carrier sling; Theren has declared her "his child." Went into Vallaki with the party. **[Session 11.5](../sessions/s11-5.md):** asked [Lyasra](../pcs/lyasra.md) to be her "buddy" in the dark and went with her and Reyna to find the inn. **Session 11.5:** asked [Lyasra](../pcs/lyasra.md) to be her "buddy" in the dark and went with her and Reyna to find the inn. [Gaille](../pcs/gaille.md) nearly gave her [Belinda](../items.md#belinda) for comfort, but didn't.
 
 <!-- backlinks:start -->
 
@@ -26,7 +26,9 @@ nav_order: 44
 **Mentioned in:**
 
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
 - [Gaille](../pcs/gaille.md)
+- [Lyasra](../pcs/lyasra.md)
 - [Reyna](../pcs/reyna.md)
 - [Theren](../pcs/theren.md)
 - [Key Items](../items.md)

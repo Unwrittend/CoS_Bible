@@ -81,7 +81,7 @@ nav_order: 4
   - When does Rahadin's dive happen?
   - What are the day-by-day visible signs of the poisoning? What are the stages of the poison, as distinct from the parasite sickness (floated: rashes progressing to jaundice)?
   - The werewolf raid: does Kiril come himself or send a lieutenant? Is Emil rescuable from Castle Ravenloft? Is there an OC sympathetic to Emil?
-  - **(Added 2026-10-27, [Session 12 prep](prep/s12-vallaki.md))** How does Anastrasya move the bones out (teleportation circle or smuggling)? Is the RAW reconsecration ceremony used? Did Gertruda help hide [Dobry](npcs/milivoj.md#dobry)'s body? What does Urwin get from Von Richten beyond the druids lead? When does Eliza enter Vallaki? And what was the "[Mary](npcs/mad-mary.md) handcuffed to the pew" moment from the Discord night RP?
+  - **(Added 2026-10-27, [Session 12 prep](prep/s12-vallaki.md))** How does Anastrasya move the bones out (teleportation circle or smuggling)? Is the RAW reconsecration ceremony used? Did Gertruda help hide [Dobry](npcs/milivoj.md#dobry)'s body? What does Urwin get from Von Richten beyond the druids lead? When does Eliza enter Vallaki? And what was the moment where Cassandra (Mary, her player) is handcuffed to the pew?
   - What is [Dismas](npcs/dismas.md) doing? (Speculated: at the Watcher house.) Where do Blinsky and [Arturi](npcs/arturi.md) fit?
 
 **From Session 11 (added 2026-10-14):**

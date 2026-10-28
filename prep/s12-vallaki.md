@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Where things stand (from the unlogged Discord night RP)
 
-As the GMs described it, the party spent the night of [Session 11](../sessions/s11.md) at **St. Andral's Church**. [Reyna](../pcs/reyna.md) assaulted one of the Vallaki guards; [Rictavio](../npcs/von-richten.md) shot Reyna, defended the Blue Water Inn and killed a guard, all in front of the inn; and the party then asked for refuge in front of the whole congregation, so a lot of people saw Reyna. *That night RP isn't logged in the bible yet; add a session entry when it is.* Not mentioned in the RP but true, because the party failed the Perception check: **the [Watcher](../npcs/lady-fiona-watcher.md) faction's spy and [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) were both present** to see Reyna's attack at the Blue Water.
+As the GMs described it, the party spent the night of [Session 11](../sessions/s11.md) at **St. Andral's Church**. [Reyna](../pcs/reyna.md) assaulted one of the Vallaki guards; [Rictavio](../npcs/von-richten.md) shot Reyna, defended the Blue Water Inn and killed a guard, all in front of the inn; and the party then asked for refuge in front of the whole congregation, so a lot of people saw Reyna. *The first part of that RP is logged as [Session 11.5](../sessions/s11-5.md); the inn, the guard and the church aren't yet.* Not mentioned in the RP but true, because the party failed the Perception check: **the [Watcher](../npcs/lady-fiona-watcher.md) faction's spy and [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) were both present** to see Reyna's attack at the Blue Water.
 
 ## Night one (what happened while the party slept)
 
@@ -69,7 +69,7 @@ As the GMs described it, the party spent the night of [Session 11](../sessions/s
   - [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova)'s method for moving the bones (teleportation circle or plain smuggling).
   - Whether the reconsecration-ceremony idea is used.
   - Whether [Gertruda](../npcs/gertruda-stiegler.md) helped dispose of [Dobry](../npcs/milivoj.md#dobry)'s body.
-  - A garbled passage about [Mary](../npcs/mad-mary.md) being handcuffed to a pew while "the real [Ireena](../npcs/ireena-kolyana.md)" stays under an invisibility spell; too unclear to record reliably, so confirm with the GMs.
+  - A garbled passage about Mary (Cassandra's player) letting [Cassandra](../pcs/cassandra-priam.md) be handcuffed to a pew while "the real [Ireena](../npcs/ireena-kolyana.md)" stays under an invisibility spell. Possibly Cassandra posing as Ireena; confirm with the GMs.
 
 <!-- backlinks:start -->
 

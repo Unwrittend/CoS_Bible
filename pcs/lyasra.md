@@ -3,13 +3,14 @@ title: "Lyasra"
 name: "Lyasra"
 type: "pc"
 status: "canon"
-last-session: 11
+last-session: 11.5
 parent: "Player Characters"
 nav_order: 1
 ---
 
 ### Lyasra
 
+  - **Player: Andreia**
   - **Aesthetic archetype:** Loxodon — large, elephantine physiology; presents as calm or stoic
 
   
@@ -64,6 +65,7 @@ Why say three words when one will do.
     1.  0.5 - Sent on a quest to find an angel at Saint Marovia's abbey
     2.  8.0 - Learned for sure that the angel was in Barovia
     3.  11.0 - Spotted the refugees' infestation (natural 20 Perception). Cast *purify food and drink* through her feather on one of [Morgantha](../npcs/morgantha.md)'s pies and felt something push back hard; left winded and drowsy, she resisted sleep on a natural 20. Refused [Cassandra](cassandra-priam.md)'s wine.
+    4.  11.5 - Noticed the gate guard writing on a scroll. Clashed with [Reyna](reyna.md) over money and being called "cleric." Went with Reyna to find lodging, carrying [Gen](../npcs/gen.md) as her "buddy" under a light on her amulet, and tracked the Blue Water Inn by smell (garlic everywhere).
 
 <!-- backlinks:start -->
 
@@ -79,11 +81,15 @@ Why say three words when one will do.
 - [Session 9 - Campfire Confessions & the Woodcutter's Bride](../sessions/s09.md)
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
+- [Reyna](reyna.md)
 - [Theren](theren.md)
+- [Gen](../npcs/gen.md)
 - [Morgantha](../npcs/morgantha.md)
 - [Key Items](../items.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
+- [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 
