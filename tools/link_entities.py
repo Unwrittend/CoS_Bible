@@ -77,6 +77,7 @@ TERMS = {
     "npcs/magda.md": ["Magda"],
     "npcs/gen.md": ["Gen", "Generator"],
     "npcs/milivoj.md": ["Milivoj"],
+    "npcs/yeska.md": ["Yeska"],
     "npcs/milivoj.md#dobri": ["Dobrijov", "Dobri"],
     "npcs/ireena-kolyana.md": ["Ireena Kolyana", "Ireena", "Irena"],
     "npcs/strahds-brides.md": ["Strahd's Brides", "Strahd's brides"],

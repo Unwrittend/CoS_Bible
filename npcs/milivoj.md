@@ -27,7 +27,7 @@ nav_order: 45
 
 **Name (GM-confirmed 2026-10-27):** [Dobri](#dobri), short for **Dobrijov**. The ideation transcript rendered it "Dopry," "Dokree" and "Dolbury," and an earlier version of this entry guessed "Dobry."
 
-**[IDEA — NONCANONICAL]** Milivoj's younger brother, about 16, a Vallaki guard and co-head of the household. He is the guard [Von Richten](von-richten.md) killed outside the Blue Water Inn on the night of [Session 11](../sessions/s11.md). Von Richten hid the body in his wagon in the stockyard and fed it to his saber-toothed tiger. On day one [Izek](izek-strazani.md) and the guards are searching for him. Whether the party saw his name or face during the fight wasn't discussed.
+**[IDEA — NONCANONICAL]** Milivoj's younger brother, about 16, a Vallaki guard and co-head of the household. He is the guard [Reyna](../pcs/reyna.md) knocked out outside the Blue Water Inn in [Session 11.5](../sessions/s11-5.md) (that part is canon; his name wasn't given). [Von Richten](von-richten.md) then killed him. Von Richten hid the body in his wagon in the stockyard and fed it to his saber-toothed tiger. On day one [Izek](izek-strazani.md) and the guards are searching for him. Whether the party saw his name or face during the fight wasn't discussed.
 
 <!-- backlinks:start -->
 

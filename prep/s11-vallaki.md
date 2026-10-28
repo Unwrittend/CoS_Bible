@@ -23,7 +23,7 @@ Only actors with **their own motives** are listed; agents who simply serve someo
   - ★ **[Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova)** and ★ **[Ludmilla](../npcs/strahds-brides.md#ludmilla-vilisevic)** — separate factions despite both being [Strahd's brides](../npcs/strahds-brides.md).
   - ★ **[Strahd](../npcs/strahd-von-zarovich.md)**, with **[Eliza](../npcs/eliza.md)** acting as his spy.
   - ★ **[Ireena](../npcs/ireena-kolyana.md)**.
-  - **St. Andral's Church** — [Father Lucien](../npcs/father-lucien-petrovich.md) (Yeska follows him); gravedigger **[Milivoj](../npcs/milivoj.md)** (bone thief); coffin maker **[Henrik van der Voort](../npcs/henrik-van-der-voort.md)** (receives the bones). **Canon update (GM-confirmed 2026-10-14):** Henrik is hosting a vampire spawn nest at his house, and holds [Arabelle](../npcs/arabelle.md) captive there — see 16.2.
+  - **St. Andral's Church** — [Father Lucien](../npcs/father-lucien-petrovich.md) ([Yeska](../npcs/yeska.md) follows him); gravedigger **[Milivoj](../npcs/milivoj.md)** (bone thief); coffin maker **[Henrik van der Voort](../npcs/henrik-van-der-voort.md)** (receives the bones). **Canon update (GM-confirmed 2026-10-14):** Henrik is hosting a vampire spawn nest at his house, and holds [Arabelle](../npcs/arabelle.md) captive there — see 16.2.
   - **[Martikovs](../npcs/the-martikov-family.md)** — Urwin (with Danika); Davian (separate motive).
   - **Vistani of Vallaki** — [Luvash](../npcs/luvash.md), [Arrigal](../npcs/arrigal.md), [Arabelle](../npcs/arabelle.md).
   - **Dusk elves** — [Kasimir](../npcs/kasimir-velikov.md).
@@ -109,6 +109,7 @@ The party chooses to **rest** at the Vistani camp or **infiltrate** Vallaki toni
 - [Strahd's Brides](../npcs/strahds-brides.md)
 - [The Martikov Family](../npcs/the-martikov-family.md)
 - [Von Richten](../npcs/von-richten.md)
+- [Yeska](../npcs/yeska.md)
 - [Session 12 prep — Vallaki, day one](s12-vallaki.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)

@@ -14,7 +14,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 
 | Name | Aliases | File | Status | Last session |
 | --- | --- | --- | --- | --- |
-| Cassandra Priam |  | [pcs/cassandra-priam.md](pcs/cassandra-priam.md) | canon | 11 |
+| Cassandra Priam |  | [pcs/cassandra-priam.md](pcs/cassandra-priam.md) | canon | 11.5 |
 | Gaille |  | [pcs/gaille.md](pcs/gaille.md) | canon | 11 |
 | Jacob |  | [pcs/jacob.md](pcs/jacob.md) | canon |  |
 | Lyasra |  | [pcs/lyasra.md](pcs/lyasra.md) | canon | 11.5 |
@@ -36,10 +36,10 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Dismas |  | [npcs/dismas.md](npcs/dismas.md) | canon |  |
 | Elaine Groze |  | [npcs/elaine-groze.md](npcs/elaine-groze.md) | mixed | 10 |
 | Eliza |  | [npcs/eliza.md](npcs/eliza.md) | canon | 10 |
-| Emeric | Emmerich | [npcs/emeric.md](npcs/emeric.md) | canon | 11 |
+| Emeric | Emmerich | [npcs/emeric.md](npcs/emeric.md) | canon | 11.5 |
 | Ernest Larnack | Ernst, Ernst Larnack | [npcs/ernest-larnack.md](npcs/ernest-larnack.md) | mixed |  |
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
-| Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 10 |
+| Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 11.5 |
 | Gen | Generator, Jen | [npcs/gen.md](npcs/gen.md) | canon | 11.5 |
 | Gertruda Stiegler |  | [npcs/gertruda-stiegler.md](npcs/gertruda-stiegler.md) | mixed | 2 |
 | Henrik van der Voort | Henrik, the coffin maker | [npcs/henrik-van-der-voort.md](npcs/henrik-van-der-voort.md) | mixed |  |
@@ -53,7 +53,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Luvash |  | [npcs/luvash.md](npcs/luvash.md) | canon | 11 |
 | Mad Mary | Mary | [npcs/mad-mary.md](npcs/mad-mary.md) | canon | 1 |
 | Madam Eva | Eva | [npcs/madam-eva.md](npcs/madam-eva.md) | mixed |  |
-| Magda | Megna | [npcs/magda.md](npcs/magda.md) | canon | 11 |
+| Magda | Megna | [npcs/magda.md](npcs/magda.md) | canon | 11.5 |
 | Milivoj | Dobri, Dobrijov | [npcs/milivoj.md](npcs/milivoj.md) | idea |  |
 | Morgantha |  | [npcs/morgantha.md](npcs/morgantha.md) | mixed | 11 |
 | Ninthalor |  | [npcs/ninthalor.md](npcs/ninthalor.md) | canon |  |
@@ -70,6 +70,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Violet Larkwing |  | [npcs/violet-larkwing.md](npcs/violet-larkwing.md) | canon |  |
 | Von Richten | Rudolph van Richten, Rictavio, Alenik, Alanik, Van Richten | [npcs/von-richten.md](npcs/von-richten.md) | mixed | 4 |
 | The Woodcutter's Bride (Ludmilla) | Ludmilla Vilisevic, The Woodcutter's Bride | [npcs/woodcutters-bride.md](npcs/woodcutters-bride.md) | mixed | 10 |
+| Yeska |  | [npcs/yeska.md](npcs/yeska.md) | canon | 11.5 |
 
 ## Items
 

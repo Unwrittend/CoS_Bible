@@ -3,7 +3,7 @@ title: "Cassandra Priam"
 name: "Cassandra Priam"
 type: "pc"
 status: "canon"
-last-session: 11
+last-session: 11.5
 parent: "Player Characters"
 nav_order: 2
 ---
@@ -81,6 +81,7 @@ Quirks:
 3.  9.0 - Revealed, in the campfire storytelling game, that Lycius is not a foundling she rescued from an abandoned nest as she'd initially claimed — the true version is that Lycius is a multi-generation family familiar, inherited across several generations of Priam wizards, which is why his coloring shows no distinguishing mark of any one primordial bloodline. Above-table this was played as the session's "lie."
 4.  10.0 - Lycius ate one of [Morgantha](../npcs/morgantha.md)'s cheese pies, became blissfully sedated and fell asleep (failed CON save). Drew two Tarokka cards: **the Executioner** (upright) on first sighting Lake Zarovich, and **the Ten of Stars (Wizard)** about [Gaille](gaille.md) and [Kasimir](../npcs/kasimir-velikov.md). New mechanic introduced: after each reading she rolls a d100 against a GM-set DC, and Chris tells her privately whether the reading *feels* accurate (it may still be accurate either way).
 5.  11.0 - Lycius is still asleep from the pie, lying on her head. Offered a Tarokka reading on the sickness's cause (not drawn). Pressed [Emeric](../npcs/emeric.md) on whether the pies were what made the refugees sick.
+6.  11.5 - In the stockyard, with [Ireena](../npcs/ireena-kolyana.md)'s permission, used her Tarokka cards to disguise herself as Ireena (the Charlatan) and make the real Ireena invisible (a veiled woman). Followed to St. Andral's wearing Ireena's face and scolded [Reyna](reyna.md) for her "greenhorn behavior." Refused to let Reyna handcuff her (as "Ireena") to a pew; stays in the middle of the group instead.
 
 <!-- backlinks:start -->
 
@@ -99,6 +100,8 @@ Quirks:
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
 - [Lyasra](lyasra.md)
+- [Reyna](reyna.md)
+- [Ireena Kolyana](../npcs/ireena-kolyana.md)
 - [Kasimir Velikov](../npcs/kasimir-velikov.md)
 - [Madam Eva](../npcs/madam-eva.md)
 - [Key Items](../items.md)

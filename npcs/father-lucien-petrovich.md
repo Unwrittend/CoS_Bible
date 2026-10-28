@@ -4,7 +4,7 @@ name: "Father Lucien Petrovich"
 aliases: ["Lucien", "Lucian"]
 type: "npc"
 status: "mixed"
-last-session: 10
+last-session: 11.5
 parent: "NPCs"
 nav_order: 32
 ---
@@ -19,14 +19,14 @@ nav_order: 32
 
 **Key characterization principles:**
 
-  - Works outside the gates among the Barovian refugees with his altar boy **Yeska**, trying to heal the sick with holy power.
+  - Works outside the gates among the Barovian refugees with his altar boy **[Yeska](yeska.md)**, trying to heal the sick with holy power.
   - Doesn't know what the "withering sickness" is, but has noticed many Barovians wasting away and dying in droves. He is the NPC who talks about the sickness.
   - Would likely know Father Donavich.
   - Custodian of St. Andral's bones, which keep Vallaki's ground consecrated (and, per ideation, may be what protects its wells — [Strahd's Offer to the Party, the Bones of Saint Andral & the Brides](../archive/s10-prep.md#strahds-offer-to-the-party-the-bones-of-saint-andral--the-brides)).
 
   - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Section 16](../prep/s11-vallaki.md)):** Faction note: **Yeska** shares Lucien's motives (not a separate faction). The church's gravedigger **[Milivoj](milivoj.md)** is the one who steals St. Andral's bones and hands them to the coffin maker **[Henrik van der Voort](henrik-van-der-voort.md)** (per RAW). Who Milivoj is working for — and how this fits [Anastrasya](strahds-brides.md#anastrasya-karelova)'s bones heist (15.5) — is unreconciled ([Section 14](../open-questions.md)).
 
-**Current narrative status:** Not yet encountered in play.
+**Current narrative status:** **[Session 11.5](../sessions/s11-5.md) (canonical):** first seen, not yet spoken to. On the full-moon night he led a packed congregation at St. Andral's in prayer from the lectern, "with authority but kindness," wearing the Morninglord's sun symbol, and is to pray all night. [Reyna](../pcs/reyna.md) is to speak with him in the morning.
 
   
 
@@ -41,8 +41,12 @@ nav_order: 32
 
 **Mentioned in:**
 
+- [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
+- [Lyasra](../pcs/lyasra.md)
+- [Reyna](../pcs/reyna.md)
 - [Baron Vargas Volokovich](baron-vargas-volokovich.md)
 - [Milivoj](milivoj.md)
+- [Yeska](yeska.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)

@@ -65,7 +65,7 @@ Why say three words when one will do.
     1.  0.5 - Sent on a quest to find an angel at Saint Marovia's abbey
     2.  8.0 - Learned for sure that the angel was in Barovia
     3.  11.0 - Spotted the refugees' infestation (natural 20 Perception). Cast *purify food and drink* through her feather on one of [Morgantha](../npcs/morgantha.md)'s pies and felt something push back hard; left winded and drowsy, she resisted sleep on a natural 20. Refused [Cassandra](cassandra-priam.md)'s wine.
-    4.  11.5 - Noticed the gate guard writing on a scroll. Clashed with [Reyna](reyna.md) over money and being called "cleric." Went with Reyna to find lodging, carrying [Gen](../npcs/gen.md) as her "buddy" under a light on her amulet, and tracked the Blue Water Inn by smell (garlic everywhere).
+    4.  11.5 - Noticed the gate guard writing on a scroll. Clashed with [Reyna](reyna.md) over money and being called "cleric." Carried [Gen](../npcs/gen.md) as her "buddy" and tracked the Blue Water Inn by smell (garlic everywhere). Talked a guard round by claiming they were from Krezk, then watched Reyna knock him out and get shot at the inn. Complimented the clown, healed Reyna, and led the way to St. Andral's Church. Froze on seeing [Father Lucien](../npcs/father-lucien-petrovich.md)'s vestments and stayed on guard; asked [Yeska](../npcs/yeska.md) for sanctuary.
 
 <!-- backlinks:start -->
 
@@ -86,6 +86,7 @@ Why say three words when one will do.
 - [Theren](theren.md)
 - [Gen](../npcs/gen.md)
 - [Morgantha](../npcs/morgantha.md)
+- [Von Richten](../npcs/von-richten.md)
 - [Key Items](../items.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)

@@ -17,7 +17,7 @@ nav_order: 44
 
 **Role:** Refugee child the party has taken under its wing
 
-**Current narrative status (canonical):** Met in [Session 11](../sessions/s11.md). Her lower right leg was riddled with parasite lines ("my leg hurts"). [Theren](../pcs/theren.md)'s *lesser restoration* stopped the wriggling. Her father is in the refugee camp eating pies; her mother isn't there. [Reyna](../pcs/reyna.md) won her over with candy and carries her in a baby-carrier sling; Theren has declared her "his child." Went into Vallaki with the party. **[Session 11.5](../sessions/s11-5.md):** asked [Lyasra](../pcs/lyasra.md) to be her "buddy" in the dark and went with her and Reyna to find the inn. **Session 11.5:** asked [Lyasra](../pcs/lyasra.md) to be her "buddy" in the dark and went with her and Reyna to find the inn. [Gaille](../pcs/gaille.md) nearly gave her [Belinda](../items.md#belinda) for comfort, but didn't.
+**Current narrative status (canonical):** Met in [Session 11](../sessions/s11.md). Her lower right leg was riddled with parasite lines ("my leg hurts"). [Theren](../pcs/theren.md)'s *lesser restoration* stopped the wriggling. Her father is in the refugee camp eating pies; her mother isn't there. [Reyna](../pcs/reyna.md) won her over with candy and carries her in a baby-carrier sling; Theren has declared her "his child." Went into Vallaki with the party. **[Session 11.5](../sessions/s11-5.md):** asked [Lyasra](../pcs/lyasra.md) to be her "buddy" in the dark and went with her and Reyna to find the inn. Slept through the fight at the Blue Water Inn in Lyasra's arms. At St. Andral's, [Yeska](yeska.md) took her to sleep with the other children in the centre pews, "closest to the saint." [Gaille](../pcs/gaille.md) nearly gave her [Belinda](../items.md#belinda) for comfort, but didn't.
 
 <!-- backlinks:start -->
 
@@ -31,6 +31,7 @@ nav_order: 44
 - [Lyasra](../pcs/lyasra.md)
 - [Reyna](../pcs/reyna.md)
 - [Theren](../pcs/theren.md)
+- [Yeska](yeska.md)
 - [Key Items](../items.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)

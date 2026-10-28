@@ -14,13 +14,15 @@ nav_order: 1
 
 ## Where things stand (from the unlogged Discord night RP)
 
-As the GMs described it, the party spent the night of [Session 11](../sessions/s11.md) at **St. Andral's Church**. [Reyna](../pcs/reyna.md) assaulted one of the Vallaki guards; [Rictavio](../npcs/von-richten.md) shot Reyna, defended the Blue Water Inn and killed a guard, all in front of the inn; and the party then asked for refuge in front of the whole congregation, so a lot of people saw Reyna. *The first part of that RP is logged as [Session 11.5](../sessions/s11-5.md); the inn, the guard and the church aren't yet.* Not mentioned in the RP but true, because the party failed the Perception check: **the [Watcher](../npcs/lady-fiona-watcher.md) faction's spy and [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) were both present** to see Reyna's attack at the Blue Water.
+**Played in [Session 11.5](../sessions/s11-5.md) (canonical):** [Reyna](../pcs/reyna.md) knocked out a guard outside the Blue Water Inn, broke down the inn's door and was shot in the face by a clown ([Rictavio](../npcs/von-richten.md)), losing an eye. The party then took refuge at **St. Andral's Church** in front of a packed congregation, where Reyna's Divine Sense felt the hallowing flicker out for a moment. [Cassandra](../pcs/cassandra-priam.md) is disguised as [Ireena](../npcs/ireena-kolyana.md); the real Ireena is invisible in the stockyard with [Magda](../npcs/magda.md) and [Emeric](../npcs/emeric.md). *(This replaces the GMs' summary in the ideation, which had Rictavio kill the guard in front of the inn; in play, the party left the guard unconscious.)*
+
+**Not played, but true** (the party failed the Perception check): **the [Watcher](../npcs/lady-fiona-watcher.md) faction's spy and [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) were both present** to see Reyna's attack at the Blue Water.
 
 ## Night one (what happened while the party slept)
 
   - **Werewolves attack the Barovian refugee camp** and take all the refugee children. [Izek](../npcs/izek-strazani.md) fights off the werewolves that attack the gates and leaves the refugees to die. (This adopts the [Session 11 prep](s11-vallaki.md) werewolf raid for the night the party went inside; it fits the lullaby on a grass whistle heard at the gate.)
-  - **[Dobri](../npcs/milivoj.md#dobri), the guard [Rictavio](../npcs/von-richten.md) killed, is [Milivoj](../npcs/milivoj.md)'s younger brother.** Rictavio hid the body: he has a wagon in the stockyard, chopped the body up and fed it to his saber-toothed tiger, which gnaws the bones. (Whether he sent [Gertruda](../npcs/gertruda-stiegler.md) to do it was left open.) Players who go back to the inn and investigate well can find blood or other signs.
-  - **Milivoj steals St. Andral's bones** moments before [Lucien](../npcs/father-lucien-petrovich.md)'s sermon ends. That's why [Reyna](../pcs/reyna.md)'s Divine Sense briefly felt nothing at all during the sermon: something was already wrong.
+  - **[Dobri](../npcs/milivoj.md#dobri), the guard [Reyna](../pcs/reyna.md) knocked out outside the Blue Water Inn, is [Milivoj](../npcs/milivoj.md)'s younger brother.** After the party left, [Rictavio](../npcs/von-richten.md) killed him and hid the body: he has a wagon in the stockyard (where the rest of the party was hiding), chopped the body up and fed it to his saber-toothed tiger, which gnaws the bones. (Whether he sent [Gertruda](../npcs/gertruda-stiegler.md) to do it was left open.) Players who go back to the inn and investigate well can find blood or other signs.
+  - **Milivoj steals St. Andral's bones** moments before [Lucien](../npcs/father-lucien-petrovich.md)'s prayer ends. That's why the hallowing flickered out for a moment under [Reyna](../pcs/reyna.md)'s Divine Sense in [Session 11.5](../sessions/s11-5.md): something was already wrong.
   - **[Von Richten](../npcs/von-richten.md) and the [Martikovs](../npcs/the-martikov-family.md) form an uneasy alliance**, because he just protected their inn from the party. See [The Martikovs and Von Richten](#the-martikovs-and-von-richten).
   - **[Arabelle](../npcs/arabelle.md)** is hidden in a coffin at [Henrik](../npcs/henrik-van-der-voort.md)'s house (already canon) and quietly fed by him.
 
@@ -69,7 +71,6 @@ As the GMs described it, the party spent the night of [Session 11](../sessions/s
   - [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova)'s method for moving the bones (teleportation circle or plain smuggling).
   - Whether the reconsecration-ceremony idea is used.
   - Whether [Gertruda](../npcs/gertruda-stiegler.md) helped dispose of [Dobri](../npcs/milivoj.md#dobri)'s body.
-  - A garbled passage about Mary (Cassandra's player) letting [Cassandra](../pcs/cassandra-priam.md) be handcuffed to a pew while "the real [Ireena](../npcs/ireena-kolyana.md)" stays under an invisibility spell. Possibly Cassandra posing as Ireena; confirm with the GMs.
 
 <!-- backlinks:start -->
 

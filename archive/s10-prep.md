@@ -119,7 +119,7 @@ The major players named: the **Volokoviches**, the **Watcher House**, the **[Mar
           - The two sons have none of their mother's ambition or temper. They spend her money, drinking and partying to escape the loss of their sister, and think their mother has gone a little mad.
           - The family was once tight-knit; loss has broken it.
           - Stella went mad after her marriage into the Volokovich family.
-  - **Father Lucien Petrovich (St. Andral's)** and his altar boy **Yeska** (the grave-digger is [Milivoj](../npcs/milivoj.md), not present) work among the refugees, trying to heal the sick with holy power. Lucien doesn't know what the malady is, but sees people dying in droves.
+  - **Father Lucien Petrovich (St. Andral's)** and his altar boy **[Yeska](../npcs/yeska.md)** (the grave-digger is [Milivoj](../npcs/milivoj.md), not present) work among the refugees, trying to heal the sick with holy power. Lucien doesn't know what the malady is, but sees people dying in droves.
   - **Dusk Elves:** a small group of male Dusk Elves, with **Kasimir** as the important one. "Help from the Dusk Elves" was pencilled in as a possible way into Vallaki, pending the Vistani camp work.
 
 ## Planned Encounters for the Next Session
@@ -156,7 +156,7 @@ That fills the whole day, so **they will probably miss dinner with [Strahd](../n
 **B. The Vallaki gates** — *see [Vallaki Gates — the Refugee Camp](#b-vallaki-gates--the-refugee-camp) for the prep-doc write-up ([Emeric](../npcs/emeric.md), [Magda](../npcs/magda.md), Franz, read-alouds).*
 
   - **Setting:** Barovian refugees everywhere — destitute, injured (some from werewolf attacks on the road), starving, and infected with the withering sickness. They're living off the lakeshore and trying to get into Vallaki to escape starvation.
-  - **NPCs:** [Father Lucien Petrovich](../npcs/father-lucien-petrovich.md) and Yeska tending the sick; the gate guards; and **Izek Strazani (optional)**, who appears only if the guards can't handle things. None of the brides, and not Annabelle.
+  - **NPCs:** [Father Lucien Petrovich](../npcs/father-lucien-petrovich.md) and [Yeska](../npcs/yeska.md) tending the sick; the gate guards; and **Izek Strazani (optional)**, who appears only if the guards can't handle things. None of the brides, and not Annabelle.
   - **Entry ritual (Vargas's protocol, for everyone, Vallakian and Barovian alike):**
       1. walk across running (holy) water;
       2. cut yourself with a silver blade;
@@ -297,7 +297,7 @@ Chris read out an ideation-stage version of [Madam Eva](../npcs/madam-eva.md)'s 
 
 *"Emeric and Magda speaking to a man with worn robes that engulf a lithe frame. You see the crest of the Morninglord emblazoned on his lapels. There are deep hollow under his eyes, and at his side you see a similarly dressing young boy. They both look much cleaner than the Barovians."*
 
-The boy is presumably Yeska.
+The boy is presumably [Yeska](../npcs/yeska.md).
 
 ### C. Vistani Camps
 

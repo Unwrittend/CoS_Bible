@@ -4,7 +4,7 @@ name: "Magda"
 aliases: ["Megna"]
 type: "npc"
 status: "canon"
-last-session: 11
+last-session: 11.5
 parent: "NPCs"
 nav_order: 43
 ---
@@ -21,7 +21,7 @@ nav_order: 43
 
   - Grief-stricken young woman with deep circles under her eyes (prep). Recognized Ireena at once ("what happened to your hair?") and asked whether the party had been sent by the Vallakian Burgomaster to take the refugees in.
 
-**Current narrative status (canonical):** Met in [Session 11](../sessions/s11.md). Showed the party the spreading veins on her own body. [Reyna](../pcs/reyna.md)'s Lay on Hands stopped the worms moving; the marks remain. Went into Vallaki with the party.
+**Current narrative status (canonical):** Met in [Session 11](../sessions/s11.md). Showed the party the spreading veins on her own body. [Reyna](../pcs/reyna.md)'s Lay on Hands stopped the worms moving; the marks remain. Went into Vallaki with the party. **[Session 11.5](../sessions/s11-5.md):** hid in the stockyard with Ireena; restless about the fire beyond the gate.
 
 <!-- backlinks:start -->
 
@@ -30,6 +30,7 @@ nav_order: 43
 **Mentioned in:**
 
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
 - [Reyna](../pcs/reyna.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Ireena Kolyana](ireena-kolyana.md)
