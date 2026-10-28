@@ -1,7 +1,7 @@
 ---
 title: "Milivoj"
 name: "Milivoj"
-aliases: ["Dobry"]
+aliases: ["Dobri", "Dobrijov"]
 type: "npc"
 status: "idea"
 parent: "NPCs"
@@ -17,15 +17,17 @@ nav_order: 45
 **Key characterization principles:**
 
   - About 19, and head of a desperate household. His parents are addicted to [Morgantha](morgantha.md)'s dream pastries; there were once sixteen or seventeen children, and some were sold to make the pastries. That's why he runs the family now. About thirteen siblings remain.
-  - He and his younger brother [Dobry](#dobry) were joint heads of the household. "We need to do jobs even though it's not the best. How else do you think we're gonna put food on the table?"
+  - He and his younger brother [Dobri](#dobri) were joint heads of the household. "We need to do jobs even though it's not the best. How else do you think we're gonna put food on the table?"
   - Works with Henrik purely for the money, out of desperation. The GMs leaned towards him still **believing in [Vargas](baron-vargas-volokovich.md) and the Volokoviches** as the city's protectors, and in their St. Andral's take on the Morninglord ("you must be happy to keep the devil at bay"). That makes him a counterweight to the players' current view of Vargas. Michelle's alternative, that he's firmly against the Burgomaster (or he wouldn't defile consecrated ground), was discussed; the GMs went with desperation.
-  - **Suspects the Burgomaster made Dobry disappear.** He doesn't know why, but Vallakians have vanished for lesser offenses. He and his siblings ask the Burgomaster to help find Dobry.
+  - **Suspects the Burgomaster made Dobri disappear.** He doesn't know why, but Vallakians have vanished for lesser offenses. He and his siblings ask the Burgomaster to help find Dobri.
 
 **Current narrative status:** Not yet encountered. On night one he steals St. Andral's bones moments before [Father Lucien](father-lucien-petrovich.md)'s sermon ends ([Session 12 prep](../prep/s12-vallaki.md)). The party will probably meet him quickly, at the church.
 
-#### Dobry
+#### Dobri
 
-**[IDEA — NONCANONICAL]** Milivoj's younger brother, about 16 (transcript also "Dopry," "Dokree," "Dolbury"), a Vallaki guard and co-head of the household. He is the guard [Von Richten](von-richten.md) killed outside the Blue Water Inn on the night of [Session 11](../sessions/s11.md). Von Richten hid the body in his wagon in the stockyard and fed it to his saber-toothed tiger. On day one [Izek](izek-strazani.md) and the guards are searching for him. Whether the party saw his name or face during the fight wasn't discussed.
+**Name (GM-confirmed 2026-10-27):** [Dobri](#dobri), short for **Dobrijov**. The ideation transcript rendered it "Dopry," "Dokree" and "Dolbury," and an earlier version of this entry guessed "Dobry."
+
+**[IDEA — NONCANONICAL]** Milivoj's younger brother, about 16, a Vallaki guard and co-head of the household. He is the guard [Von Richten](von-richten.md) killed outside the Blue Water Inn on the night of [Session 11](../sessions/s11.md). Von Richten hid the body in his wagon in the stockyard and fed it to his saber-toothed tiger. On day one [Izek](izek-strazani.md) and the guards are searching for him. Whether the party saw his name or face during the fight wasn't discussed.
 
 <!-- backlinks:start -->
 

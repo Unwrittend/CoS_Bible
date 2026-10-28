@@ -36,7 +36,7 @@ nav_order: 2
 - [Ludmilla Vilisevic](npcs/strahds-brides.md#ludmilla-vilisevic) survived [Session 9](sessions/s09.md): a portal pulled her back to the castle. The party believes she is dead.
 - The [Session 11](sessions/s11.md) night plans that didn't come up in play (Kiril's werewolf raid on the refugee children, [Izek](npcs/izek-strazani.md)'s patrol, [Ernst](npcs/ernest-larnack.md)'s shadowing) remain **[IDEA — NONCANONICAL]**. See [prep/s11-vallaki](prep/s11-vallaki.md).
 
-- **Session 12 plan** ([prep](prep/s12-vallaki.md), [IDEA — NONCANONICAL]): overnight, werewolves took the refugee children while [Izek](npcs/izek-strazani.md) held the gate; the dead guard is [Milivoj](npcs/milivoj.md)'s brother [Dobry](npcs/milivoj.md#dobry); Milivoj stole St. Andral's bones; Von Richten and the [Martikovs](npcs/the-martikov-family.md) allied. Day one centres on [Father Lucien](npcs/father-lucien-petrovich.md) and [Vargas](npcs/baron-vargas-volokovich.md)'s festival parade. The bones leave on day 2 and are gone on day 3, when Strahd attacks the Festival.
+- **Session 12 plan** ([prep](prep/s12-vallaki.md), [IDEA — NONCANONICAL]): overnight, werewolves took the refugee children while [Izek](npcs/izek-strazani.md) held the gate; the dead guard is [Milivoj](npcs/milivoj.md)'s brother [Dobri](npcs/milivoj.md#dobri); Milivoj stole St. Andral's bones; Von Richten and the [Martikovs](npcs/the-martikov-family.md) allied. Day one centres on [Father Lucien](npcs/father-lucien-petrovich.md) and [Vargas](npcs/baron-vargas-volokovich.md)'s festival parade. The bones leave on day 2 and are gone on day 3, when Strahd attacks the Festival.
 
 ## Where to look next
 

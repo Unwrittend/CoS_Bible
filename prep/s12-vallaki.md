@@ -8,7 +8,7 @@ nav_order: 1
 
 # Session 12 prep — the church, the guards & the secrets of Vallaki's first night
 
-**[IDEA — NONCANONICAL] Everything on this page is GM ideation, not actual play.** Source: *Curse of [Strahd](../npcs/strahd-von-zarovich.md) session ideation — Church, guards, and secrets* (Chris and Michelle, 2026-10-27). The transcript renders [Milivoj](../npcs/milivoj.md) as "Milajov/Miljov," [Dobry](../npcs/milivoj.md#dobry) as "Dopry/Dokree," [Rictavio](../npcs/von-richten.md) as "Rottavio/Rattavia," [Urwin](../npcs/the-martikov-family.md) Martikov as "Uriel," the Martikovs as "Mardikovs," [Lugdana](../npcs/lugdana.md) as "Longdonna," Blinsky as "Splinsky," [Reyna](../pcs/reyna.md) as "Raina/Reina," and [Ireena](../npcs/ireena-kolyana.md) as "Irena/Irina"; this page uses the bible's spellings. This builds on the [Session 11 prep](s11-vallaki.md) faction list and three-day table, which still stand except where noted.
+**[IDEA — NONCANONICAL] Everything on this page is GM ideation, not actual play.** Source: *Curse of [Strahd](../npcs/strahd-von-zarovich.md) session ideation — Church, guards, and secrets* (Chris and Michelle, 2026-10-27). The transcript renders [Milivoj](../npcs/milivoj.md) as "Milajov/Miljov," [Dobri](../npcs/milivoj.md#dobri) (short for Dobrijov, GM-confirmed 2026-10-27) as "Dopry/Dokree," [Rictavio](../npcs/von-richten.md) as "Rottavio/Rattavia," [Urwin](../npcs/the-martikov-family.md) Martikov as "Uriel," the Martikovs as "Mardikovs," [Lugdana](../npcs/lugdana.md) as "Longdonna," Blinsky as "Splinsky," [Reyna](../pcs/reyna.md) as "Raina/Reina," and [Ireena](../npcs/ireena-kolyana.md) as "Irena/Irina"; this page uses the bible's spellings. This builds on the [Session 11 prep](s11-vallaki.md) faction list and three-day table, which still stand except where noted.
 
 **Theme the GMs settled on:** set up [Vargas](../npcs/baron-vargas-volokovich.md) and his faction, and show the good in him; seed the other factions where there's room.
 
@@ -19,7 +19,7 @@ As the GMs described it, the party spent the night of [Session 11](../sessions/s
 ## Night one (what happened while the party slept)
 
   - **Werewolves attack the Barovian refugee camp** and take all the refugee children. [Izek](../npcs/izek-strazani.md) fights off the werewolves that attack the gates and leaves the refugees to die. (This adopts the [Session 11 prep](s11-vallaki.md) werewolf raid for the night the party went inside; it fits the lullaby on a grass whistle heard at the gate.)
-  - **[Dobry](../npcs/milivoj.md#dobry), the guard [Rictavio](../npcs/von-richten.md) killed, is [Milivoj](../npcs/milivoj.md)'s younger brother.** Rictavio hid the body: he has a wagon in the stockyard, chopped the body up and fed it to his saber-toothed tiger, which gnaws the bones. (Whether he sent [Gertruda](../npcs/gertruda-stiegler.md) to do it was left open.) Players who go back to the inn and investigate well can find blood or other signs.
+  - **[Dobri](../npcs/milivoj.md#dobri), the guard [Rictavio](../npcs/von-richten.md) killed, is [Milivoj](../npcs/milivoj.md)'s younger brother.** Rictavio hid the body: he has a wagon in the stockyard, chopped the body up and fed it to his saber-toothed tiger, which gnaws the bones. (Whether he sent [Gertruda](../npcs/gertruda-stiegler.md) to do it was left open.) Players who go back to the inn and investigate well can find blood or other signs.
   - **Milivoj steals St. Andral's bones** moments before [Lucien](../npcs/father-lucien-petrovich.md)'s sermon ends. That's why [Reyna](../pcs/reyna.md)'s Divine Sense briefly felt nothing at all during the sermon: something was already wrong.
   - **[Von Richten](../npcs/von-richten.md) and the [Martikovs](../npcs/the-martikov-family.md) form an uneasy alliance**, because he just protected their inn from the party. See [The Martikovs and Von Richten](#the-martikovs-and-von-richten).
   - **[Arabelle](../npcs/arabelle.md)** is hidden in a coffin at [Henrik](../npcs/henrik-van-der-voort.md)'s house (already canon) and quietly fed by him.
@@ -27,7 +27,7 @@ As the GMs described it, the party spent the night of [Session 11](../sessions/s
 ## Day one: what everyone is doing
 
   - **[Vargas](../npcs/baron-vargas-volokovich.md)** parades through town announcing the **Festival of the Blazing Sun**, three days off. The festival that just happened was the **Wolf's Head Jamboree**.
-  - **The guards and [Izek](../npcs/izek-strazani.md)** are looking for [Dobry](../npcs/milivoj.md#dobry).
+  - **The guards and [Izek](../npcs/izek-strazani.md)** are looking for [Dobri](../npcs/milivoj.md#dobri).
   - **[Milivoj](../npcs/milivoj.md)** is desperate; he suspects the Burgomaster took his brother.
   - **[Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova)** plans how to get the bones out of the city (she can't touch them herself) and sets traps in the coffin maker's house. Floated: a teleportation circle there to move the bones out, guarded by traps that are really just vampire spawn and zombies placed around the house. Not settled.
   - **[Lady Fiona Watcher](../npcs/lady-fiona-watcher.md)** is scheming to overthrow Vargas, perhaps under cover of a book-club meeting. She is **courting Ismark by offering aid to the Barovians** (see her entry).
@@ -51,7 +51,7 @@ As the GMs described it, the party spent the night of [Session 11](../sessions/s
 
   1. **Father Lucien** (certain). The party will probably ask about the chains and locks. He explains that [Strahd](../npcs/strahd-von-zarovich.md) steals Vallaki's children, perhaps something about lullabies carrying them away. He names Strahd directly ("the devil"), not "Strahd's minions." Talking points are in [his entry](../npcs/father-lucien-petrovich.md): his defense of [Vargas](../npcs/baron-vargas-volokovich.md), his version of [Stella](../npcs/stella-watcher.md), and his blame for the sickness.
   2. **The Blue Water Inn** (if the party goes back). [Rictavio](../npcs/von-richten.md) and [Gertruda](../npcs/gertruda-stiegler.md) aren't there; Rictavio is in hiding.
-  3. **Vargas's parade** (likely). Where Vallaki was dark the night before, the party now finds decorations everywhere, a marching band and a joyous parade. Vargas is never without [Izek](../npcs/izek-strazani.md), plus elite guards stronger than [Dobry](../npcs/milivoj.md#dobry). Inspired by a reference playthrough the GMs watched: a festive town of jittery locals, and a Burgomaster whose cheerful smile is off-putting. **Rejected:** Vargas bear-hugging the players ("he will get shanked").
+  3. **Vargas's parade** (likely). Where Vallaki was dark the night before, the party now finds decorations everywhere, a marching band and a joyous parade. Vargas is never without [Izek](../npcs/izek-strazani.md), plus elite guards stronger than [Dobri](../npcs/milivoj.md#dobri). Inspired by a reference playthrough the GMs watched: a festive town of jittery locals, and a Burgomaster whose cheerful smile is off-putting. **Rejected:** Vargas bear-hugging the players ("he will get shanked").
   4. **Vargas's house or the refugee camp** (either). [Ireena](../npcs/ireena-kolyana.md) wants to see the camp and wants an audience with Vargas; she's strong-willed enough to march to his house. She would **try to wash the dye out of her hair** before confronting him, which brings Izek's red-hair fixation into play. The party may not want to go to the camp on its own, but will if Ireena pushes. Vargas's mansion is near the centre of the map.
 
 **Also to write:** a scene for [Gaille](../pcs/gaille.md) and [Cassandra](../pcs/cassandra-priam.md) to talk.
@@ -61,14 +61,14 @@ As the GMs described it, the party spent the night of [Session 11](../sessions/s
   - The [Martikovs](../npcs/the-martikov-family.md), the crows above the inn among them, watched the whole fight. **Urwin** confronts [Rictavio](../npcs/von-richten.md): "You're no travelling circus leader. Who are you?"
   - Through the [Lugdana](../npcs/lugdana.md) history (her party joined the Indirovich line, vampire hunters and the Martikovs against [Strahd](../npcs/strahd-von-zarovich.md)), there's a fair chance the Martikovs already knew of Von Richten, and he'd have had to show his hand.
   - Terms: the Martikovs want information, above all **the whereabouts of the druids**, because they know of Lugdana's quest to reconnect with the Fanes, which runs through the druids. Von Richten wants a local ally to act as his front, the way he has used a Burgomaster before (the name is garbled in the transcript).
-  - Friction: the Martikovs prefer to stay unseen, and disapprove of his brutality in killing [Dobry](../npcs/milivoj.md#dobry).
+  - Friction: the Martikovs prefer to stay unseen, and disapprove of his brutality in killing [Dobri](../npcs/milivoj.md#dobri).
 
 ## Undecided
 
   - What exactly [Urwin](../npcs/the-martikov-family.md) gets from [Von Richten](../npcs/von-richten.md) beyond the druids lead.
   - [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova)'s method for moving the bones (teleportation circle or plain smuggling).
   - Whether the reconsecration-ceremony idea is used.
-  - Whether [Gertruda](../npcs/gertruda-stiegler.md) helped dispose of [Dobry](../npcs/milivoj.md#dobry)'s body.
+  - Whether [Gertruda](../npcs/gertruda-stiegler.md) helped dispose of [Dobri](../npcs/milivoj.md#dobri)'s body.
   - A garbled passage about Mary (Cassandra's player) letting [Cassandra](../pcs/cassandra-priam.md) be handcuffed to a pew while "the real [Ireena](../npcs/ireena-kolyana.md)" stays under an invisibility spell. Possibly Cassandra posing as Ireena; confirm with the GMs.
 
 <!-- backlinks:start -->

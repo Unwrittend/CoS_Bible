@@ -66,7 +66,7 @@ nav_order: 12
 
   
 
-**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On the night of Session 11, as Rictavio, he shot [Reyna](../pcs/reyna.md), defended the Blue Water Inn and killed a guard, [Dobry](milivoj.md#dobry), in front of the inn. He hid the body in his wagon in the stockyard and fed it to his saber-toothed tiger (whether [Gertruda](gertruda-stiegler.md) helped is open). Urwin Martikov confronts him ("you're no travelling circus leader"), and they strike an uneasy alliance: he wants a local front, the Martikovs want the druids' whereabouts, and they disapprove of his brutality. On day one he's in hiding with Gertruda, not at the inn. See [The Martikovs and Von Richten](../prep/s12-vallaki.md#the-martikovs-and-von-richten).
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On the night of Session 11, as Rictavio, he shot [Reyna](../pcs/reyna.md), defended the Blue Water Inn and killed a guard, [Dobri](milivoj.md#dobri), in front of the inn. He hid the body in his wagon in the stockyard and fed it to his saber-toothed tiger (whether [Gertruda](gertruda-stiegler.md) helped is open). Urwin Martikov confronts him ("you're no travelling circus leader"), and they strike an uneasy alliance: he wants a local front, the Martikovs want the druids' whereabouts, and they disapprove of his brutality. On day one he's in hiding with Gertruda, not at the inn. See [The Martikovs and Von Richten](../prep/s12-vallaki.md#the-martikovs-and-von-richten).
 
 <!-- backlinks:start -->
 

@@ -54,7 +54,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Mad Mary | Mary | [npcs/mad-mary.md](npcs/mad-mary.md) | canon | 1 |
 | Madam Eva | Eva | [npcs/madam-eva.md](npcs/madam-eva.md) | mixed |  |
 | Magda | Megna | [npcs/magda.md](npcs/magda.md) | canon | 11 |
-| Milivoj | Dobry | [npcs/milivoj.md](npcs/milivoj.md) | idea |  |
+| Milivoj | Dobri, Dobrijov | [npcs/milivoj.md](npcs/milivoj.md) | idea |  |
 | Morgantha |  | [npcs/morgantha.md](npcs/morgantha.md) | mixed | 11 |
 | Ninthalor |  | [npcs/ninthalor.md](npcs/ninthalor.md) | canon |  |
 | Petrina Velikanova |  | [npcs/petrina-velikanova.md](npcs/petrina-velikanova.md) | canon |  |

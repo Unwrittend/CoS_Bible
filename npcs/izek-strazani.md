@@ -39,7 +39,7 @@ nav_order: 26
 
 **[Session 11](../sessions/s11.md) (canonical, unconfirmed link):** a Vallaki gate guard said he couldn't open the gate because "Strassney" wouldn't let him — possibly Izek's surname, Strazani. Moments after the party slipped in, they heard shouting at the guards, a scream and fire at the gate, then a lullaby on a grass whistle.
 
-**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On night one, when werewolves attacked the refugee camp, Izek fought off the ones at the gates and left the refugees to die; the camp's children were all taken. On day one he and the guards search for the missing guard [Dobry](milivoj.md#dobry), and he never leaves [Vargas](baron-vargas-volokovich.md)'s side during the parade. If [Ireena](ireena-kolyana.md) washes the dye out before confronting Vargas, his red-hair fixation comes into play.
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On night one, when werewolves attacked the refugee camp, Izek fought off the ones at the gates and left the refugees to die; the camp's children were all taken. On day one he and the guards search for the missing guard [Dobri](milivoj.md#dobri), and he never leaves [Vargas](baron-vargas-volokovich.md)'s side during the parade. If [Ireena](ireena-kolyana.md) washes the dye out before confronting Vargas, his red-hair fixation comes into play.
 
 <!-- backlinks:start -->
 
