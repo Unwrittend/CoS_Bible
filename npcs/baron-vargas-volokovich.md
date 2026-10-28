@@ -29,6 +29,8 @@ nav_order: 31
 
   
 
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** The theme of Session 12 is setting up Vargas and his faction and **showing the good in him**. Per [Father Lucien](father-lucien-petrovich.md), he is single-mindedly devoted to Vallakians and won't take a single risk that could harm them, which is why the Barovians are shut out. He needs Lucien's support, believing festivals alone can't protect the town. On day one he parades through Vallaki announcing the Festival of the Blazing Sun (three days off): decorations everywhere, a marching band, an unsettlingly cheerful smile. He never goes anywhere without [Izek](izek-strazani.md) and elite guards. Rejected: having him bear-hug the players.
+
 <!-- backlinks:start -->
 
 ---
@@ -37,14 +39,19 @@ nav_order: 31
 
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Father Lucien Petrovich](father-lucien-petrovich.md)
+- [Ireena Kolyana](ireena-kolyana.md)
 - [Isaac "Izek" Strazani](izek-strazani.md)
 - [Kasimir Velikov](kasimir-velikov.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
 - [Luvash](luvash.md)
+- [Milivoj](milivoj.md)
 - [Morgantha](morgantha.md)
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
+- [Current state](../current-state.md)
 
 <!-- backlinks:end -->

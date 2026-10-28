@@ -33,6 +33,8 @@ nav_order: 33
 
   
 
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On day one she isn't selling; she's baking dream pies. [Milivoj](milivoj.md)'s parents are addicted to her dream pastries, and some of his siblings were sold to make them.
+
 <!-- backlinks:start -->
 
 ---
@@ -49,11 +51,14 @@ nav_order: 33
 - [Baron Vargas Volokovich](baron-vargas-volokovich.md)
 - [Elaine Groze](elaine-groze.md)
 - [Isaac "Izek" Strazani](izek-strazani.md)
+- [Milivoj](milivoj.md)
 - [Stella Watcher](stella-watcher.md)
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
+- [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 

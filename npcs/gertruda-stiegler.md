@@ -79,6 +79,7 @@ nav_order: 4
 - [Von Richten](von-richten.md)
 - [Key Items](../items.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)

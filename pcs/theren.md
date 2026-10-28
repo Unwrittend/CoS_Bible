@@ -61,6 +61,7 @@ nav_order: 4
 - [Violet Larkwing](../npcs/violet-larkwing.md)
 - [Key Items](../items.md)
 - [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 

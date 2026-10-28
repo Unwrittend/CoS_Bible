@@ -31,8 +31,10 @@ nav_order: 43
 
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Reyna](../pcs/reyna.md)
+- [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Ireena Kolyana](ireena-kolyana.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)

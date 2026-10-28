@@ -41,6 +41,7 @@ nav_order: 24
 **Mentioned in:**
 
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
+- [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Isaac "Izek" Strazani](izek-strazani.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
 - [Stella Watcher](stella-watcher.md)

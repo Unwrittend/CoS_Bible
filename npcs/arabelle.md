@@ -30,6 +30,7 @@ nav_order: 38
 - [Luvash](luvash.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)

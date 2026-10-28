@@ -102,6 +102,7 @@ Quirks:
 - [Key Items](../items.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Strahd's motivations & the power struggle](../lore/strahd-motivations.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 

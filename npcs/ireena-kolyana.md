@@ -56,6 +56,8 @@ nav_order: 26.5
   - 10 - Explains the Durst mill bakery; identifies Stella Watcher as the diary's author; stays with Gaille through Kasimir's attention.
   - 11 - Insists on staying with her people at the refugee camp; recognized by Magda and Emeric; chooses the two of them for [Reyna](../pcs/reyna.md)'s healing; goes into Vallaki with the party.
 
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On day one she wants to see the refugee camp and wants an audience with [Vargas](baron-vargas-volokovich.md); she may simply march to his house. She would **try to wash the dye out of her hair** before confronting him, which brings [Izek](izek-strazani.md)'s red-hair fixation into play.
+
 <!-- backlinks:start -->
 
 ---
@@ -76,6 +78,7 @@ nav_order: 26.5
 - [Argonvost](argonvost.md)
 - [Emeric](emeric.md)
 - [Isaac "Izek" Strazani](izek-strazani.md)
+- [Lady Fiona Watcher](lady-fiona-watcher.md)
 - [Magda](magda.md)
 - [Morgantha](morgantha.md)
 - [Saint Markovia](saint-markovia.md)
@@ -91,6 +94,7 @@ nav_order: 26.5
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)

@@ -54,6 +54,8 @@ nav_order: 39
 
 **Current narrative status:** [IDEA — NONCANONICAL] Not yet introduced to the party.
 
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** Anastrasya was present to see [Reyna](../pcs/reyna.md)'s attack at the Blue Water Inn. After [Milivoj](milivoj.md) steals the bones on night one, she plans how to get them out of the city (she can't touch them herself) and sets traps in [Henrik](henrik-van-der-voort.md)'s house: vampire spawn and zombies, and possibly a teleportation circle for the bones. The hallowing fades with distance; she needs a day or two. Day 2 the bones leave the church, day 3 they're gone and Strahd attacks during the Festival.
+
 #### Volenta Popofsky
 
 **Source characterization:** Homebrew, adapted from the fan guide above.
@@ -82,6 +84,7 @@ nav_order: 39
 - [Baba Lysaga](baba-lysaga.md)
 - [Elaine Groze](elaine-groze.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
+- [Henrik van der Voort](henrik-van-der-voort.md)
 - [Ireena Kolyana](ireena-kolyana.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
 - [Rahadin](rahadin.md)
@@ -89,6 +92,7 @@ nav_order: 39
 - [The Woodcutter's Bride (Ludmilla)](woodcutters-bride.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)

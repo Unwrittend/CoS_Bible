@@ -53,6 +53,7 @@ nav_order: 28
 - [Key Items](../items.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
 
 <!-- backlinks:end -->

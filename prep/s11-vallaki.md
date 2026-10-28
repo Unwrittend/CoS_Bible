@@ -3,12 +3,14 @@ title: "Session 11 prep — Vallaki"
 type: "prep"
 status: "mixed"
 parent: "Prep"
-nav_order: 1
+nav_order: 2
 ---
 
 # Session 11 prep — Vallaki factions, the three-day timeline & the night outside the walls
 
 **[IDEA — NONCANONICAL] Everything in this section is GM ideation, not actual play.** Sources: *Velocki Factions Timeline: Major and Minor Groups Revealed* (2026-09-27); *Major Factions and Suspected Events in the World* (2026-09-27); *Feast of St. Angels, Zombie Attack, and Bones Theft* (2026-09-27); *Sneaking into Valocky and [Vargas](../npcs/baron-vargas-volokovich.md)'s Mansion Mystery* (2026-10-08). The transcripts render St. Andral as "St. Angels" and [Lucien](../npcs/father-lucien-petrovich.md) as "Lucian"; this section uses the bible's spellings. The GMs plan to build their own day-by-day timeline next, rather than lean on Dragnacarta.
+
+**Next:** day-one planning for Session 12 is in [Session 12 prep](s12-vallaki.md) (2026-10-27).
 
 **Played in [Session 11](../sessions/s11.md) (canonical):** the party didn't rest at the Vistani camp. They went with [Ireena](../npcs/ireena-kolyana.md) to the refugee camp, uncovered the parasites, then bribed and intimidated their way through the gate into Vallaki at night (a full moon). The werewolf raid, [Izek](../npcs/izek-strazani.md)'s patrol and [Ernst](../npcs/ernest-larnack.md)'s shadowing didn't come up in play; whether any of them still happens tonight is up to the GMs.
 
@@ -21,7 +23,7 @@ Only actors with **their own motives** are listed; agents who simply serve someo
   - ★ **[Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova)** and ★ **[Ludmilla](../npcs/strahds-brides.md#ludmilla-vilisevic)** — separate factions despite both being [Strahd's brides](../npcs/strahds-brides.md).
   - ★ **[Strahd](../npcs/strahd-von-zarovich.md)**, with **[Eliza](../npcs/eliza.md)** acting as his spy.
   - ★ **[Ireena](../npcs/ireena-kolyana.md)**.
-  - **St. Andral's Church** — [Father Lucien](../npcs/father-lucien-petrovich.md) (Yeska follows him); gravedigger **Milivoj** (bone thief); coffin maker **[Henrik van der Voort](../npcs/henrik-van-der-voort.md)** (receives the bones). **Canon update (GM-confirmed 2026-10-14):** Henrik is hosting a vampire spawn nest at his house, and holds [Arabelle](../npcs/arabelle.md) captive there — see 16.2.
+  - **St. Andral's Church** — [Father Lucien](../npcs/father-lucien-petrovich.md) (Yeska follows him); gravedigger **[Milivoj](../npcs/milivoj.md)** (bone thief); coffin maker **[Henrik van der Voort](../npcs/henrik-van-der-voort.md)** (receives the bones). **Canon update (GM-confirmed 2026-10-14):** Henrik is hosting a vampire spawn nest at his house, and holds [Arabelle](../npcs/arabelle.md) captive there — see 16.2.
   - **[Martikovs](../npcs/the-martikov-family.md)** — Urwin (with Danika); Davian (separate motive).
   - **Vistani of Vallaki** — [Luvash](../npcs/luvash.md), [Arrigal](../npcs/arrigal.md), [Arabelle](../npcs/arabelle.md).
   - **Dusk elves** — [Kasimir](../npcs/kasimir-velikov.md).
@@ -38,7 +40,7 @@ Only actors with **their own motives** are listed; agents who simply serve someo
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
 | **Event** | **Factions** | **Condition** | **When** |
-| Theft of St. Andral's bones | [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) / Milivoj → [Henrik](../npcs/henrik-van-der-voort.md) | — (inciting event) | The night the party arrives, if they rest (16.4) |
+| Theft of St. Andral's bones | [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) / [Milivoj](../npcs/milivoj.md) → [Henrik](../npcs/henrik-van-der-voort.md) | — (inciting event) | The night the party arrives, if they rest (16.4) |
 | **Feast of St. Andral** — [Strahd](../npcs/strahd-von-zarovich.md)'s forces attack Vallaki | Anastrasya, Strahd | Bones not returned to the church, **or** the vampire spawn in the coffin maker's shop not destroyed (RAW frames it as the party staying 3+ days without retrieving the bones) | TBD; may coincide with the Festival |
 | **Festival of the Blazing Sun** | [Vargas](../npcs/baron-vargas-volokovich.md) | Vargas is still in control | Day 3 |
 | **Watcher rebellion** | [Fiona](../npcs/lady-fiona-watcher.md) | Happens unless Fiona is dissuaded or becomes Burgomistress first | Comes to a head at the Festival, or sooner with the players' support |
@@ -103,9 +105,11 @@ The party chooses to **rest** at the Vistani camp or **infiltrate** Vallaki toni
 - [Ireena Kolyana](../npcs/ireena-kolyana.md)
 - [Isaac "Izek" Strazani](../npcs/izek-strazani.md)
 - [Lady Fiona Watcher](../npcs/lady-fiona-watcher.md)
+- [Milivoj](../npcs/milivoj.md)
 - [Strahd's Brides](../npcs/strahds-brides.md)
 - [The Martikov Family](../npcs/the-martikov-family.md)
 - [Von Richten](../npcs/von-richten.md)
+- [Session 12 prep — Vallaki, day one](s12-vallaki.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 

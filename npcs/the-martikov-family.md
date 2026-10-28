@@ -38,6 +38,8 @@ nav_order: 30
 
   
 
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** The Martikovs (with crows calling overhead) watched Rictavio defend the Blue Water Inn from the party and kill a guard. **Urwin** confronts him that night, and they form an uneasy alliance. Through [Lugdana](lugdana.md)'s history (her party allied the Indirovich line, vampire hunters and the Martikovs against Strahd) they may already have known of [Von Richten](von-richten.md). They want **the whereabouts of the druids**, since they know of Lugdana's quest to reconnect with the Fanes. They prefer to stay unseen and disapprove of his killing [Dobry](milivoj.md#dobry).
+
 <!-- backlinks:start -->
 
 ---
@@ -54,7 +56,9 @@ nav_order: 30
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
+- [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 
 <!-- backlinks:end -->

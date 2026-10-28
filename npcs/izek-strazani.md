@@ -39,6 +39,8 @@ nav_order: 26
 
 **[Session 11](../sessions/s11.md) (canonical, unconfirmed link):** a Vallaki gate guard said he couldn't open the gate because "Strassney" wouldn't let him — possibly Izek's surname, Strazani. Moments after the party slipped in, they heard shouting at the guards, a scream and fire at the gate, then a lullaby on a grass whistle.
 
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On night one, when werewolves attacked the refugee camp, Izek fought off the ones at the gates and left the refugees to die; the camp's children were all taken. On day one he and the guards search for the missing guard [Dobry](milivoj.md#dobry), and he never leaves [Vargas](baron-vargas-volokovich.md)'s side during the parade. If [Ireena](ireena-kolyana.md) washes the dye out before confronting Vargas, his red-hair fixation comes into play.
+
 <!-- backlinks:start -->
 
 ---
@@ -51,6 +53,7 @@ nav_order: 26
 - [Ernest Larnack](ernest-larnack.md)
 - [Ireena Kolyana](ireena-kolyana.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
+- [Milivoj](milivoj.md)
 - [Morgantha](morgantha.md)
 - [Strahd's Brides](strahds-brides.md)
 - [Cosmology: Fanes, Strahd's deaths & the Silver Dragon](../lore/cosmology.md)
@@ -58,6 +61,7 @@ nav_order: 26
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)

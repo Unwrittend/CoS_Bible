@@ -47,6 +47,7 @@ nav_order: 5
 - [Stella Watcher](../npcs/stella-watcher.md)
 - [Void Child - Khirad, the Star of Secrets](../npcs/khirad.md)
 - [Key Items](../items.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Session 9 prep (superseded)](../archive/s09-prep.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)

@@ -36,6 +36,8 @@ nav_order: 22
 
   
 
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** Her spy saw [Reyna](../pcs/reyna.md)'s attack at the Blue Water Inn. On day one she schemes to overthrow Vargas, perhaps under cover of a book-club meeting. Her play: she probably has a **sending stone to Ismark** ([Ireena](ireena-kolyana.md)'s brother), and is **courting Ismark's support as the next Burgomaster by offering aid to the Barovians** Vargas has mistreated. Michelle's objection, recorded: arming the malnourished refugees for an insurrection makes little sense (they couldn't take Vargas, and it would be traced back to her), so the aid is the bargaining chip rather than an uprising.
+
 <!-- backlinks:start -->
 
 ---
@@ -43,11 +45,13 @@ nav_order: 22
 **Mentioned in:**
 
 - [Ernest Larnack](ernest-larnack.md)
+- [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Stella Watcher](stella-watcher.md)
 - [The Tome of Strahd questline](../lore/tome-of-strahd.md)
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
 - [Open questions](../open-questions.md)
 

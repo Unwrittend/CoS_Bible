@@ -52,6 +52,7 @@ nav_order: 20
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Cassandra Priam](../pcs/cassandra-priam.md)
 - [Gaille](../pcs/gaille.md)
+- [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Ireena Kolyana](ireena-kolyana.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
 - [Morgantha](morgantha.md)

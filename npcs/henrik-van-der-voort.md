@@ -17,10 +17,12 @@ nav_order: 41
 **Key characterization principles:**
 
   - **GM-confirmed canon (2026-10-14):** Henrik is **hosting a vampire spawn nest** at his house. When [Arabelle](arabelle.md)'s clairvoyance led her there on her 7th birthday, he **kidnapped her** so she couldn't tell anyone. He **doesn't want her to die**, so he is hiding her in the house and hoping the spawn don't notice her.
-  - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Section 16](../prep/s11-vallaki.md)):** per RAW, the church gravedigger **Milivoj** steals St. Andral's bones and hands them to Henrik. The vampire spawn in his shop are one condition for the Feast of St. Andral attack.
+  - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Section 16](../prep/s11-vallaki.md)):** per RAW, the church gravedigger **[Milivoj](milivoj.md)** steals St. Andral's bones and hands them to Henrik. The vampire spawn in his shop are one condition for the Feast of St. Andral attack.
   - Still open ([Section 14](../open-questions.md)): why he hosts the spawn, who they answer to, and what would make them notice Arabelle.
 
 **Current narrative status:** Not yet encountered in play; his name hasn't been spoken at the table.
+
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On night one [Milivoj](milivoj.md) steals St. Andral's bones for him. On day one he quietly feeds [Arabelle](arabelle.md), hidden in a coffin in his house, while [Anastrasya](strahds-brides.md#anastrasya-karelova) sets traps there (vampire spawn and zombies; possibly a teleportation circle to move the bones out).
 
 <!-- backlinks:start -->
 
@@ -29,7 +31,10 @@ nav_order: 41
 **Mentioned in:**
 
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
+- [Milivoj](milivoj.md)
+- [Strahd's Brides](strahds-brides.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)

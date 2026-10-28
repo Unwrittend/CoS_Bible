@@ -83,6 +83,7 @@ Why say three words when one will do.
 - [Morgantha](../npcs/morgantha.md)
 - [Key Items](../items.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 

@@ -15,6 +15,7 @@ nav_order: 2
 - **Location:** inside Vallaki's walls, at night under a full moon, after curfew. They got through the gate by bribing (10 gp) and intimidating the guards, who sent them to the **Blue Water Inn**.
 - **Party:** [Reyna](pcs/reyna.md), [Lyasra](pcs/lyasra.md), [Cassandra](pcs/cassandra-priam.md), [Theren](pcs/theren.md), [Gaille](pcs/gaille.md), with [Ireena](npcs/ireena-kolyana.md) and three Barovian refugees: [Emeric](npcs/emeric.md), [Magda](npcs/magda.md) and the child [Gen](npcs/gen.md). Lycius is still asleep from the pie. Whether [Kasimir](npcs/kasimir-velikov.md) came in with them wasn't stated.
 - **Rest:** still no long rest. Reyna plans to gather information overnight in commoner clothes; other night activities go through Discord.
+- **Since then (Discord night RP, not yet logged; as the GMs described it on 2026-10-27):** [Reyna](pcs/reyna.md) assaulted a guard; [Rictavio](npcs/von-richten.md) shot her and killed a guard outside the Blue Water Inn; the party sought refuge at **St. Andral's Church** in front of the congregation and spent the night there.
 - **In-world day:** still the night of [Arabelle](npcs/arabelle.md)'s 7th birthday.
 
 ## Top open threads (canon)
@@ -34,6 +35,8 @@ nav_order: 2
 - [Eliza](npcs/eliza.md) is [Strahd](npcs/strahd-von-zarovich.md)'s spy and went to Castle Ravenloft.
 - [Ludmilla Vilisevic](npcs/strahds-brides.md#ludmilla-vilisevic) survived [Session 9](sessions/s09.md): a portal pulled her back to the castle. The party believes she is dead.
 - The [Session 11](sessions/s11.md) night plans that didn't come up in play (Kiril's werewolf raid on the refugee children, [Izek](npcs/izek-strazani.md)'s patrol, [Ernst](npcs/ernest-larnack.md)'s shadowing) remain **[IDEA — NONCANONICAL]**. See [prep/s11-vallaki](prep/s11-vallaki.md).
+
+- **Session 12 plan** ([prep](prep/s12-vallaki.md), [IDEA — NONCANONICAL]): overnight, werewolves took the refugee children while [Izek](npcs/izek-strazani.md) held the gate; the dead guard is [Milivoj](npcs/milivoj.md)'s brother [Dobry](npcs/milivoj.md#dobry); Milivoj stole St. Andral's bones; Von Richten and the [Martikovs](npcs/the-martikov-family.md) allied. Day one centres on [Father Lucien](npcs/father-lucien-petrovich.md) and [Vargas](npcs/baron-vargas-volokovich.md)'s festival parade. The bones leave on day 2 and are gone on day 3, when Strahd attacks the Festival.
 
 ## Where to look next
 

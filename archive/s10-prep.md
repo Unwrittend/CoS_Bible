@@ -119,7 +119,7 @@ The major players named: the **Volokoviches**, the **Watcher House**, the **[Mar
           - The two sons have none of their mother's ambition or temper. They spend her money, drinking and partying to escape the loss of their sister, and think their mother has gone a little mad.
           - The family was once tight-knit; loss has broken it.
           - Stella went mad after her marriage into the Volokovich family.
-  - **Father Lucien Petrovich (St. Andral's)** and his altar boy **Yeska** (the grave-digger is Milivoj, not present) work among the refugees, trying to heal the sick with holy power. Lucien doesn't know what the malady is, but sees people dying in droves.
+  - **Father Lucien Petrovich (St. Andral's)** and his altar boy **Yeska** (the grave-digger is [Milivoj](../npcs/milivoj.md), not present) work among the refugees, trying to heal the sick with holy power. Lucien doesn't know what the malady is, but sees people dying in droves.
   - **Dusk Elves:** a small group of male Dusk Elves, with **Kasimir** as the important one. "Help from the Dusk Elves" was pencilled in as a possible way into Vallaki, pending the Vistani camp work.
 
 ## Planned Encounters for the Next Session

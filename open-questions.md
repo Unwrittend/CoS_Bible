@@ -74,13 +74,14 @@ nav_order: 4
 
 **[Session 11](sessions/s11.md) prep (added 2026-10-09):**
 
-  - Who actually steals St. Andral's bones (Milivoj, per RAW) and for whom? How does that fit [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)'s heist (15.5) and Henrik van der Voort's role? ~~Are vampire spawn hidden in the coffin shop, as in RAW?~~ **Yes — GM-confirmed 2026-10-14:** the coffin maker's house holds a vampire spawn nest (and [Arabelle](npcs/arabelle.md)).
-  - What day does the Feast of St. Andral fall on, and does it coincide with the Festival (day 3)? What day does Von Richten's zombie swarm hit?
+  - Who actually steals St. Andral's bones ([Milivoj](npcs/milivoj.md), per RAW) and for whom? How does that fit [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)'s heist (15.5) and Henrik van der Voort's role? ~~Are vampire spawn hidden in the coffin shop, as in RAW?~~ **Yes — GM-confirmed 2026-10-14:** the coffin maker's house holds a vampire spawn nest (and [Arabelle](npcs/arabelle.md)). *(2026-10-27 ideation: Milivoj steals them on night one, out of money-driven desperation, for Henrik and [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova); see [Session 12 prep](prep/s12-vallaki.md).)*
+  - What day does the Feast of St. Andral fall on, and does it coincide with the Festival (day 3)? *(2026-10-27 ideation: yes; the bones are fully gone on day 3 and Strahd attacks during the Festival.)* What day does Von Richten's zombie swarm hit?
   - Which cleric ([Lyasra](pcs/lyasra.md) or Theren) does Fiona hail as her savior, if any?
   - What happened to Stella, and how did her diary end up with [Morgantha](npcs/morgantha.md)? (The latter is lower priority.)
   - When does Rahadin's dive happen?
   - What are the day-by-day visible signs of the poisoning? What are the stages of the poison, as distinct from the parasite sickness (floated: rashes progressing to jaundice)?
   - The werewolf raid: does Kiril come himself or send a lieutenant? Is Emil rescuable from Castle Ravenloft? Is there an OC sympathetic to Emil?
+  - **(Added 2026-10-27, [Session 12 prep](prep/s12-vallaki.md))** How does Anastrasya move the bones out (teleportation circle or smuggling)? Is the RAW reconsecration ceremony used? Did Gertruda help hide [Dobry](npcs/milivoj.md#dobry)'s body? What does Urwin get from Von Richten beyond the druids lead? When does Eliza enter Vallaki? And what was the "[Mary](npcs/mad-mary.md) handcuffed to the pew" moment from the Discord night RP?
   - What is [Dismas](npcs/dismas.md) doing? (Speculated: at the Watcher house.) Where do Blinsky and [Arturi](npcs/arturi.md) fit?
 
 **From Session 11 (added 2026-10-14):**

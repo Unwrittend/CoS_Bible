@@ -46,6 +46,7 @@ nav_order: 23
 - [Gaille](../pcs/gaille.md)
 - [Reyna](../pcs/reyna.md)
 - [Elaine Groze](elaine-groze.md)
+- [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Ireena Kolyana](ireena-kolyana.md)
 - [Lady Fiona Watcher](lady-fiona-watcher.md)
 - [Morgantha](morgantha.md)
@@ -54,6 +55,7 @@ nav_order: 23
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Current state](../current-state.md)
 - [Open questions](../open-questions.md)
 
