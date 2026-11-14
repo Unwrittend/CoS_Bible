@@ -82,7 +82,7 @@ Quirks:
 4.  10.0 - Lycius ate one of [Morgantha](../npcs/morgantha.md)'s cheese pies, became blissfully sedated and fell asleep (failed CON save). Drew two Tarokka cards: **the Executioner** (upright) on first sighting Lake Zarovich, and **the Ten of Stars (Wizard)** about [Gaille](gaille.md) and [Kasimir](../npcs/kasimir-velikov.md). New mechanic introduced: after each reading she rolls a d100 against a GM-set DC, and Chris tells her privately whether the reading *feels* accurate (it may still be accurate either way).
 5.  11.0 - Lycius is still asleep from the pie, lying on her head. Offered a Tarokka reading on the sickness's cause (not drawn). Pressed [Emeric](../npcs/emeric.md) on whether the pies were what made the refugees sick.
 6.  11.5 - In the stockyard, with [Ireena](../npcs/ireena-kolyana.md)'s permission, used her Tarokka cards to disguise herself as Ireena (the Charlatan) and make the real Ireena invisible (a veiled woman). Followed to St. Andral's wearing Ireena's face and scolded [Reyna](reyna.md) for her "greenhorn behavior." Refused to let Reyna handcuff her (as "Ireena") to a pew; stays in the middle of the group instead.
-7.  12.0 - Her familiar Lycius is now addicted to [Morgantha](../npcs/morgantha.md)'s dream pies.
+7.  12.0 - Cast a divination to find the taken refugee children: taking on an aspect of a raven, she saw them marching towards a den overlooking a mountain lake. Her familiar Lycius is now addicted to [Morgantha](../npcs/morgantha.md)'s dream pies.
 
 <!-- backlinks:start -->
 

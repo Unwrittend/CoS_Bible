@@ -19,7 +19,7 @@ nav_order: 2
 ## Top open threads (canon)
 
 - **St. Andral's bones were stolen.** [Yeska](npcs/yeska.md) spoke a prayer aloud that revealed where they were; [Milivoj](npcs/milivoj.md) overheard and took them. The party met and bribed Milivoj, who said **the coffin maker** hired him. They don't know the coffin maker's name. This is the likely cause of the flicker in the hallowing that [Reyna](pcs/reyna.md) sensed in [Session 11.5](sessions/s11-5.md).
-- **The Barovian refugee children were taken.** A divination showed them marching **towards a den overlooking a mountain lake**. The party doesn't know who took them.
+- **The Barovian refugee children were taken.** [Cassandra](pcs/cassandra-priam.md)'s divination showed them marching **towards a den overlooking a mountain lake**. The party doesn't know who took them.
 - **[Arabelle](npcs/arabelle.md) is still missing**; the party doesn't know where she is. [Theren](pcs/theren.md) carries [Madam Eva](npcs/madam-eva.md)'s letter, and they owe her a doll.
 - **Reyna's night of crimes:** she assaulted a guard of the watch and broke into the Blue Water Inn before seeking refuge in front of the whole congregation.
 - **The refugees are infested with parasitic worms.** [Morgantha](npcs/morgantha.md)'s pies are suspect, but [Emeric](npcs/emeric.md) is infected without eating one, and the camp drinks from Lake Zarovich.
