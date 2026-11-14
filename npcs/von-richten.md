@@ -4,7 +4,7 @@ name: "Von Richten (Rudolph van Richten)"
 aliases: ["Rudolph van Richten", "Rictavio", "Alenik", "Alanik", "Van Richten"]
 type: "npc"
 status: "mixed"
-last-session: 4
+last-session: 12
 parent: "NPCs"
 nav_order: 12
 ---
@@ -68,6 +68,8 @@ nav_order: 12
 
 **[Session 11.5](../sessions/s11-5.md) (canonical):** As a clown (unnamed to the party; GM-only: Rictavio), he defended the Blue Water Inn when [Reyna](../pcs/reyna.md) broke down its door: two hand crossbows, acrobatics, and a bolt through her visor that took one of her eyes. He let [Lyasra](../pcs/lyasra.md) heal her and leave ("I'd hate to bill the house for a funeral").
 
+**Canonical (GM-confirmed 2026-11-14, GM-only):** he killed [Dobri](milivoj.md#dobri), the guard Reyna knocked out outside the Blue Water Inn. The method is deliberately left open; the disposal details in the next paragraph remain ideation.
+
 **[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** After the party left the Blue Water Inn, he killed the guard Reyna had knocked out outside it, [Dobri](milivoj.md#dobri). He hid the body in his wagon in the stockyard and fed it to his saber-toothed tiger (whether [Gertruda](gertruda-stiegler.md) helped is open). Urwin Martikov confronts him ("you're no travelling circus leader"), and they strike an uneasy alliance: he wants a local front, the Martikovs want the druids' whereabouts, and they disapprove of his brutality. On day one he's in hiding with Gertruda, not at the inn. See [The Martikovs and Von Richten](../prep/s12-vallaki.md#the-martikovs-and-von-richten).
 
 <!-- backlinks:start -->
@@ -81,6 +83,7 @@ nav_order: 12
 - [Session 5 - Meeting Ireena](../sessions/s05.md)
 - [Session 6 - Wailing Tree](../sessions/s06.md)
 - [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
+- [Session 12 - The Stolen Bones](../sessions/s12.md)
 - [Arturi](arturi.md)
 - [Dismas](dismas.md)
 - [Esmeralda D'Avenir](esmeralda-davenir.md)

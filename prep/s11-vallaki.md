@@ -10,7 +10,7 @@ nav_order: 2
 
 **[IDEA — NONCANONICAL] Everything in this section is GM ideation, not actual play.** Sources: *Velocki Factions Timeline: Major and Minor Groups Revealed* (2026-09-27); *Major Factions and Suspected Events in the World* (2026-09-27); *Feast of St. Angels, Zombie Attack, and Bones Theft* (2026-09-27); *Sneaking into Valocky and [Vargas](../npcs/baron-vargas-volokovich.md)'s Mansion Mystery* (2026-10-08). The transcripts render St. Andral as "St. Angels" and [Lucien](../npcs/father-lucien-petrovich.md) as "Lucian"; this section uses the bible's spellings. The GMs plan to build their own day-by-day timeline next, rather than lean on Dragnacarta.
 
-**Next:** day-one planning for Session 12 is in [Session 12 prep](s12-vallaki.md) (2026-10-27).
+**Next:** day-one planning for [Session 12](../sessions/s12.md) is in [Session 12 prep](s12-vallaki.md) (2026-10-27).
 
 **Played in [Session 11](../sessions/s11.md) (canonical):** the party didn't rest at the Vistani camp. They went with [Ireena](../npcs/ireena-kolyana.md) to the refugee camp, uncovered the parasites, then bribed and intimidated their way through the gate into Vallaki at night (a full moon). The werewolf raid, [Izek](../npcs/izek-strazani.md)'s patrol and [Ernst](../npcs/ernest-larnack.md)'s shadowing didn't come up in play; whether any of them still happens tonight is up to the GMs.
 
@@ -112,6 +112,5 @@ The party chooses to **rest** at the Vistani camp or **infiltrate** Vallaki toni
 - [Yeska](../npcs/yeska.md)
 - [Session 12 prep — Vallaki, day one](s12-vallaki.md)
 - [Changelog](../changelog.md)
-- [Current state](../current-state.md)
 
 <!-- backlinks:end -->

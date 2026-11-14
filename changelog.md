@@ -8,6 +8,8 @@ nav_order: 5
 
 Dated one-liners of canon changes and bible restructures, newest first.
 
+- 2026-11-14: Logged [Session 12](sessions/s12.md) - The Stolen Bones (unrecorded; from Chris's summary). Canon from play: [Milivoj](npcs/milivoj.md) stole St. Andral's bones after overhearing [Yeska](npcs/yeska.md)'s prayer, hired by the coffin maker; the refugee children were taken to the werewolf den; Lycius is addicted to the dream pies. Milivoj's file is now `mixed`; prep and open questions updated.
+- 2026-11-14: GM-confirmed (GM-only): [Dobri](npcs/milivoj.md#dobri) is dead, killed by [Von Richten](npcs/von-richten.md). The method is deliberately left open; the tiger/wagon disposal stays [IDEA — NONCANONICAL].
 - 2026-10-27: Completed the [Session 11.5](sessions/s11-5.md) log from the full Discord thread ([Reyna](pcs/reyna.md) loses an eye to the clown; refuge at St. Andral's). Corrected the Session 12 prep: in play the guard was knocked out, not killed in front of the inn. New NPC stub [Yeska](npcs/yeska.md).
 - 2026-10-27: GM-confirmed: [Milivoj](npcs/milivoj.md)'s brother is **[Dobri](npcs/milivoj.md#dobri)**, short for **Dobrijov** (earlier guessed as "Dobry" from the transcript). Renamed throughout.
 - 2026-10-27: Logged the first part of [Session 11.5](sessions/s11-5.md) - Welcome to Vallaki (Discord RP, through the search for the inn). Recorded players Andreia ([Lyasra](pcs/lyasra.md)) and Mary ([Cassandra](pcs/cassandra-priam.md)). Bare "Mary" no longer auto-links to [Mad Mary](npcs/mad-mary.md).

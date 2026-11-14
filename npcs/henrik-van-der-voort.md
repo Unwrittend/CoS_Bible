@@ -4,6 +4,7 @@ name: "Henrik van der Voort"
 aliases: ["Henrik", "the coffin maker"]
 type: "npc"
 status: "mixed"
+last-session: 12
 parent: "NPCs"
 nav_order: 41
 ---
@@ -20,7 +21,7 @@ nav_order: 41
   - **[IDEA — NONCANONICAL] 2026-09-27 / 10-08 ideation ([Section 16](../prep/s11-vallaki.md)):** per RAW, the church gravedigger **[Milivoj](milivoj.md)** steals St. Andral's bones and hands them to Henrik. The vampire spawn in his shop are one condition for the Feast of St. Andral attack.
   - Still open ([Section 14](../open-questions.md)): why he hosts the spawn, who they answer to, and what would make them notice Arabelle.
 
-**Current narrative status:** Not yet encountered in play; his name hasn't been spoken at the table.
+**Current narrative status:** Not yet encountered in play, and his name still hasn't been spoken at the table. **[Session 12](../sessions/s12.md) (canonical):** the party learned from [Milivoj](milivoj.md) that "the coffin maker" hired him to steal St. Andral's bones (confirming that part of the ideation below).
 
 **[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On night one [Milivoj](milivoj.md) steals St. Andral's bones for him. On day one he quietly feeds [Arabelle](arabelle.md), hidden in a coffin in his house, while [Anastrasya](strahds-brides.md#anastrasya-karelova) sets traps there (vampire spawn and zombies; possibly a teleportation circle to move the bones out).
 
@@ -30,6 +31,7 @@ nav_order: 41
 
 **Mentioned in:**
 
+- [Session 12 - The Stolen Bones](../sessions/s12.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Milivoj](milivoj.md)
 - [Strahd's Brides](strahds-brides.md)

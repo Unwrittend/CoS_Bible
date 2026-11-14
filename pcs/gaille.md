@@ -41,6 +41,7 @@ nav_order: 5
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
 - [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
+- [Session 12 - The Stolen Bones](../sessions/s12.md)
 - [Cassandra Priam](cassandra-priam.md)
 - [Gen](../npcs/gen.md)
 - [Ireena Kolyana](../npcs/ireena-kolyana.md)

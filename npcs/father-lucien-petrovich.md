@@ -4,7 +4,7 @@ name: "Father Lucien Petrovich"
 aliases: ["Lucien", "Lucian"]
 type: "npc"
 status: "mixed"
-last-session: 11.5
+last-session: 12
 parent: "NPCs"
 nav_order: 32
 ---
@@ -28,6 +28,8 @@ nav_order: 32
 
 **Current narrative status:** **[Session 11.5](../sessions/s11-5.md) (canonical):** first seen, not yet spoken to. On the full-moon night he led a packed congregation at St. Andral's in prayer from the lectern, "with authority but kindness," wearing the Morninglord's sun symbol, and is to pray all night. [Reyna](../pcs/reyna.md) is to speak with him in the morning.
 
+**[Session 12](../sessions/s12.md) (canonical):** spoke with the party at length. Through the conversation they learned that [Yeska](yeska.md)'s spoken prayer had let [Milivoj](milivoj.md) overhear where St. Andral's bones were, and that the bones had been stolen. *(The session wasn't recorded, so which of the ideation talking points below he actually used isn't logged.)*
+
   
 
 **[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** Lucien **supports [Vargas](baron-vargas-volokovich.md)**. He is disappointed in him but thinks him well-meaning: as Lucien understands it, Vargas walks a tightrope where any risk could harm his people, so he is single-mindedly devoted to Vallakians, at the Barovians' expense. Lucien keeps helping the refugees in small ways as a spiritual leader, and Vargas gives him that leeway because he believes festivals alone can't protect Vallaki without the church. They need each other politically: the church is a political conduit, and Lucien's soft power (the ear of the people) depends on not opposing Vargas.
@@ -42,10 +44,10 @@ nav_order: 32
 **Mentioned in:**
 
 - [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
+- [Session 12 - The Stolen Bones](../sessions/s12.md)
 - [Lyasra](../pcs/lyasra.md)
 - [Reyna](../pcs/reyna.md)
 - [Baron Vargas Volokovich](baron-vargas-volokovich.md)
-- [Milivoj](milivoj.md)
 - [Yeska](yeska.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)

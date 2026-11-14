@@ -4,7 +4,7 @@ name: "Yeska"
 aliases: []
 type: "npc"
 status: "canon"
-last-session: 11.5
+last-session: 12
 parent: "NPCs"
 nav_order: 46
 ---
@@ -22,6 +22,8 @@ nav_order: 46
 
 **Current narrative status (canonical):** Met in [Session 11.5](../sessions/s11-5.md). Served wine to the congregation, took [Gen](gen.md) to sleep with the other children in the centre pews ("closest to the saint"), seated [Reyna](../pcs/reyna.md) near the front, and promised to wake the party when Father Lucien finishes praying in the morning.
 
+**[Session 12](../sessions/s12.md) (canonical):** He had spoken a prayer aloud that revealed where St. Andral's bones were kept; [Milivoj](milivoj.md) overheard it and stole them. The party learned this.
+
 <!-- backlinks:start -->
 
 ---
@@ -29,11 +31,16 @@ nav_order: 46
 **Mentioned in:**
 
 - [Session 11.5 - Welcome to Vallaki](../sessions/s11-5.md)
+- [Session 12 - The Stolen Bones](../sessions/s12.md)
 - [Lyasra](../pcs/lyasra.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Gen](gen.md)
+- [Milivoj](milivoj.md)
 - [Session 10 prep (partly played)](../archive/s10-prep.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
+- [Session 12 prep — Vallaki, day one](../prep/s12-vallaki.md)
 - [Changelog](../changelog.md)
+- [Current state](../current-state.md)
+- [Open questions](../open-questions.md)
 
 <!-- backlinks:end -->

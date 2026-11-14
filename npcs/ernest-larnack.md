@@ -41,6 +41,5 @@ nav_order: 25
 - [Vallaki's noble houses](../lore/vallaki-houses.md)
 - [Session 11 prep — Vallaki](../prep/s11-vallaki.md)
 - [Changelog](../changelog.md)
-- [Current state](../current-state.md)
 
 <!-- backlinks:end -->

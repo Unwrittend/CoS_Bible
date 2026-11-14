@@ -29,7 +29,7 @@ nav_order: 31
 
   
 
-**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** The theme of Session 12 is setting up Vargas and his faction and **showing the good in him**. Per [Father Lucien](father-lucien-petrovich.md), he is single-mindedly devoted to Vallakians and won't take a single risk that could harm them, which is why the Barovians are shut out. He needs Lucien's support, believing festivals alone can't protect the town. On day one he parades through Vallaki announcing the Festival of the Blazing Sun (three days off): decorations everywhere, a marching band, an unsettlingly cheerful smile. He never goes anywhere without [Izek](izek-strazani.md) and elite guards. Rejected: having him bear-hug the players.
+**[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** The theme of [Session 12](../sessions/s12.md) is setting up Vargas and his faction and **showing the good in him**. Per [Father Lucien](father-lucien-petrovich.md), he is single-mindedly devoted to Vallakians and won't take a single risk that could harm them, which is why the Barovians are shut out. He needs Lucien's support, believing festivals alone can't protect the town. On day one he parades through Vallaki announcing the Festival of the Blazing Sun (three days off): decorations everywhere, a marching band, an unsettlingly cheerful smile. He never goes anywhere without [Izek](izek-strazani.md) and elite guards. Rejected: having him bear-hug the players.
 
 <!-- backlinks:start -->
 

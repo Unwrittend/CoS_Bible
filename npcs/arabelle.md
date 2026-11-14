@@ -3,7 +3,7 @@ title: "Arabelle"
 name: "Arabelle"
 type: "npc"
 status: "canon"
-last-session: 10
+last-session: 12
 parent: "NPCs"
 nav_order: 38
 ---
@@ -14,7 +14,7 @@ nav_order: 38
 
 **Role:** [Luvash](luvash.md)'s seven-year-old daughter
 
-**Current narrative status (canonical):** **Missing in Vallaki** since about 9 a.m. on her 7th birthday ([Session 10](../sessions/s10.md)), lost in the marketplace on the way to Blinsky's toy shop for a birthday doll. Madam Eva had asked the party to bring her a birthday letter and money ([Theren](../pcs/theren.md) carries the letter) and to buy her a doll. Who took her, and where she is now, is open ([Arabelle (undecided)](../archive/s10-prep.md#arabelle-undecided)).
+**Current narrative status (canonical):** **Missing in Vallaki** since about 9 a.m. on her 7th birthday ([Session 10](../sessions/s10.md)), lost in the marketplace on the way to Blinsky's toy shop for a birthday doll. Madam Eva had asked the party to bring her a birthday letter and money ([Theren](../pcs/theren.md) carries the letter) and to buy her a doll. Who took her, and where she is now, is open ([Arabelle (undecided)](../archive/s10-prep.md#arabelle-undecided)). Still missing as of [Session 12](../sessions/s12.md); the party doesn't know where she is.
 
 <!-- backlinks:start -->
 
@@ -24,6 +24,7 @@ nav_order: 38
 
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Session 11 - The Full Moon, the Wormy Refugees & Through the Gate](../sessions/s11.md)
+- [Session 12 - The Stolen Bones](../sessions/s12.md)
 - [Gaille](../pcs/gaille.md)
 - [Alexei](alexei.md)
 - [Henrik van der Voort](henrik-van-der-voort.md)

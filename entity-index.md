@@ -14,7 +14,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 
 | Name | Aliases | File | Status | Last session |
 | --- | --- | --- | --- | --- |
-| Cassandra Priam |  | [pcs/cassandra-priam.md](pcs/cassandra-priam.md) | canon | 11.5 |
+| Cassandra Priam |  | [pcs/cassandra-priam.md](pcs/cassandra-priam.md) | canon | 12 |
 | Gaille |  | [pcs/gaille.md](pcs/gaille.md) | canon | 11 |
 | Jacob |  | [pcs/jacob.md](pcs/jacob.md) | canon |  |
 | Lyasra |  | [pcs/lyasra.md](pcs/lyasra.md) | canon | 11.5 |
@@ -27,7 +27,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | --- | --- | --- | --- | --- |
 | Alexei |  | [npcs/alexei.md](npcs/alexei.md) | canon | 10 |
 | Amogano |  | [npcs/amogano.md](npcs/amogano.md) | canon |  |
-| Arabelle |  | [npcs/arabelle.md](npcs/arabelle.md) | canon | 10 |
+| Arabelle |  | [npcs/arabelle.md](npcs/arabelle.md) | canon | 12 |
 | Argonvost |  | [npcs/argonvost.md](npcs/argonvost.md) | canon | 9 |
 | Arrigal |  | [npcs/arrigal.md](npcs/arrigal.md) | canon | 10 |
 | Arturi |  | [npcs/arturi.md](npcs/arturi.md) | canon | 9 |
@@ -39,10 +39,10 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Emeric | Emmerich | [npcs/emeric.md](npcs/emeric.md) | canon | 11.5 |
 | Ernest Larnack | Ernst, Ernst Larnack | [npcs/ernest-larnack.md](npcs/ernest-larnack.md) | mixed |  |
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
-| Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 11.5 |
+| Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 12 |
 | Gen | Generator, Jen | [npcs/gen.md](npcs/gen.md) | canon | 11.5 |
 | Gertruda Stiegler |  | [npcs/gertruda-stiegler.md](npcs/gertruda-stiegler.md) | mixed | 2 |
-| Henrik van der Voort | Henrik, the coffin maker | [npcs/henrik-van-der-voort.md](npcs/henrik-van-der-voort.md) | mixed |  |
+| Henrik van der Voort | Henrik, the coffin maker | [npcs/henrik-van-der-voort.md](npcs/henrik-van-der-voort.md) | mixed | 12 |
 | Ireena Kolyana | Irena, Ireena, Irena Kolyana, Kolyan's daughter, Tatiana | [npcs/ireena-kolyana.md](npcs/ireena-kolyana.md) | mixed | 11.5 |
 | Ismark the Great | Ismark the Great | [npcs/ismark-the-great.md](npcs/ismark-the-great.md) | canon |  |
 | Isaac "Izek" Strazani | Isaac, Izek | [npcs/izek-strazani.md](npcs/izek-strazani.md) | mixed | 11 |
@@ -54,8 +54,8 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Mad Mary | Mary | [npcs/mad-mary.md](npcs/mad-mary.md) | canon | 1 |
 | Madam Eva | Eva | [npcs/madam-eva.md](npcs/madam-eva.md) | mixed |  |
 | Magda | Megna | [npcs/magda.md](npcs/magda.md) | canon | 11.5 |
-| Milivoj | Dobri, Dobrijov | [npcs/milivoj.md](npcs/milivoj.md) | idea |  |
-| Morgantha |  | [npcs/morgantha.md](npcs/morgantha.md) | mixed | 11 |
+| Milivoj | Dobri, Dobrijov | [npcs/milivoj.md](npcs/milivoj.md) | mixed | 12 |
+| Morgantha |  | [npcs/morgantha.md](npcs/morgantha.md) | mixed | 12 |
 | Ninthalor |  | [npcs/ninthalor.md](npcs/ninthalor.md) | canon |  |
 | Petrina Velikanova |  | [npcs/petrina-velikanova.md](npcs/petrina-velikanova.md) | canon |  |
 | Rahadin |  | [npcs/rahadin.md](npcs/rahadin.md) | mixed | 5 |
@@ -68,9 +68,9 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | The Martikov Family | Martikovs, Mordakov, Mardikov, Urwin, Danika | [npcs/the-martikov-family.md](npcs/the-martikov-family.md) | mixed |  |
 | Victor Volokovich | Victor, Victor Vallakovich | [npcs/victor-volokovich.md](npcs/victor-volokovich.md) | mixed |  |
 | Violet Larkwing |  | [npcs/violet-larkwing.md](npcs/violet-larkwing.md) | canon |  |
-| Von Richten | Rudolph van Richten, Rictavio, Alenik, Alanik, Van Richten | [npcs/von-richten.md](npcs/von-richten.md) | mixed | 4 |
+| Von Richten | Rudolph van Richten, Rictavio, Alenik, Alanik, Van Richten | [npcs/von-richten.md](npcs/von-richten.md) | mixed | 12 |
 | The Woodcutter's Bride (Ludmilla) | Ludmilla Vilisevic, The Woodcutter's Bride | [npcs/woodcutters-bride.md](npcs/woodcutters-bride.md) | mixed | 10 |
-| Yeska |  | [npcs/yeska.md](npcs/yeska.md) | canon | 11.5 |
+| Yeska |  | [npcs/yeska.md](npcs/yeska.md) | canon | 12 |
 
 ## Items
 
@@ -106,6 +106,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki |  | [sessions/s10.md](sessions/s10.md) | canon | 10 |
 | Session 11 - The Full Moon, the Wormy Refugees & Through the Gate |  | [sessions/s11.md](sessions/s11.md) | canon | 11 |
 | Session 11.5 - Welcome to Vallaki |  | [sessions/s11-5.md](sessions/s11-5.md) | canon | 11.5 |
+| Session 12 - The Stolen Bones |  | [sessions/s12.md](sessions/s12.md) | canon | 12 |
 
 ## Lore
 
@@ -132,7 +133,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | About this bible |  | [about.md](about.md) |  |  |
 | Changelog |  | [changelog.md](changelog.md) |  |  |
 | Conventions & canonicity rules |  | [conventions.md](conventions.md) |  |  |
-| Current state |  | [current-state.md](current-state.md) | canon | 11 |
+| Current state |  | [current-state.md](current-state.md) | canon | 12 |
 | Open questions |  | [open-questions.md](open-questions.md) | idea |  |
 | Technical reference |  | [tech.md](tech.md) |  |  |
 | Prompt templates |  | [templates.md](templates.md) |  |  |
