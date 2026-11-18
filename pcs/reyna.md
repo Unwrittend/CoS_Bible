@@ -48,6 +48,7 @@ nav_order: 6
 - [Elaine Groze](../npcs/elaine-groze.md)
 - [Eliza](../npcs/eliza.md)
 - [Emeric](../npcs/emeric.md)
+- [Escher Targolovich](../npcs/escher.md)
 - [Father Lucien Petrovich](../npcs/father-lucien-petrovich.md)
 - [Gen](../npcs/gen.md)
 - [Ireena Kolyana](../npcs/ireena-kolyana.md)

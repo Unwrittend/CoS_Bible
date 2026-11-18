@@ -60,7 +60,7 @@ Each Fane has a **primordial beast** — a great, ancient creature bound to her 
 **This is the "action [Strahd](../npcs/strahd-von-zarovich.md) is taking" the GMs had been missing.**
 
   - **Goal:** obtain the [Heart of Darkness](../items.md#the-heart-of-darkness). Strahd can't enter running water, and the worm is too dangerous to fight awake, so he is **poisoning it to death slowly** and making the lake uninhabitable for it.
-  - **Who runs it:** **[Ludmilla](../npcs/strahds-brides.md#ludmilla-vilisevic)** (Strahd's first/eldest bride, Ludmilla Vilisevic — see [her entry](../npcs/strahds-brides.md#ludmilla-vilisevic); canonically the vampire the party drove off in [Session 9](../sessions/s09.md)) has made this her sole long-term task **since [Lugdana](../npcs/lugdana.md)'s era** (Strahd saw that the Heart might be an alternative power source after that defeat). While everyone watches Strahd, no one watches what Ludmilla is doing. The idea of starting this as far back as [Saint Markovia](../npcs/saint-markovia.md)'s era was considered and dropped in favor of Lugdana's era. Escher was ruled out as too recent.
+  - **Who runs it:** **[Ludmilla](../npcs/strahds-brides.md#ludmilla-vilisevic)** (Strahd's first/eldest bride, Ludmilla Vilisevic — see [her entry](../npcs/strahds-brides.md#ludmilla-vilisevic); canonically the vampire the party drove off in [Session 9](../sessions/s09.md)) has made this her sole long-term task **since [Lugdana](../npcs/lugdana.md)'s era** (Strahd saw that the Heart might be an alternative power source after that defeat). While everyone watches Strahd, no one watches what Ludmilla is doing. The idea of starting this as far back as [Saint Markovia](../npcs/saint-markovia.md)'s era was considered and dropped in favor of Lugdana's era. [Escher](../npcs/escher.md) was ruled out as too recent.
   - **The poison** (working name "Luminos poison," as transcribed) is crafted **with [Baba Lysaga](../npcs/baba-lysaga.md)'s help**, and possibly with **[Morgantha](../npcs/morgantha.md)** involved. It is magical in nature: acidic and cell-destroying, eating at the worm's exoskeleton (Michelle's image: a cell membrane breaking down, or poisoned condors). It also has a **sedative** quality that keeps the worm from waking while it dies slowly, so Strahd risks less.
       - **Ingredient:** **cat-o'-nine-tails** (cattails), the sedative component, native to the area around Mount Gakis. Morgantha was already shown collecting it in play.
       - **Morgantha's dream pastries are a heavily weakened, non-lethal version of this same poison** — the sedative in a dose that doesn't kill. This gives the players a way to connect the pastries to the larger scheme.
@@ -85,7 +85,7 @@ Each Fane has a **primordial beast** — a great, ancient creature bound to her 
   - **Saint Andral's bones (current version):** the bones keep the ground inside Vallaki consecrated. Floated: **that consecration is what keeps the poison out of Vallaki's wells** — so stealing the bones would expose the town. **Anastrasia's bones heist is her own initiative** to ingratiate herself with Strahd. He simply allows it ("I'd love to be able to go into Vallaki, so go ahead"). She **doesn't know the grand plan**.
   - **[Ludmilla](../npcs/strahds-brides.md#ludmilla-vilisevic) vs. Anastrasia:** Ludmilla dislikes Anastrasia's indiscreet methods, which risk getting in the way of the real mission. She still recognizes their value as a distraction providing cover for it. This is the brides' built-in friction.
   - **[Volenta Popofsky](../npcs/strahds-brides.md#volenta-popofsky)** (transcribed "Violetta"; confirmed 2026-09-24 to be the same character) is "the berserker." Where she fits is still undecided.
-  - **Escher** attaches himself to Volenta wherever he can, believing he can manipulate her and trying to make himself useful.
+  - **[Escher](../npcs/escher.md)** attaches himself to Volenta wherever he can, believing he can manipulate her and trying to make himself useful.
 
 ## Vallaki's Factions (current working model)
 
@@ -192,7 +192,7 @@ The GMs deliberately didn't commit to where Arabelle is. Michelle's point: decid
       - **or** it's one of the forest druids, infected and convinced the Fanes/"sisters" are lonely and that this is as natural as breathing — which would be the players' first introduction to the "weird druids."
       - **Donavich was rejected** as the abductor: the parasite couldn't have taken hold that fast.
   - **With the Vistani camp**, to avoid adding more threads.
-  - **DragnaCarta options:** Escher searching for her as a sacrifice to the mists; or she's rescued by [Von Richten](../npcs/von-richten.md) and kept in his carnival wagon with the tiger.
+  - **DragnaCarta options:** [Escher](../npcs/escher.md) searching for her as a sacrifice to the mists; or she's rescued by [Von Richten](../npcs/von-richten.md) and kept in his carnival wagon with the tiger.
 
 ## Strahd's Own Tarokka Reading (ideation draft, not canon)
 

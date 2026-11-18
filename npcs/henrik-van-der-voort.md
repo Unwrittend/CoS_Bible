@@ -25,6 +25,8 @@ nav_order: 41
 
 **[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** On night one [Milivoj](milivoj.md) steals St. Andral's bones for him. On day one he quietly feeds [Arabelle](arabelle.md), hidden in a coffin in his house, while [Anastrasya](strahds-brides.md#anastrasya-karelova) sets traps there (vampire spawn and zombies; possibly a teleportation circle to move the bones out).
 
+**[IDEA — NONCANONICAL] 2026-11-17 ideation:** the vampire in his house is [Escher](escher.md), not Anastrasya. Anastrasya orchestrates the bones plot; Escher executes it on the ground, setting the traps and moving the bones out.
+
 <!-- backlinks:start -->
 
 ---
@@ -32,6 +34,7 @@ nav_order: 41
 **Mentioned in:**
 
 - [Session 12 - The Stolen Bones](../sessions/s12.md)
+- [Escher Targolovich](escher.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Milivoj](milivoj.md)
 - [Strahd's Brides](strahds-brides.md)

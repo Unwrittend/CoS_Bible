@@ -11,7 +11,7 @@ nav_order: 39
 
 ### Strahd's Brides — Ludmilla Vilisevic, Anastrasya Karelova, Volenta Popofsky (GM ideation; Ludmilla partly canonical via Session 9)
 
-**[IDEA — NONCANONICAL]** Source: the fan-made guide *"The Brides, Escher, and [Rahadin](rahadin.md)"* (r/CurseofStrahd community homebrew; the guide's own author notes it is "next to none... actual canon lore" and that in RAW Curse of [Strahd](strahd-von-zarovich.md) the brides have no fleshed-out characterization and are simply locked in the crypts). Used here purely as inspiration and adapted/trimmed for this campaign. [Anastrasya](#anastrasya-karelova) and [Volenta](#volenta-popofsky) have not been introduced to the party; [Ludmilla](#ludmilla-vilisevic) has ([Session 9](../sessions/s09.md), unnamed — see below).
+**[IDEA — NONCANONICAL]** Source: the fan-made guide *"The Brides, [Escher](escher.md), and [Rahadin](rahadin.md)"* (r/CurseofStrahd community homebrew; the guide's own author notes it is "next to none... actual canon lore" and that in RAW Curse of [Strahd](strahd-von-zarovich.md) the brides have no fleshed-out characterization and are simply locked in the crypts). Used here purely as inspiration and adapted/trimmed for this campaign. [Anastrasya](#anastrasya-karelova) and [Volenta](#volenta-popofsky) have not been introduced to the party; [Ludmilla](#ludmilla-vilisevic) has ([Session 9](../sessions/s09.md), unnamed — see below).
 
 **Naming RESOLVED (canonical, confirmed 2026-09-24):** the vampire the party fought in Session 9 — filed below as "The [Woodcutter's Bride](woodcutters-bride.md)" — **was Ludmilla Vilisevic**. She was **not destroyed**: on dropping to 0 HP, an **emergency dimensional portal** pulled her back to Castle Ravenloft. The "sky splitting open" / "nothing remains" the party saw was that portal. *(What changed: the earlier open flag asked whether the two Ludmillas were the same person or separate; they are the same. Her name has still not been spoken to the party, and the party believes they killed her.)* Her fan-guide profile below remains ideation, except where it overlaps with what happened in play.
 
@@ -29,7 +29,7 @@ nav_order: 39
   - Strahd has given her partial Amber Temple knowledge but forbidden her from investigating it further herself — she still quietly wants to.
   - Goals: keep Strahd's favor permanently (her deepest fear is being set aside and eventually locked away in the crypts once she's no longer useful); track down Barovia's scattered Fey/Amber gems before Strahd learns she's fallen behind; stay the most useful/knowledgeable consort to keep the others from undercutting her; and, longer-term, cultivate a suitable "next bride" so she can eventually step back from active duty without being discarded.
   - Publicly poses in Vallaki as a noblewoman under a cover identity, recruiting adventuring parties toward goals that serve her (investigating werewolves, exposing a spy Burgomaster, dealing with [Izek](izek-strazani.md)'s cruelty) without revealing that she — or any of the brides — are vampires. Keeps her own and the other brides' identities hidden from any party she's using, up until Strahd's court formally "unveils" them.
-  - Relationships: genuinely values [Rahadin](rahadin.md) as her closest confidant in the court (unlike her performative regard for almost everyone else) and would hunt down anyone responsible if he were harmed; personally recruited and now manages [Anastrasya](#anastrasya-karelova), treating her as a useful but replaceable underling; sees [Volenta](#volenta-popofsky) as a dangerously immature child she keeps on a short leash; has open contempt for Escher, Strahd's newest and least-tested consort.
+  - Relationships: genuinely values [Rahadin](rahadin.md) as her closest confidant in the court (unlike her performative regard for almost everyone else) and would hunt down anyone responsible if he were harmed; personally recruited and now manages [Anastrasya](#anastrasya-karelova), treating her as a useful but replaceable underling; sees [Volenta](#volenta-popofsky) as a dangerously immature child she keeps on a short leash; has open contempt for [Escher](escher.md), Strahd's newest and least-tested consort.
 
 **Appearance in play (canonical, [Session 9](../sessions/s09.md)):** a wealthy, dark-skinned noblewoman with parasol, lace, and fine robes. She directed a castle-scale undead lumber operation with at least one wizard ally, fought airborne over the Tser Falls canyon, and used a choking/suffocation mist attack. See the [Woodcutter's Bride](woodcutters-bride.md) entry below for full play details.
 
@@ -55,6 +55,8 @@ nav_order: 39
 **Current narrative status:** [IDEA — NONCANONICAL] Not yet introduced to the party.
 
 **[IDEA — NONCANONICAL] 2026-10-27 ideation ([Session 12 prep](../prep/s12-vallaki.md)):** Anastrasya was present to see [Reyna](../pcs/reyna.md)'s attack at the Blue Water Inn. After [Milivoj](milivoj.md) steals the bones on night one, she plans how to get them out of the city (she can't touch them herself) and sets traps in [Henrik](henrik-van-der-voort.md)'s house: vampire spawn and zombies, and possibly a teleportation circle for the bones. The hallowing fades with distance; she needs a day or two. Day 2 the bones leave the church, day 3 they're gone and Strahd attacks during the Festival.
+
+**REVISION (2026-11-17; the new version is preferred):** [Escher](escher.md), not Anastrasya, was at the Blue Water Inn to see Reyna's attack (GM-confirmed). **[IDEA — NONCANONICAL]** Anastrasya is the orchestrator of the bones plot; Escher is the executor on the ground, so the traps in Henrik's house and moving the bones out are his job, not hers. What Anastrasya herself is doing now is left open for later ideation.
 
 #### Volenta Popofsky
 
@@ -83,6 +85,7 @@ nav_order: 39
 - [Session 10 - Pies, a Stolen Diary & the Vistani of Vallaki](../sessions/s10.md)
 - [Baba Lysaga](baba-lysaga.md)
 - [Elaine Groze](elaine-groze.md)
+- [Escher Targolovich](escher.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Henrik van der Voort](henrik-van-der-voort.md)
 - [Ireena Kolyana](ireena-kolyana.md)

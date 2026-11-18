@@ -10,13 +10,15 @@ nav_order: 1
 
 **[IDEA — NONCANONICAL] Everything on this page is GM ideation, not actual play.** Source: *Curse of [Strahd](../npcs/strahd-von-zarovich.md) session ideation — Church, guards, and secrets* (Chris and Michelle, 2026-10-27). The transcript renders [Milivoj](../npcs/milivoj.md) as "Milajov/Miljov," [Dobri](../npcs/milivoj.md#dobri) (short for Dobrijov, GM-confirmed 2026-10-27) as "Dopry/Dokree," [Rictavio](../npcs/von-richten.md) as "Rottavio/Rattavia," [Urwin](../npcs/the-martikov-family.md) Martikov as "Uriel," the Martikovs as "Mardikovs," [Lugdana](../npcs/lugdana.md) as "Longdonna," Blinsky as "Splinsky," [Reyna](../pcs/reyna.md) as "Raina/Reina," and [Ireena](../npcs/ireena-kolyana.md) as "Irena/Irina"; this page uses the bible's spellings. This builds on the [Session 11 prep](s11-vallaki.md) faction list and three-day table, which still stand except where noted.
 
+**REVISION (2026-11-17 ideation, preferred):** wherever this page has [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) at the coffin maker's house (setting traps, moving the bones), read **[Escher](../npcs/escher.md)**. Anastrasya is the orchestrator of the bones plot; Escher is the executor on the ground. What Anastrasya herself is doing now is left open. The original text below is kept for history.
+
 **Theme the GMs settled on:** set up [Vargas](../npcs/baron-vargas-volokovich.md) and his faction, and show the good in him; seed the other factions where there's room.
 
 ## Where things stand (from the unlogged Discord night RP)
 
 **Played in [Session 11.5](../sessions/s11-5.md) (canonical):** [Reyna](../pcs/reyna.md) knocked out a guard outside the Blue Water Inn, broke down the inn's door and was shot in the face by a clown ([Rictavio](../npcs/von-richten.md)), losing an eye. The party then took refuge at **St. Andral's Church** in front of a packed congregation, where Reyna's Divine Sense felt the hallowing flicker out for a moment. [Cassandra](../pcs/cassandra-priam.md) is disguised as [Ireena](../npcs/ireena-kolyana.md); the real Ireena is invisible in the stockyard with [Magda](../npcs/magda.md) and [Emeric](../npcs/emeric.md). *(This replaces the GMs' summary in the ideation, which had Rictavio kill the guard in front of the inn; in play, the party left the guard unconscious.)*
 
-**Not played, but true** (the party failed the Perception check): **the [Watcher](../npcs/lady-fiona-watcher.md) faction's spy and [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) were both present** to see Reyna's attack at the Blue Water.
+**Not played, but true** (the party failed the Perception check): **the [Watcher](../npcs/lady-fiona-watcher.md) faction's spy and [Escher](../npcs/escher.md) were both present** to see Reyna's attack at the Blue Water. *(REVISION, GM-confirmed 2026-11-17: this was [Anastrasya](../npcs/strahds-brides.md#anastrasya-karelova) in the original ideation; it was Escher.)*
 
 ## Night one (what happened while the party slept)
 
@@ -80,6 +82,7 @@ nav_order: 1
 **Mentioned in:**
 
 - [Baron Vargas Volokovich](../npcs/baron-vargas-volokovich.md)
+- [Escher Targolovich](../npcs/escher.md)
 - [Father Lucien Petrovich](../npcs/father-lucien-petrovich.md)
 - [Henrik van der Voort](../npcs/henrik-van-der-voort.md)
 - [Ireena Kolyana](../npcs/ireena-kolyana.md)

@@ -34,9 +34,10 @@ nav_order: 2
 - The refugee children were taken by **werewolves** to the werewolf den.
 - The guard [Reyna](pcs/reyna.md) knocked out was [Milivoj](npcs/milivoj.md)'s brother [Dobri](npcs/milivoj.md#dobri). **He is dead, killed by [Von Richten](npcs/von-richten.md)** (GM-confirmed 2026-11-14); the method is deliberately left open.
 - [Belinda](items.md#belinda)'s "right place" is her sister [Gertruda](npcs/gertruda-stiegler.md), who is in hiding with [Von Richten](npcs/von-richten.md) as a carnival troupe (GM-confirmed 2026-10-21).
+- [Escher](npcs/escher.md), [Strahd](npcs/strahd-von-zarovich.md)'s newest consort, was the one watching [Reyna](pcs/reyna.md)'s attack at the Blue Water Inn (GM-confirmed 2026-11-17; the prep had said [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)).
 - [Eliza](npcs/eliza.md) is [Strahd](npcs/strahd-von-zarovich.md)'s spy and went to Castle Ravenloft.
 - [Ludmilla Vilisevic](npcs/strahds-brides.md#ludmilla-vilisevic) survived [Session 9](sessions/s09.md): a portal pulled her back to the castle. The party believes she is dead.
-- **Still [IDEA — NONCANONICAL]** from the [Session 12 prep](prep/s12-vallaki.md): [Izek](npcs/izek-strazani.md) holding the gate and leaving the refugees to die; Von Richten's alliance with the [Martikovs](npcs/the-martikov-family.md); [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)'s plan to move the bones out (day 2) before they are gone on day 3, when Strahd attacks the Festival; [Vargas](npcs/baron-vargas-volokovich.md)'s festival parade.
+- **Still [IDEA — NONCANONICAL]** from the [Session 12 prep](prep/s12-vallaki.md): [Izek](npcs/izek-strazani.md) holding the gate and leaving the refugees to die; Von Richten's alliance with the [Martikovs](npcs/the-martikov-family.md); the plan to move the bones out (day 2; orchestrated by [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova), executed on the ground by [Escher](npcs/escher.md) from Henrik's house, per 2026-11-17 ideation) before they are gone on day 3, when Strahd attacks the Festival; [Vargas](npcs/baron-vargas-volokovich.md)'s festival parade.
 
 ## Where to look next
 

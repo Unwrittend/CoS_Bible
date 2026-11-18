@@ -82,6 +82,7 @@ nav_order: 11
 - [Baba Lysaga](baba-lysaga.md)
 - [Baron Vargas Volokovich](baron-vargas-volokovich.md)
 - [Eliza](eliza.md)
+- [Escher Targolovich](escher.md)
 - [Esmeralda D'Avenir](esmeralda-davenir.md)
 - [Father Lucien Petrovich](father-lucien-petrovich.md)
 - [Ireena Kolyana](ireena-kolyana.md)

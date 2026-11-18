@@ -38,6 +38,7 @@ Status: **canon** = confirmed in play; **idea** = GM ideation, `[IDEA — NONCAN
 | Eliza |  | [npcs/eliza.md](npcs/eliza.md) | canon | 10 |
 | Emeric | Emmerich | [npcs/emeric.md](npcs/emeric.md) | canon | 11.5 |
 | Ernest Larnack | Ernst, Ernst Larnack | [npcs/ernest-larnack.md](npcs/ernest-larnack.md) | mixed |  |
+| Escher Targolovich | Escher | [npcs/escher.md](npcs/escher.md) | idea |  |
 | Esmeralda D'Avenir | Esmeralda | [npcs/esmeralda-davenir.md](npcs/esmeralda-davenir.md) | canon |  |
 | Father Lucien Petrovich | Lucien, Lucian | [npcs/father-lucien-petrovich.md](npcs/father-lucien-petrovich.md) | mixed | 12 |
 | Gen | Generator, Jen | [npcs/gen.md](npcs/gen.md) | canon | 11.5 |

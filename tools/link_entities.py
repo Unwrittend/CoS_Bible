@@ -81,6 +81,7 @@ TERMS = {
     "npcs/milivoj.md#dobri": ["Dobrijov", "Dobri"],
     "npcs/ireena-kolyana.md": ["Ireena Kolyana", "Ireena", "Irena"],
     "npcs/strahds-brides.md": ["Strahd's Brides", "Strahd's brides"],
+    "npcs/escher.md": ["Escher Targolovich", "Escher"],
     "npcs/strahds-brides.md#ludmilla-vilisevic": ["Ludmilla Vilisevic", "Ludmilla"],
     "npcs/strahds-brides.md#anastrasya-karelova": ["Anastrasya Karelova", "Anastrasya", "Anastrasia"],
     "npcs/strahds-brides.md#volenta-popofsky": ["Volenta Popofsky", "Volenta", "Violetta"],

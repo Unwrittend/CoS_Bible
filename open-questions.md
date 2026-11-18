@@ -36,7 +36,7 @@ nav_order: 4
   - **(Added 2026-09-24)** Is the Heart of Darkness inside the Winter Worm or guarded by it? One stone, or several that scatter when it breaks? Does it carry the Dark Powers' corruption?
   - **(Added 2026-09-24)** The Summer Fane's primordial beast — Gulthias Tree, something wolf-related, or other?
   - **(Added 2026-09-24)** Strahd's own Tarokka reading (ideation draft in [Strahd's Own Tarokka Reading (ideation draft, not canon)](archive/s10-prep.md#strahds-own-tarokka-reading-ideation-draft-not-canon)) — what does it finally say, now that the "raven-haired sacrifice" reading is rejected?
-  - **(Added 2026-09-24)** Where [Volenta](npcs/strahds-brides.md#volenta-popofsky) fits ("the berserker"), and how Escher's attachment to her plays out.
+  - **(Added 2026-09-24)** Where [Volenta](npcs/strahds-brides.md#volenta-popofsky) fits ("the berserker"), and how [Escher](npcs/escher.md)'s attachment to her plays out.
   - Whether the party will actually pursue the Heart-of-Darkness/leave-Barovia bargain, and how Madam Eva's opposition manifests if they do. *(2026-09-19: Strahd's pitch drafted as a Rahadin-led task force with a magical contract — [Strahd's Offer to the Party, the Bones of Saint Andral & the Brides](archive/s10-prep.md#strahds-offer-to-the-party-the-bones-of-saint-andral--the-brides).)*
 
   
@@ -58,7 +58,7 @@ nav_order: 4
   - **(Added 2026-09-24)** Does Baba Lysaga have covens/agents, and did Lady Watcher learn her occultism from one?
   - ~~**(Added 2026-09-24)** [Arabelle](npcs/arabelle.md) — what is she *for*, and therefore where is she?~~ **RESOLVED 2026-10-14 (GM-confirmed):** she went missing in the Vallaki marketplace on her 7th birthday ([Session 10](sessions/s10.md)) and is trapped in the coffin maker [Henrik van der Voort](npcs/henrik-van-der-voort.md)'s house. Her clairvoyance led her to the vampire spawn nest there; Henrik took her to keep his secret and is hiding her from the spawn. Not connected to [Eliza](npcs/eliza.md)'s disappearance.
   - **(Added 2026-10-14)** Arabelle's clairvoyance: a Vistani gift (shared with [Madam Eva](npcs/madam-eva.md)?), and did it pull her to the den or did she follow a vision? Could it reach the party (a dream, [Cassandra](pcs/cassandra-priam.md)'s cards) as a way to find her?
-  - **(Added 2026-10-14)** Why does Henrik host the spawn (threatened, paid, protecting someone)? Who do they answer to — [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)? What clues lead the party to the shop, and what would make the spawn notice Arabelle (her scent, growing hunger, the bones arriving)?
+  - **(Added 2026-10-14)** Why does Henrik host the spawn (threatened, paid, protecting someone)? Who do they answer to — [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova)? *(2026-11-17 ideation: the vampire there is [Escher](npcs/escher.md), executing Anastrasya's plan.)* What clues lead the party to the shop, and what would make the spawn notice Arabelle (her scent, growing hunger, the bones arriving)?
   - ~~**(Added 2026-09-24)** The Vistani camp near Vallaki — encounter still unplanned.~~ **Played in Session 10.**
   - **(Added Session 10)** Why did Gaille's amber react to Kasimir? What does he want to discuss privately?
   - ~~**(Added Session 10)** Who took [Theren](pcs/theren.md)'s gold?~~ **Resolved (GM-confirmed):** the rest of the party, while he was with Eliza. Theren still doesn't know.
@@ -82,7 +82,8 @@ nav_order: 4
   - When does Rahadin's dive happen?
   - What are the day-by-day visible signs of the poisoning? What are the stages of the poison, as distinct from the parasite sickness (floated: rashes progressing to jaundice)?
   - The werewolf raid: does Kiril come himself or send a lieutenant? Is Emil rescuable from Castle Ravenloft? Is there an OC sympathetic to Emil?
-  - **(Added 2026-10-27, [Session 12 prep](prep/s12-vallaki.md))** How does Anastrasya move the bones out (teleportation circle or smuggling)? Is the RAW reconsecration ceremony used? Did Gertruda help hide [Dobri](npcs/milivoj.md#dobri)'s body? What does Urwin get from Von Richten beyond the druids lead? When does Eliza enter Vallaki?
+  - **(Added 2026-11-17)** What is [Anastrasya](npcs/strahds-brides.md#anastrasya-karelova) doing now, while [Escher](npcs/escher.md) runs the bones plot on the ground? Left open for later ideation.
+  - **(Added 2026-10-27, [Session 12 prep](prep/s12-vallaki.md))** How does Anastrasya move the bones out (teleportation circle or smuggling)? *(2026-11-17: Escher does the moving, on Anastrasya's orders; the method is still open.)* Is the RAW reconsecration ceremony used? Did Gertruda help hide [Dobri](npcs/milivoj.md#dobri)'s body? What does Urwin get from Von Richten beyond the druids lead? When does Eliza enter Vallaki?
   - What is [Dismas](npcs/dismas.md) doing? (Speculated: at the Watcher house.) Where do Blinsky and [Arturi](npcs/arturi.md) fit?
 
 **From Session 11 (added 2026-10-14):**
